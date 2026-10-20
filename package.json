@@ -1,0 +1,14 @@
+{
+  "name": "nayoung-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "build": "node build.mjs",
+    "start": "node server.mjs",
+    "test": "node --test project.test.mjs language.test.mjs",
+    "check": "npm run build && npm test"
+  },
+  "engines": { "node": "24.x" }
+}

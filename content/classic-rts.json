@@ -1,0 +1,341 @@
+{
+  "slug": "classic-rts",
+  "root": "221dac73-098e-8055-b80d-d62af7b4f047",
+  "blocks": {
+    "221dac73-098e-8039-b5c1-c6367bdcc351": {
+      "id": "221dac73-098e-8039-b5c1-c6367bdcc351",
+      "type": "callout",
+      "content": [
+        "221dac73-098e-80db-8d93-ef70627998b4"
+      ],
+      "format": {
+        "page_icon": "💡",
+        "block_color": "gray_background",
+        "callout_version": 2,
+        "copied_from_pointer": {
+          "id": "221dac73-098e-808a-9856-f91e6a2a9e30",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    },
+    "221dac73-098e-80cf-9f9f-ec60f844306b": {
+      "id": "221dac73-098e-80cf-9f9f-ec60f844306b",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "간단 게임 소개: ",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-80ad-a768-c982861b6c1b": {
+      "id": "221dac73-098e-80ad-a768-c982861b6c1b",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "MDA(메커닉–다이내믹–미학) 기반 플레이테스트를 통해 플레이어 피드백을 수집하고, 점수 개선을 위해 패치를 적용했습니다"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "221dac73-098e-800c-88ce-d9202cf0dd6f",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    },
+    "221dac73-098e-80d0-bbf3-f8af9a7788b9": {
+      "id": "221dac73-098e-80d0-bbf3-f8af9a7788b9",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "각 자원을 얼마나 효율적으로 활용할지 신중하게 고민하고 최적화해 보세요.\n예를 들어, 자원 생산을 늘리기 위해 더 많은 노동자를 고용하는 전략이 좋아 보일 수 있지만, 그 과정에서 식량을 과도하게 소비하면 전체 효율성이 떨어질 수 있습니다."
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-801a-9160-f4d9bb356ce1": {
+      "id": "221dac73-098e-801a-9160-f4d9bb356ce1",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "게임 설명"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "221dac73-098e-80bc-8c9a-ef4fd6ca730b",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    },
+    "221dac73-098e-80a5-8627-fc6fce1ed194": {
+      "id": "221dac73-098e-80a5-8627-fc6fce1ed194",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "UI 및 핵심 게임 플레이 시스템을 포함한 모든 게임 요소를 Unity C#으로 개발"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "221dac73-098e-805c-8047-ec979c22080a",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    },
+    "221dac73-098e-80b6-a168-f2fb55be46f0": {
+      "id": "221dac73-098e-80b6-a168-f2fb55be46f0",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "매력적이고 효과적인 경영 게임을 구현하기 위한 핵심 요소에 집중하여 게임 시스템을 기획 및 설계"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "221dac73-098e-8008-a047-c8e40acc8a03",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    },
+    "221dac73-098e-80b4-9283-d99887953f18": {
+      "id": "221dac73-098e-80b4-9283-d99887953f18",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "이 게임의 핵심은 그리드 기반 맵에서 자원을 수집하며 생존에 도전하는 것입니다."
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-80c1-a53a-ccd49d5b1bed": {
+      "id": "221dac73-098e-80c1-a53a-ccd49d5b1bed",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "제한된 자원을 바탕으로 비용 효율성을 관리하는 즐거움을 느껴보세요."
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-8055-b80d-d62af7b4f047": {
+      "id": "221dac73-098e-8055-b80d-d62af7b4f047",
+      "type": "page",
+      "properties": {
+        "RXZ@": [
+          [
+            "게임잼"
+          ]
+        ],
+        "title": [
+          [
+            "Classic RTS (클래식 RTS)"
+          ]
+        ]
+      },
+      "content": [
+        "221dac73-098e-8023-96d9-c1291f3918f7",
+        "221dac73-098e-807b-8adf-e3fac6b6df78",
+        "221dac73-098e-8039-b5c1-c6367bdcc351",
+        "221dac73-098e-80a5-8627-fc6fce1ed194",
+        "221dac73-098e-80b6-a168-f2fb55be46f0",
+        "221dac73-098e-80ad-a768-c982861b6c1b",
+        "221dac73-098e-8067-a6d4-e262d7fde6bb",
+        "221dac73-098e-8059-9c07-c1f2adc50b92",
+        "221dac73-098e-80cf-9f9f-ec60f844306b",
+        "221dac73-098e-80c1-a53a-ccd49d5b1bed",
+        "221dac73-098e-80d0-bbf3-f8af9a7788b9",
+        "221dac73-098e-80b4-9283-d99887953f18"
+      ]
+    },
+    "221dac73-098e-807b-8adf-e3fac6b6df78": {
+      "id": "221dac73-098e-807b-8adf-e3fac6b6df78",
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "176.1KB"
+          ]
+        ],
+        "title": [
+          [
+            "image.png"
+          ]
+        ],
+        "source": [
+          [
+            "attachment:5b92febf-62d8-47b2-a9fa-602be5182c1c:image.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 709.9896240234375,
+        "display_source": "attachment:5b92febf-62d8-47b2-a9fa-602be5182c1c:image.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.9949622166246851,
+        "block_preserve_scale": true
+      }
+    },
+    "221dac73-098e-80db-8d93-ef70627998b4": {
+      "id": "221dac73-098e-80db-8d93-ef70627998b4",
+      "type": "sub_sub_header",
+      "properties": {
+        "title": [
+          [
+            "게임 기획자 & 프로그래머 역할 수행"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "221dac73-098e-80e5-9cc5-d0567872561e",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    },
+    "221dac73-098e-8059-9c07-c1f2adc50b92": {
+      "id": "221dac73-098e-8059-9c07-c1f2adc50b92",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "장르: ",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "#클리커",
+            [
+              [
+                "c"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "#RTS",
+            [
+              [
+                "c"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "#전략",
+            [
+              [
+                "c"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "#업그레이드",
+            [
+              [
+                "c"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "#유한한 자원",
+            [
+              [
+                "c"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-8023-96d9-c1291f3918f7": {
+      "id": "221dac73-098e-8023-96d9-c1291f3918f7",
+      "type": "sub_sub_header",
+      "properties": {
+        "title": [
+          [
+            "프로젝트 링크:",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "  "
+          ],
+          [
+            "‣",
+            [
+              [
+                "lm",
+                {
+                  "href": "https://lny612.itch.io/classic-rts-game",
+                  "title": "Classic RTS",
+                  "icon_url": "https://img.itch.zone/aW1nLzIwNjg2NDExLnBuZw==/32x32%23/JIG0R1.png",
+                  "description": "Optimize or Perish—Strategy Begins with Scarcity",
+                  "link_provider": "itch.io",
+                  "thumbnail_url": "https://img.itch.zone/aW1nLzIwNjg2NDExLnBuZw==/original/IfwxjG.png"
+                }
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-8067-a6d4-e262d7fde6bb": {
+      "id": "221dac73-098e-8067-a6d4-e262d7fde6bb",
+      "type": "callout",
+      "content": [
+        "221dac73-098e-801a-9160-f4d9bb356ce1"
+      ],
+      "format": {
+        "page_icon": "💡",
+        "block_color": "gray_background",
+        "callout_version": 2,
+        "copied_from_pointer": {
+          "id": "221dac73-098e-8072-b881-e6de0c5f5dd1",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    }
+  }
+}

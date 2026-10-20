@@ -1,0 +1,1697 @@
+{
+  "slug": "bone-to-gather",
+  "root": "221dac73-098e-80f4-96e7-e44fc351b441",
+  "blocks": {
+    "15edac73-098e-8024-89ae-dfe2fd04fe3f": {
+      "id": "15edac73-098e-8024-89ae-dfe2fd04fe3f",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "But watch out - skeletons will immediately shatter if they take even a SINGLE hit."
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-808f-8d28-ce1b0ff71aa9": {
+      "id": "221dac73-098e-808f-8d28-ce1b0ff71aa9",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "장르:",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "#액션 ",
+            [
+              [
+                "c"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "#덱빌딩 로그라이크",
+            [
+              [
+                "c"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "#전략",
+            [
+              [
+                "c"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-802c-aaa3-d896868b0fcb": {
+      "id": "221dac73-098e-802c-aaa3-d896868b0fcb",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "간단한 게임 소개:",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " \nBone To Gather는 하찮지만 독특한 능력을 가진 스켈레톤들로 시너지에 맞는 팀을 구성해 전투하는 팀 빌딩 액션 로그라이크 게임입니다. 방해꾼 몬스터들을 처치하며 얻은 자금으로 다양한 스켈레톤들을 팀에 영입하고, 시너지를 조합해, 그들의 능력을 비웃은 마왕을 무찌르기 위한 복수의 여정을 떠나세요."
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-8072-b881-e6de0c5f5dd1": {
+      "id": "221dac73-098e-8072-b881-e6de0c5f5dd1",
+      "type": "callout",
+      "content": [
+        "221dac73-098e-80bc-8c9a-ef4fd6ca730b"
+      ],
+      "format": {
+        "page_icon": "💡",
+        "block_color": "gray_background",
+        "callout_version": 2
+      }
+    },
+    "15edac73-098e-81f9-b609-f924209345e1": {
+      "id": "15edac73-098e-81f9-b609-f924209345e1",
+      "type": "header",
+      "properties": {
+        "title": [
+          [
+            "Screenshots"
+          ]
+        ]
+      },
+      "format": {
+        "block_color": "purple_background",
+        "copied_from_pointer": {
+          "id": "9db51c1c-8459-44c4-887c-4469f72bdde3",
+          "table": "block",
+          "spaceId": "01b440a6-b566-430e-a522-39101cda1d85"
+        }
+      }
+    },
+    "221dac73-098e-80fe-9b64-dc2936873216": {
+      "id": "221dac73-098e-80fe-9b64-dc2936873216",
+      "type": "sub_sub_header",
+      "properties": {
+        "title": [
+          [
+            "퍼블리셔 전달용 소개 페이지:",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "‣",
+            [
+              [
+                "p",
+                "15edac73-098e-8048-912e-dc57681e1b36",
+                "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+              ]
+            ]
+          ],
+          [
+            " (영문 작성)"
+          ]
+        ]
+      }
+    },
+    "15edac73-098e-80b4-8027-e4fa1c301568": {
+      "id": "15edac73-098e-80b4-8027-e4fa1c301568",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "Email:",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "  "
+          ],
+          [
+            "iris61214@gmail.com",
+            [
+              [
+                "a",
+                "mailto:iris61214@gmail.com"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "15edac73-098e-80b2-95c0-cbdf14ef5ece": {
+      "id": "15edac73-098e-80b2-95c0-cbdf14ef5ece",
+      "type": "text"
+    },
+    "15edac73-098e-80ff-adb4-c93647654463": {
+      "id": "15edac73-098e-80ff-adb4-c93647654463",
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "63.4KB"
+          ]
+        ],
+        "title": [
+          [
+            "KRAFTON Jungle Game Lab_Logo_241127.png"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/0897a4e6-9622-4582-bec7-4c4d4ca3eda1/792259f0-4d46-43b7-971d-bad314256f28/KRAFTON_Jungle_Game_Lab_Logo_241127.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 4460,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/0897a4e6-9622-4582-bec7-4c4d4ca3eda1/792259f0-4d46-43b7-971d-bad314256f28/KRAFTON_Jungle_Game_Lab_Logo_241127.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.2179372197309417,
+        "block_preserve_scale": true
+      }
+    },
+    "15edac73-098e-8040-8601-c158601a59e7": {
+      "id": "15edac73-098e-8040-8601-c158601a59e7",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "Discord:",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "https://discord.gg/CQaGE8sb48",
+            [
+              [
+                "a",
+                "https://discord.gg/CQaGE8sb48"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "15edac73-098e-803f-a24c-c336c5e969db": {
+      "id": "15edac73-098e-803f-a24c-c336c5e969db",
+      "type": "sub_header",
+      "properties": {
+        "title": [
+          [
+            "Dynamic Events and Rewards"
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-8047-97a9-c9accf6c8999": {
+      "id": "221dac73-098e-8047-97a9-c9accf6c8999",
+      "type": "sub_sub_header",
+      "properties": {
+        "title": [
+          [
+            "프로젝트 링크: ",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "‣",
+            [
+              [
+                "lm",
+                {
+                  "href": "https://store.steampowered.com/app/3349800/Bone_To_Gather/",
+                  "title": "Bone To Gather",
+                  "icon_url": "https://store.steampowered.com/favicon.ico",
+                  "description": "&quot;Bone To Gather&quot; is a synergy-building action roguelike. Embark on an epic journey with a team of puny skeletons determined to revenge the Demon King. Recruit skeletons with unique synergies to create a powerful team and battle through monsters on your way to the final showdown.",
+                  "link_provider": "steam",
+                  "thumbnail_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3349800/f701a94b47618cd38b588416e37f9a0f836c4be4/capsule_616x353.jpg?t=1735536485"
+                }
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "15edac73-098e-8049-89c5-f787176ddf3f": {
+      "id": "15edac73-098e-8049-89c5-f787176ddf3f",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "Meet a popstar from the slums, a clown from a pirate crew, and a cleaner from a magic academy who have gathered from all over the land to reclaim the pride of skeletons."
+          ]
+        ]
+      }
+    },
+    "15edac73-098e-81d4-979c-ec85d6bb513c": {
+      "id": "15edac73-098e-81d4-979c-ec85d6bb513c",
+      "type": "callout",
+      "properties": {
+        "title": [
+          [
+            "FOR PRESS INQUIRIES PLEASE CONTACT US AT",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "content": [
+        "15edac73-098e-8139-b877-cc4bab4bba78"
+      ],
+      "format": {
+        "page_icon": "✉️",
+        "block_color": "gray_background",
+        "copied_from_pointer": {
+          "id": "62cdda78-4986-4185-9856-5d7de0d361ad",
+          "table": "block",
+          "spaceId": "01b440a6-b566-430e-a522-39101cda1d85"
+        }
+      }
+    },
+    "15edac73-098e-80d6-8b53-d33f783b0ffe": {
+      "id": "15edac73-098e-80d6-8b53-d33f783b0ffe",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "Genre: ",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "content": [
+        "15edac73-098e-80db-b40a-ccbcb49bd9b5"
+      ]
+    },
+    "15edac73-098e-8055-ac77-ed0216f2ecee": {
+      "id": "15edac73-098e-8055-ac77-ed0216f2ecee",
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "15edac73-098e-805e-983d-c36beec0fef5",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    },
+    "15edac73-098e-8151-ae15-d966ca39e787": {
+      "id": "15edac73-098e-8151-ae15-d966ca39e787",
+      "type": "column_list",
+      "content": [
+        "15edac73-098e-818b-9d6e-d44c5a3df1fd",
+        "15edac73-098e-815a-93ac-c31dca42d7d6"
+      ],
+      "format": {
+        "copied_from_pointer": {
+          "id": "57b8ada4-de52-487d-b6f3-df5cea40474a",
+          "table": "block",
+          "spaceId": "01b440a6-b566-430e-a522-39101cda1d85"
+        }
+      }
+    },
+    "15edac73-098e-8029-ad18-ddf67098ea1e": {
+      "id": "15edac73-098e-8029-ad18-ddf67098ea1e",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "Don’t worry, skeletons never die. You can bring them back to life by collecting their scattered bones. Hurry to gather those bones before your entire team breaks apart!"
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-80f3-8e88-e70f81628036": {
+      "id": "221dac73-098e-80f3-8e88-e70f81628036",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "Unity C#을 사용한 게임 개발"
+          ]
+        ]
+      }
+    },
+    "15edac73-098e-805f-b5ff-df2291486a51": {
+      "id": "15edac73-098e-805f-b5ff-df2291486a51",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "X:",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "https://x.com/ANYWAYGAMES",
+            [
+              [
+                "a",
+                "https://x.com/ANYWAYGAMES"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "15edac73-098e-8039-a62d-dca4a008aff5": {
+      "id": "15edac73-098e-8039-a62d-dca4a008aff5",
+      "type": "sub_sub_header",
+      "properties": {
+        "title": [
+          [
+            "Jungle Game Lab",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "15edac73-098e-8024-8e0a-ca6ff7bb5fcf": {
+      "id": "15edac73-098e-8024-8e0a-ca6ff7bb5fcf",
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "381.7KB"
+          ]
+        ],
+        "title": [
+          [
+            "KakaoTalk_20241203_153042416 (1).png"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/0897a4e6-9622-4582-bec7-4c4d4ca3eda1/f7d6fcbf-ec14-4990-af50-1c05fde0d1c6/KakaoTalk_20241203_153042416_(1).png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 541.0521240234375,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/0897a4e6-9622-4582-bec7-4c4d4ca3eda1/f7d6fcbf-ec14-4990-af50-1c05fde0d1c6/KakaoTalk_20241203_153042416_(1).png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.5625,
+        "block_preserve_scale": true
+      }
+    },
+    "15edac73-098e-802e-a368-f39708e80cff": {
+      "id": "15edac73-098e-802e-a368-f39708e80cff",
+      "type": "text"
+    },
+    "15edac73-098e-81fe-a5af-fc949f32ebf4": {
+      "id": "15edac73-098e-81fe-a5af-fc949f32ebf4",
+      "type": "callout",
+      "properties": {
+        "title": [
+          [
+            "FACTSHEET",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "content": [
+        "15edac73-098e-8111-9ffb-e8556a510f23",
+        "15edac73-098e-80ea-93b0-f80ff3764095",
+        "15edac73-098e-80d6-8b53-d33f783b0ffe",
+        "15edac73-098e-8054-8806-f21431dfe737",
+        "15edac73-098e-80f8-a33f-d7a1cdd18a82",
+        "15edac73-098e-80e3-8cdb-da43881f9dfc",
+        "15edac73-098e-8062-b047-fe6f7134cf3f",
+        "15edac73-098e-809c-8765-c28b5c63de2a"
+      ],
+      "format": {
+        "page_icon": "💡",
+        "block_color": "default",
+        "copied_from_pointer": {
+          "id": "14429c72-5b2e-81bb-b38e-ea580177f32c",
+          "table": "block",
+          "spaceId": "01b440a6-b566-430e-a522-39101cda1d85"
+        }
+      }
+    },
+    "15edac73-098e-80a9-a815-d772251d0b2a": {
+      "id": "15edac73-098e-80a9-a815-d772251d0b2a",
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "397.2KB"
+          ]
+        ],
+        "title": [
+          [
+            "KakaoTalk_20241203_153120291.png"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/0897a4e6-9622-4582-bec7-4c4d4ca3eda1/fb923330-9330-4a96-ad69-e9d8aab11ec9/KakaoTalk_20241203_153120291.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 974.15625,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/0897a4e6-9622-4582-bec7-4c4d4ca3eda1/fb923330-9330-4a96-ad69-e9d8aab11ec9/KakaoTalk_20241203_153120291.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.5625,
+        "block_preserve_scale": true
+      }
+    },
+    "15edac73-098e-8004-8918-c12389501254": {
+      "id": "15edac73-098e-8004-8918-c12389501254",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "Anyway Games",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " is  a game development team formed within the "
+          ],
+          [
+            "KRAFTON Jungle Game Lab program",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            ". Our team consists of aspiring game developers and university students preparing to enter the game industry. We developed "
+          ],
+          [
+            "Bone To Gather",
+            [
+              [
+                "b"
+              ],
+              [
+                "i"
+              ]
+            ]
+          ],
+          [
+            " over the course of approximately three months.\n\n"
+          ]
+        ]
+      }
+    },
+    "6d74575c-ac7d-40b9-9971-942f1c7c6967": {
+      "id": "6d74575c-ac7d-40b9-9971-942f1c7c6967",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "Discord:",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "https://discord.gg/CQaGE8sb48",
+            [
+              [
+                "a",
+                "https://discord.gg/CQaGE8sb48"
+              ]
+            ]
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "15edac73-098e-8040-8601-c158601a59e7",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    },
+    "15edac73-098e-8111-9ffb-e8556a510f23": {
+      "id": "15edac73-098e-8111-9ffb-e8556a510f23",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "Developer: ",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "Anyway Games"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "14429c72-5b2e-817a-b1c2-c595b47f9653",
+          "table": "block",
+          "spaceId": "01b440a6-b566-430e-a522-39101cda1d85"
+        }
+      }
+    },
+    "15edac73-098e-8139-b877-cc4bab4bba78": {
+      "id": "15edac73-098e-8139-b877-cc4bab4bba78",
+      "type": "sub_sub_header",
+      "properties": {
+        "title": [
+          [
+            "iris61214@gmail.com"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "802beda3-e493-4fc2-b3db-7dc1fda9a030",
+          "table": "block",
+          "spaceId": "01b440a6-b566-430e-a522-39101cda1d85"
+        }
+      }
+    },
+    "15edac73-098e-81df-8f56-dfc406e66405": {
+      "id": "15edac73-098e-81df-8f56-dfc406e66405",
+      "type": "header",
+      "properties": {
+        "title": [
+          [
+            "Videos"
+          ]
+        ]
+      },
+      "format": {
+        "block_color": "purple_background",
+        "copied_from_pointer": {
+          "id": "8162c46b-5dab-4661-86e1-a023f67c4b00",
+          "table": "block",
+          "spaceId": "01b440a6-b566-430e-a522-39101cda1d85"
+        }
+      }
+    },
+    "221dac73-098e-80f4-96e7-e44fc351b441": {
+      "id": "221dac73-098e-80f4-96e7-e44fc351b441",
+      "type": "page",
+      "properties": {
+        "RXZ@": [
+          [
+            "장기 프로젝트"
+          ]
+        ],
+        "Ue[:": [
+          [
+            "Action,Strategy,액션,전략,로그라이크 덱빌딩"
+          ]
+        ],
+        "WI}I": [
+          [
+            "2024/09 ~ 2024/12 (약 3개월)"
+          ]
+        ],
+        "title": [
+          [
+            "Bone To Gather (본 투 게더)"
+          ]
+        ]
+      },
+      "content": [
+        "221dac73-098e-8047-97a9-c9accf6c8999",
+        "221dac73-098e-80fe-9b64-dc2936873216",
+        "221dac73-098e-80ae-951e-c32de9607a19",
+        "221dac73-098e-808a-9856-f91e6a2a9e30",
+        "221dac73-098e-8087-830c-c5bf3ebc4a23",
+        "221dac73-098e-80e6-84b0-dcad2f1e12ce",
+        "221dac73-098e-8087-93ed-ecf18a4c71e7",
+        "221dac73-098e-80f3-8e88-e70f81628036",
+        "221dac73-098e-80a9-a731-c445ff942a65",
+        "221dac73-098e-8002-aea9-e1009cc50e0f",
+        "221dac73-098e-80d9-b4f6-e703be38bbec",
+        "221dac73-098e-8072-b881-e6de0c5f5dd1",
+        "221dac73-098e-8027-bdb0-e6f0ca47b85e",
+        "221dac73-098e-808f-8d28-ce1b0ff71aa9",
+        "221dac73-098e-802c-aaa3-d896868b0fcb"
+      ],
+      "format": {
+        "page_cover_position": 0.8,
+        "social_media_image_preview_url": "attachment:494b9de8-6f82-458d-8f5e-a9eb66eb2271:SocialMediaPreviewImage.png"
+      }
+    },
+    "15edac73-098e-818b-9d6e-d44c5a3df1fd": {
+      "id": "15edac73-098e-818b-9d6e-d44c5a3df1fd",
+      "type": "column",
+      "content": [
+        "15edac73-098e-81d6-b42e-cf27fd42793d",
+        "15edac73-098e-814e-8e30-e81f1afa02aa",
+        "15edac73-098e-81c8-9619-c69de80457de",
+        "15edac73-098e-80e4-94e3-e08f0e4a6923",
+        "15edac73-098e-8074-8a8c-f6c6c7a73b3a",
+        "15edac73-098e-8049-89c5-f787176ddf3f",
+        "15edac73-098e-8036-a6cc-db4e890989ec",
+        "15edac73-098e-8054-912d-e547393a4b6f",
+        "15edac73-098e-8022-824e-d54e4cf8674e",
+        "15edac73-098e-809e-98f4-f245c40ba55d",
+        "15edac73-098e-807b-bf19-ce0c25e2a400",
+        "15edac73-098e-8024-89ae-dfe2fd04fe3f",
+        "15edac73-098e-8029-ad18-ddf67098ea1e",
+        "15edac73-098e-803f-a24c-c336c5e969db",
+        "15edac73-098e-802f-89bb-e46782fb716c",
+        "15edac73-098e-809f-8ab6-f7c18eb03e36",
+        "15edac73-098e-81df-8f56-dfc406e66405",
+        "15edac73-098e-8167-b064-e4e02b393ae3",
+        "15edac73-098e-81ff-9473-d5ac25056e31",
+        "15edac73-098e-81f9-b609-f924209345e1",
+        "15edac73-098e-8015-8a65-e1cf844a8983",
+        "15edac73-098e-8024-8e0a-ca6ff7bb5fcf",
+        "15edac73-098e-80a9-a815-d772251d0b2a",
+        "15edac73-098e-807c-8ca0-e74864becedc",
+        "15edac73-098e-8073-a4d1-e1b8cd0d20e5",
+        "15edac73-098e-8098-bcc8-eb060bdb2d3e",
+        "15edac73-098e-8175-9c27-fed2fb604618",
+        "15edac73-098e-815c-afc5-ef9010835d20",
+        "15edac73-098e-80b4-8027-e4fa1c301568",
+        "15edac73-098e-805f-b5ff-df2291486a51",
+        "6d74575c-ac7d-40b9-9971-942f1c7c6967",
+        "15edac73-098e-8084-9b66-d92e4e024dae",
+        "15edac73-098e-8004-8918-c12389501254",
+        "15edac73-098e-8045-a0ee-d13ebd2376e6",
+        "15edac73-098e-8039-a62d-dca4a008aff5",
+        "15edac73-098e-80ff-adb4-c93647654463",
+        "15edac73-098e-8130-9dc9-d4b95d7a497c",
+        "15edac73-098e-80d9-b6ef-d98024b2dc9f"
+      ],
+      "format": {
+        "column_ratio": 0.6875,
+        "copied_from_pointer": {
+          "id": "c652f80d-8384-4dd5-9f0d-4f5389c051f7",
+          "table": "block",
+          "spaceId": "01b440a6-b566-430e-a522-39101cda1d85"
+        }
+      }
+    },
+    "15edac73-098e-8084-9b66-d92e4e024dae": {
+      "id": "15edac73-098e-8084-9b66-d92e4e024dae",
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "270.3KB"
+          ]
+        ],
+        "title": [
+          [
+            "AnywayGames2 (1).png"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/0897a4e6-9622-4582-bec7-4c4d4ca3eda1/bfe1a714-3d92-48c5-844d-87a8ef2d89a4/AnywayGames2_(1).png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 480,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/0897a4e6-9622-4582-bec7-4c4d4ca3eda1/bfe1a714-3d92-48c5-844d-87a8ef2d89a4/AnywayGames2_(1).png",
+        "block_full_width": false,
+        "block_page_width": false,
+        "block_aspect_ratio": 0.5859375,
+        "block_preserve_scale": true
+      }
+    },
+    "15edac73-098e-802f-89bb-e46782fb716c": {
+      "id": "15edac73-098e-802f-89bb-e46782fb716c",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "Encounter a variety of events between boss battles."
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-80e6-84b0-dcad2f1e12ce": {
+      "id": "221dac73-098e-80e6-84b0-dcad2f1e12ce",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "주요 사용자 경험(UX) 설계 및 핵심 게임 메커니즘 프로토타입 제작"
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-80bc-8c9a-ef4fd6ca730b": {
+      "id": "221dac73-098e-80bc-8c9a-ef4fd6ca730b",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "게임 설명"
+          ]
+        ]
+      }
+    },
+    "15edac73-098e-81ff-9473-d5ac25056e31": {
+      "id": "15edac73-098e-81ff-9473-d5ac25056e31",
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "17963444-0baa-4449-811d-a43dbabc661b",
+          "table": "block",
+          "spaceId": "01b440a6-b566-430e-a522-39101cda1d85"
+        }
+      }
+    },
+    "15edac73-098e-80f8-a33f-d7a1cdd18a82": {
+      "id": "15edac73-098e-80f8-a33f-d7a1cdd18a82",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "Release Date:",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " 12/17 10:00 a.m (KST)"
+          ]
+        ]
+      }
+    },
+    "15edac73-098e-815a-93ac-c31dca42d7d6": {
+      "id": "15edac73-098e-815a-93ac-c31dca42d7d6",
+      "type": "column",
+      "content": [
+        "15edac73-098e-81d4-979c-ec85d6bb513c",
+        "15edac73-098e-81fe-a5af-fc949f32ebf4",
+        "15edac73-098e-8055-ac77-ed0216f2ecee",
+        "15edac73-098e-810f-858b-eaeb56580354",
+        "15edac73-098e-80b2-95c0-cbdf14ef5ece",
+        "15edac73-098e-80e8-9bf5-d059defdacd1",
+        "15edac73-098e-802e-a368-f39708e80cff"
+      ],
+      "format": {
+        "column_ratio": 0.31249999999999994,
+        "copied_from_pointer": {
+          "id": "765cafee-94bb-4306-af20-fc731d3268aa",
+          "table": "block",
+          "spaceId": "01b440a6-b566-430e-a522-39101cda1d85"
+        }
+      }
+    },
+    "15edac73-098e-80ea-93b0-f80ff3764095": {
+      "id": "15edac73-098e-80ea-93b0-f80ff3764095",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "Publisher:",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " Jungle Game Lab"
+          ]
+        ]
+      }
+    },
+    "15edac73-098e-8074-8a8c-f6c6c7a73b3a": {
+      "id": "15edac73-098e-8074-8a8c-f6c6c7a73b3a",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "The skeletons come from various backgrounds and have different roles."
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-8027-bdb0-e6f0ca47b85e": {
+      "id": "221dac73-098e-8027-bdb0-e6f0ca47b85e",
+      "type": "video",
+      "properties": {
+        "source": [
+          [
+            "https://youtu.be/v2izW3liffg?si=62thVl5Z57YqAH0_"
+          ]
+        ]
+      },
+      "format": {
+        "link_title": "Bone To Gather Trailer",
+        "block_width": 1280,
+        "link_author": "BoneToGather",
+        "link_provider": "YouTube",
+        "display_source": "https://www.youtube.com/embed/v2izW3liffg?rel=0",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.5625,
+        "block_preserve_scale": true
+      }
+    },
+    "15edac73-098e-809f-8ab6-f7c18eb03e36": {
+      "id": "15edac73-098e-809f-8ab6-f7c18eb03e36",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "Enhance your deck with the rewards you earn from these events!"
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-808a-9856-f91e6a2a9e30": {
+      "id": "221dac73-098e-808a-9856-f91e6a2a9e30",
+      "type": "callout",
+      "content": [
+        "221dac73-098e-80e5-9cc5-d0567872561e"
+      ],
+      "format": {
+        "page_icon": "💡",
+        "block_color": "gray_background",
+        "callout_version": 2
+      }
+    },
+    "15edac73-098e-8054-8806-f21431dfe737": {
+      "id": "15edac73-098e-8054-8806-f21431dfe737",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "Players:",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " Single Player, PVE "
+          ]
+        ]
+      }
+    },
+    "15edac73-098e-8175-9c27-fed2fb604618": {
+      "id": "15edac73-098e-8175-9c27-fed2fb604618",
+      "type": "header",
+      "properties": {
+        "title": [
+          [
+            "About Developer"
+          ]
+        ]
+      },
+      "format": {
+        "block_color": "purple_background",
+        "copied_from_pointer": {
+          "id": "14429c72-5b2e-8100-990f-e4c5fe68cde8",
+          "table": "block",
+          "spaceId": "01b440a6-b566-430e-a522-39101cda1d85"
+        }
+      }
+    },
+    "15edac73-098e-815c-afc5-ef9010835d20": {
+      "id": "15edac73-098e-815c-afc5-ef9010835d20",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "Team Size:",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " 5"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "14429c72-5b2e-8119-b4a0-e324a3bda6ee",
+          "table": "block",
+          "spaceId": "01b440a6-b566-430e-a522-39101cda1d85"
+        }
+      }
+    },
+    "221dac73-098e-8002-aea9-e1009cc50e0f": {
+      "id": "221dac73-098e-8002-aea9-e1009cc50e0f",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "마케팅 활동 주도 (유튜버 이메일 발송, 퍼블리셔 연락, Discord 운영, 큐레이터 및 언론사 대상 홍보)"
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-8087-93ed-ecf18a4c71e7": {
+      "id": "221dac73-098e-8087-93ed-ecf18a4c71e7",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "UI와 부차적인 게임 시스템 전반 프로그래밍"
+          ]
+        ]
+      }
+    },
+    "15edac73-098e-8064-82d2-d50e69dd7e88": {
+      "id": "15edac73-098e-8064-82d2-d50e69dd7e88",
+      "type": "text"
+    },
+    "15edac73-098e-80e4-94e3-e08f0e4a6923": {
+      "id": "15edac73-098e-80e4-94e3-e08f0e4a6923",
+      "type": "sub_header",
+      "properties": {
+        "title": [
+          [
+            "Variety of Unique Skeletons"
+          ]
+        ]
+      }
+    },
+    "15edac73-098e-80e8-9bf5-d059defdacd1": {
+      "id": "15edac73-098e-80e8-9bf5-d059defdacd1",
+      "type": "text"
+    },
+    "15edac73-098e-8048-912e-dc57681e1b36": {
+      "id": "15edac73-098e-8048-912e-dc57681e1b36",
+      "type": "page",
+      "properties": {
+        "title": [
+          [
+            "Bone To Gather"
+          ]
+        ]
+      },
+      "content": [
+        "15edac73-098e-8151-ae15-d966ca39e787",
+        "15edac73-098e-8057-a0b3-df3c60d17e11",
+        "15edac73-098e-8064-82d2-d50e69dd7e88"
+      ],
+      "format": {
+        "site_id": "15edac73-098e-808a-81c8-0079477f6c04",
+        "page_icon": "notion://custom_emoji/0897a4e6-9622-4582-bec7-4c4d4ca3eda1/15edac73-098e-8024-a692-007af167fa76",
+        "page_cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/0897a4e6-9622-4582-bec7-4c4d4ca3eda1/1efff57f-9e66-46ad-99dc-f8d8ec1d8010/Library_Hero.png",
+        "page_full_width": true,
+        "copied_from_pointer": {
+          "id": "9cd0b510-e591-421e-bc32-69c5365e381d",
+          "table": "block",
+          "spaceId": "01b440a6-b566-430e-a522-39101cda1d85"
+        },
+        "page_cover_position": 0.4027,
+        "installation_imprint": {
+          "pointer": {
+            "id": "15ed872b-594c-800a-8d85-007b9769bc80",
+            "table": "marketplace_installation"
+          }
+        },
+        "social_media_image_preview_url": "attachment:6b0a700c-353a-4c52-94d8-e79788791900:SocialMediaPreviewImage.png"
+      }
+    },
+    "15edac73-098e-80d9-b6ef-d98024b2dc9f": {
+      "id": "15edac73-098e-80d9-b6ef-d98024b2dc9f",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "Website: "
+          ],
+          [
+            "https://jungle.krafton.com/",
+            [
+              [
+                "a",
+                "https://jungle.krafton.com/"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-80ae-951e-c32de9607a19": {
+      "id": "221dac73-098e-80ae-951e-c32de9607a19",
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "32.0KB"
+          ]
+        ],
+        "title": [
+          [
+            "헤더캡슐3.png"
+          ]
+        ],
+        "source": [
+          [
+            "attachment:32297ccc-11c8-49d6-a982-5e083f9952fd:헤더캡슐3.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 709.9896240234375,
+        "display_source": "attachment:32297ccc-11c8-49d6-a982-5e083f9952fd:헤더캡슐3.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.4673913043478261,
+        "block_preserve_scale": true
+      }
+    },
+    "15edac73-098e-81c8-9619-c69de80457de": {
+      "id": "15edac73-098e-81c8-9619-c69de80457de",
+      "type": "header",
+      "properties": {
+        "title": [
+          [
+            "Descriptions"
+          ]
+        ]
+      },
+      "format": {
+        "block_color": "purple_background",
+        "copied_from_pointer": {
+          "id": "14429c72-5b2e-8192-8807-f446c018f6f7",
+          "table": "block",
+          "spaceId": "01b440a6-b566-430e-a522-39101cda1d85"
+        }
+      }
+    },
+    "15edac73-098e-8045-a0ee-d13ebd2376e6": {
+      "id": "15edac73-098e-8045-a0ee-d13ebd2376e6",
+      "type": "header",
+      "properties": {
+        "title": [
+          [
+            "About Publisher"
+          ]
+        ]
+      },
+      "format": {
+        "block_color": "purple_background"
+      }
+    },
+    "15edac73-098e-814e-8e30-e81f1afa02aa": {
+      "id": "15edac73-098e-814e-8e30-e81f1afa02aa",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "\"Bone To Gather\" is a synergy-building action roguelike. Embark on an epic journey with a team of puny skeletons determined to revenge the Demon King. Recruit skeletons with unique synergies to create a powerful team and battle through monsters on your way to the final showdown."
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "14429c72-5b2e-81d0-bb2a-fbb011ce4a53",
+          "table": "block",
+          "spaceId": "01b440a6-b566-430e-a522-39101cda1d85"
+        }
+      }
+    },
+    "15edac73-098e-8130-9dc9-d4b95d7a497c": {
+      "id": "15edac73-098e-8130-9dc9-d4b95d7a497c",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "Contact: "
+          ],
+          [
+            "junglegamelab@krafton.com",
+            [
+              [
+                "a",
+                "mailto:junglegamelab@krafton.com"
+              ]
+            ]
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "506021c1-09b9-406b-8c76-337890750b28",
+          "table": "block",
+          "spaceId": "01b440a6-b566-430e-a522-39101cda1d85"
+        }
+      }
+    },
+    "221dac73-098e-80d9-b4f6-e703be38bbec": {
+      "id": "221dac73-098e-80d9-b4f6-e703be38bbec",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "일본어, 한국어, 번체 및 간체 중국어 현지화 담당"
+          ]
+        ]
+      }
+    },
+    "15edac73-098e-8073-a4d1-e1b8cd0d20e5": {
+      "id": "15edac73-098e-8073-a4d1-e1b8cd0d20e5",
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "600.7KB"
+          ]
+        ],
+        "title": [
+          [
+            "KakaoTalk_20241203_152954264.png"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/0897a4e6-9622-4582-bec7-4c4d4ca3eda1/67109104-d384-4ee9-853b-676c29d22470/KakaoTalk_20241203_152954264.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 974.15625,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/0897a4e6-9622-4582-bec7-4c4d4ca3eda1/67109104-d384-4ee9-853b-676c29d22470/KakaoTalk_20241203_152954264.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.5625,
+        "block_preserve_scale": true
+      }
+    },
+    "15edac73-098e-807c-8ca0-e74864becedc": {
+      "id": "15edac73-098e-807c-8ca0-e74864becedc",
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "615.3KB"
+          ]
+        ],
+        "title": [
+          [
+            "KakaoTalk_20241203_153023840.png"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/0897a4e6-9622-4582-bec7-4c4d4ca3eda1/8dfbe930-814a-4c62-85bc-78279cdfe306/KakaoTalk_20241203_153023840.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 974.15625,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/0897a4e6-9622-4582-bec7-4c4d4ca3eda1/8dfbe930-814a-4c62-85bc-78279cdfe306/KakaoTalk_20241203_153023840.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.5625,
+        "block_preserve_scale": true
+      }
+    },
+    "15edac73-098e-8167-b064-e4e02b393ae3": {
+      "id": "15edac73-098e-8167-b064-e4e02b393ae3",
+      "type": "video",
+      "properties": {
+        "source": [
+          [
+            "https://www.youtube.com/watch?v=v2izW3liffg&ab_channel=BoneToGather"
+          ]
+        ]
+      },
+      "format": {
+        "link_title": "Bone To Gather Trailer",
+        "block_width": 1280,
+        "link_author": "BoneToGather",
+        "link_provider": "YouTube",
+        "display_source": "https://www.youtube.com/embed/v2izW3liffg?rel=0",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.5625,
+        "copied_from_pointer": {
+          "id": "4d2826ee-5cc2-4baa-8fc5-3a0ad4a1dbb1",
+          "table": "block",
+          "spaceId": "01b440a6-b566-430e-a522-39101cda1d85"
+        },
+        "block_preserve_scale": true
+      }
+    },
+    "15edac73-098e-8054-912d-e547393a4b6f": {
+      "id": "15edac73-098e-8054-912d-e547393a4b6f",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "Placing skeletons from the same background or with the same role on the battlefield will grant special effects to your team."
+          ]
+        ]
+      }
+    },
+    "15edac73-098e-8062-b047-fe6f7134cf3f": {
+      "id": "15edac73-098e-8062-b047-fe6f7134cf3f",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "Platforms:",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " Steam (Windows)"
+          ]
+        ]
+      }
+    },
+    "15edac73-098e-8057-a0b3-df3c60d17e11": {
+      "id": "15edac73-098e-8057-a0b3-df3c60d17e11",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "Jungle Game Lab",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " is an intensive 24-week program designed for aspiring game developers, inspired by the core philosophy of KRAFTON Jungle: "
+          ],
+          [
+            "immersive experiences, self-directed learning, and team collaboration.",
+            [
+              [
+                "i"
+              ]
+            ]
+          ],
+          [
+            " This program takes participants through the entire game development journey—from mastering the basics to launching a game on Steam."
+          ]
+        ]
+      }
+    },
+    "15edac73-098e-8015-8a65-e1cf844a8983": {
+      "id": "15edac73-098e-8015-8a65-e1cf844a8983",
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "1014.5KB"
+          ]
+        ],
+        "title": [
+          [
+            "KakaoTalk_20241203_153202916.png"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/0897a4e6-9622-4582-bec7-4c4d4ca3eda1/37fe69d5-e8d2-4937-8035-42d74f06eb82/KakaoTalk_20241203_153202916.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 974.15625,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/0897a4e6-9622-4582-bec7-4c4d4ca3eda1/37fe69d5-e8d2-4937-8035-42d74f06eb82/KakaoTalk_20241203_153202916.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.5625,
+        "block_preserve_scale": true
+      }
+    },
+    "221dac73-098e-80a9-a731-c445ff942a65": {
+      "id": "221dac73-098e-80a9-a731-c445ff942a65",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "Agile 방법론 및 Notion을 활용한 프로젝트 매니저로서 팀 관리"
+          ]
+        ]
+      }
+    },
+    "15edac73-098e-807b-bf19-ce0c25e2a400": {
+      "id": "15edac73-098e-807b-bf19-ce0c25e2a400",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "Put your team’s power to the test on the battlefield!"
+          ]
+        ]
+      }
+    },
+    "15edac73-098e-80e3-8cdb-da43881f9dfc": {
+      "id": "15edac73-098e-80e3-8cdb-da43881f9dfc",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "Price: ",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "Free"
+          ]
+        ]
+      }
+    },
+    "15edac73-098e-810f-858b-eaeb56580354": {
+      "id": "15edac73-098e-810f-858b-eaeb56580354",
+      "type": "callout",
+      "properties": {
+        "title": [
+          [
+            "CONTACT US",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "\n"
+          ],
+          [
+            "X:",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "https://x.com/ANYWAYGAMES",
+            [
+              [
+                "a",
+                "https://x.com/ANYWAYGAMES"
+              ]
+            ]
+          ]
+        ]
+      },
+      "content": [
+        "15edac73-098e-8040-8601-c158601a59e7"
+      ],
+      "format": {
+        "page_icon": "☎️",
+        "block_color": "default",
+        "copied_from_pointer": {
+          "id": "14429c72-5b2e-8155-bee3-d9d0756a1824",
+          "table": "block",
+          "spaceId": "01b440a6-b566-430e-a522-39101cda1d85"
+        }
+      }
+    },
+    "15edac73-098e-81d6-b42e-cf27fd42793d": {
+      "id": "15edac73-098e-81d6-b42e-cf27fd42793d",
+      "type": "header",
+      "properties": {
+        "title": [
+          [
+            "Pitch"
+          ]
+        ]
+      },
+      "format": {
+        "block_color": "purple_background",
+        "copied_from_pointer": {
+          "id": "14429c72-5b2e-81c7-8dd2-cc878052fedc",
+          "table": "block",
+          "spaceId": "01b440a6-b566-430e-a522-39101cda1d85"
+        }
+      }
+    },
+    "15edac73-098e-8098-bcc8-eb060bdb2d3e": {
+      "id": "15edac73-098e-8098-bcc8-eb060bdb2d3e",
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "559.6KB"
+          ]
+        ],
+        "title": [
+          [
+            "KakaoTalk_20241203_153111139 (1).png"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/0897a4e6-9622-4582-bec7-4c4d4ca3eda1/9ca1131e-e078-4fc8-b86a-a49e281b3147/KakaoTalk_20241203_153111139_(1).png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 541.0521240234375,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/0897a4e6-9622-4582-bec7-4c4d4ca3eda1/9ca1131e-e078-4fc8-b86a-a49e281b3147/KakaoTalk_20241203_153111139_(1).png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.5625,
+        "block_preserve_scale": true
+      }
+    },
+    "15edac73-098e-8036-a6cc-db4e890989ec": {
+      "id": "15edac73-098e-8036-a6cc-db4e890989ec",
+      "type": "sub_header",
+      "properties": {
+        "title": [
+          [
+            "Building Synergies"
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-8087-830c-c5bf3ebc4a23": {
+      "id": "221dac73-098e-8087-830c-c5bf3ebc4a23",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "+8,000명 누적 고유 사용자, Steam에서 100건 이상 긍정 리뷰",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "15edac73-098e-8022-824e-d54e4cf8674e": {
+      "id": "15edac73-098e-8022-824e-d54e4cf8674e",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "There are hundreds of possible combinations and matchups. Find the best synergies to build the strongest team!"
+          ]
+        ]
+      }
+    },
+    "15edac73-098e-809c-8765-c28b5c63de2a": {
+      "id": "15edac73-098e-809c-8765-c28b5c63de2a",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "Store page link:",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "‣",
+            [
+              [
+                "lm",
+                {
+                  "href": "https://store.steampowered.com/app/3349800/Bone_To_Gather/",
+                  "title": "Bone To Gather",
+                  "icon_url": "https://store.steampowered.com/favicon.ico",
+                  "description": "&quot;Bone To Gather&quot; is a synergy-building action roguelike. Embark on an epic journey with a team of puny skeletons determined to revenge the Demon King. Recruit skeletons with unique synergies to create a powerful team and battle through monsters on your way to the final showdown.",
+                  "link_provider": "steam",
+                  "thumbnail_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3349800/f701a94b47618cd38b588416e37f9a0f836c4be4/capsule_616x353.jpg?t=1734066157"
+                }
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "15edac73-098e-809e-98f4-f245c40ba55d": {
+      "id": "15edac73-098e-809e-98f4-f245c40ba55d",
+      "type": "sub_header",
+      "properties": {
+        "title": [
+          [
+            "Bone-gathering Action"
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-80e5-9cc5-d0567872561e": {
+      "id": "221dac73-098e-80e5-9cc5-d0567872561e",
+      "type": "sub_sub_header",
+      "properties": {
+        "title": [
+          [
+            "게임 기획자 & 프로그래머 & 프로젝트 매니저 역할 수행",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "15edac73-098e-80db-b40a-ccbcb49bd9b5": {
+      "id": "15edac73-098e-80db-b40a-ccbcb49bd9b5",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "#Roguelike Deckbuilder",
+            [
+              [
+                "c"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "#Action Roguelike",
+            [
+              [
+                "c"
+              ]
+            ]
+          ],
+          [
+            "  "
+          ],
+          [
+            "#Creature Collector",
+            [
+              [
+                "c"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "Point & Click",
+            [
+              [
+                "c"
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "slug": "clockwork-nabi",
+  "root": "221dac73-098e-80df-849b-c35df76fd04a",
+  "blocks": {
+    "221dac73-098e-80ae-8ca0-f9d8f971c4de": {
+      "id": "221dac73-098e-80ae-8ca0-f9d8f971c4de",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "프로젝트 링크: ",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "‣",
+            [
+              [
+                "lm",
+                {
+                  "href": "https://lorevoon.itch.io/clockwork-nabi",
+                  "title": "Clockwork Nabi",
+                  "icon_url": "https://img.itch.zone/aW1nLzE5NDUyODg2LnBuZw==/32x32%23/0OOoqR.png",
+                  "description": "Play as an outcasted clockwork butterfly who controls the flow of time.",
+                  "link_provider": "itch.io",
+                  "thumbnail_url": "https://img.itch.zone/aW1nLzE5NDUyODg2LnBuZw==/original/orHBOh.png"
+                }
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-80ef-aa64-f324a6e7cd29": {
+      "id": "221dac73-098e-80ef-aa64-f324a6e7cd29",
+      "type": "sub_sub_header",
+      "properties": {
+        "title": [
+          [
+            "게임 기획자 & 프로젝트 매니저 역할 수행"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "221dac73-098e-80e5-9cc5-d0567872561e",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    },
+    "221dac73-098e-80df-849b-c35df76fd04a": {
+      "id": "221dac73-098e-80df-849b-c35df76fd04a",
+      "type": "page",
+      "properties": {
+        "RXZ@": [
+          [
+            "장기 프로젝트"
+          ]
+        ],
+        "WI}I": [
+          [
+            "2023/09 ~ 2023/05 (약 9개월)"
+          ]
+        ],
+        "title": [
+          [
+            "Clockwork Nabi (태엽 나비)"
+          ]
+        ]
+      },
+      "content": [
+        "221dac73-098e-805d-aa3b-f1ad55445190",
+        "221dac73-098e-80ae-8ca0-f9d8f971c4de",
+        "221dac73-098e-80fd-88e2-daeacdf624df",
+        "221dac73-098e-8070-b11f-e519f105ebca",
+        "221dac73-098e-80ce-af96-dc1d303043a2",
+        "221dac73-098e-8002-83f1-c1e503ec8d40",
+        "221dac73-098e-8056-82b0-d8b74444b067",
+        "221dac73-098e-8050-8b1a-f9a6f6a0b9b7",
+        "221dac73-098e-800d-a3cc-cb0e26072afd",
+        "221dac73-098e-8042-a8d9-cd0033d3db18",
+        "221dac73-098e-8051-94a8-c159bbaf8285",
+        "221dac73-098e-8039-ad1d-e92210e48a6f",
+        "221dac73-098e-8086-a925-f4029b26a424",
+        "221dac73-098e-8041-adc5-c81a7662ec9f"
+      ]
+    },
+    "221dac73-098e-8050-8b1a-f9a6f6a0b9b7": {
+      "id": "221dac73-098e-8050-8b1a-f9a6f6a0b9b7",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "9개월에 걸쳐 원격 및 현장 팀원을 관리하며 고품질·기한 내 프로젝트 완수 보장"
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-8056-82b0-d8b74444b067": {
+      "id": "221dac73-098e-8056-82b0-d8b74444b067",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "아트워크의 창의적 비전을 총괄하여 아티스트와 긴밀히 협업, 시각적 스타일 구현"
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-8070-b11f-e519f105ebca": {
+      "id": "221dac73-098e-8070-b11f-e519f105ebca",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "HKU 이노윙 학생 창의혁신 지원 사업 선정 프로젝트"
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-80ce-af96-dc1d303043a2": {
+      "id": "221dac73-098e-80ce-af96-dc1d303043a2",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "2024 부산 인디 커넥트 페스티벌 참가작"
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-8042-a8d9-cd0033d3db18": {
+      "id": "221dac73-098e-8042-a8d9-cd0033d3db18",
+      "type": "video",
+      "properties": {
+        "source": [
+          [
+            "https://youtu.be/U4YS2hy0us8?si=JDvYzzmDdFNY_5Co"
+          ]
+        ]
+      },
+      "format": {
+        "link_title": "[태엽 나비] 유니티 포트폴리오",
+        "block_width": 640,
+        "link_author": "솨",
+        "block_height": 480,
+        "link_provider": "YouTube",
+        "display_source": "https://www.youtube.com/embed/U4YS2hy0us8?rel=0",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.75,
+        "block_preserve_scale": true
+      }
+    },
+    "221dac73-098e-8002-83f1-c1e503ec8d40": {
+      "id": "221dac73-098e-8002-83f1-c1e503ec8d40",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "게임 디자이너 (밸런스, 시스템, 콘텐츠, 내러티브)"
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-8039-ad1d-e92210e48a6f": {
+      "id": "221dac73-098e-8039-ad1d-e92210e48a6f",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "간단한 게임 소개: ",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-800d-a3cc-cb0e26072afd": {
+      "id": "221dac73-098e-800d-a3cc-cb0e26072afd",
+      "type": "callout",
+      "content": [
+        "221dac73-098e-8023-8488-e664c945d9a7"
+      ],
+      "format": {
+        "page_icon": "💡",
+        "block_color": "gray_background",
+        "callout_version": 2,
+        "copied_from_pointer": {
+          "id": "221dac73-098e-8072-b881-e6de0c5f5dd1",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    },
+    "221dac73-098e-805d-aa3b-f1ad55445190": {
+      "id": "221dac73-098e-805d-aa3b-f1ad55445190",
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "659.7KB"
+          ]
+        ],
+        "title": [
+          [
+            "KakaoTalk_20250629_134916336.png"
+          ]
+        ],
+        "source": [
+          [
+            "attachment:30d3dbb8-ade7-467d-a08a-316360dd538a:KakaoTalk_20250629_134916336.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 709.9896240234375,
+        "display_source": "attachment:30d3dbb8-ade7-467d-a08a-316360dd538a:KakaoTalk_20250629_134916336.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.7936507936507936,
+        "block_preserve_scale": true
+      }
+    },
+    "221dac73-098e-8023-8488-e664c945d9a7": {
+      "id": "221dac73-098e-8023-8488-e664c945d9a7",
+      "type": "sub_sub_header",
+      "properties": {
+        "title": [
+          [
+            "게임 설명"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "221dac73-098e-80bc-8c9a-ef4fd6ca730b",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    },
+    "221dac73-098e-8086-a925-f4029b26a424": {
+      "id": "221dac73-098e-8086-a925-f4029b26a424",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "Clockwork Nabi는 Hades와 Dead Cells에서 영감을 받은 싱글플레이어 2D 플랫폼 로그라이트입니다.\n당신은 날 수 없는 유일한 시계장치 나비입니다."
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-8051-94a8-c159bbaf8285": {
+      "id": "221dac73-098e-8051-94a8-c159bbaf8285",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "장르: ",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "#액션",
+            [
+              [
+                "c"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "#로그배니아",
+            [
+              [
+                "c"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "#로그라이크",
+            [
+              [
+                "c"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-8041-adc5-c81a7662ec9f": {
+      "id": "221dac73-098e-8041-adc5-c81a7662ec9f",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "여왕을 자연의 위협으로부터 구하기 위해 고대 전사들과 계약을 맺고 그들의 힘을 계승해야 합니다.\n한 번의 점프마다 위험이 도사리는 세상 속에서 대시하고, 싸우고, 진화하세요."
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-80fd-88e2-daeacdf624df": {
+      "id": "221dac73-098e-80fd-88e2-daeacdf624df",
+      "type": "callout",
+      "content": [
+        "221dac73-098e-80ef-aa64-f324a6e7cd29"
+      ],
+      "format": {
+        "page_icon": "💡",
+        "block_color": "gray_background",
+        "callout_version": 2,
+        "copied_from_pointer": {
+          "id": "221dac73-098e-808a-9856-f91e6a2a9e30",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    }
+  }
+}

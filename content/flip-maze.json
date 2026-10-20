@@ -1,0 +1,297 @@
+{
+  "slug": "flip-maze",
+  "root": "221dac73-098e-80c7-b5c4-eaa54ff2694b",
+  "blocks": {
+    "221dac73-098e-806f-8ca5-e51597ec36e2": {
+      "id": "221dac73-098e-806f-8ca5-e51597ec36e2",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "2D 화면에서 도저히 통과할 수 없을 것 같은 선도 시점을 옆으로 회전하면 피할 수 있습니다."
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-8013-93d4-dc3ac689b0dd": {
+      "id": "221dac73-098e-8013-93d4-dc3ac689b0dd",
+      "type": "sub_sub_header",
+      "properties": {
+        "title": [
+          [
+            "프로젝트 링크: "
+          ],
+          [
+            "‣",
+            [
+              [
+                "lm",
+                {
+                  "href": "https://lny612.itch.io/flip-maze",
+                  "title": "Flip Maze",
+                  "icon_url": "https://img.itch.zone/aW1nLzIwMzc3MjA2LnBuZw==/32x32%23/jiQmP4.png",
+                  "description": "Change your perspectives, dodge danger, and survive as long as you can!",
+                  "link_provider": "itch.io",
+                  "thumbnail_url": "https://img.itch.zone/aW1nLzIwMzc3MjA2LnBuZw==/original/7%2Bigxk.png"
+                }
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-8023-8307-e5ebd88437ef": {
+      "id": "221dac73-098e-8023-8307-e5ebd88437ef",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "사방에서 다가오는 장애물을 피하려면 시점을 적절한 방향으로 회전해야 합니다."
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-80c7-b5c4-eaa54ff2694b": {
+      "id": "221dac73-098e-80c7-b5c4-eaa54ff2694b",
+      "type": "page",
+      "properties": {
+        "title": [
+          [
+            "Flip Maze (플립 메이즈)"
+          ]
+        ]
+      },
+      "content": [
+        "221dac73-098e-8013-93d4-dc3ac689b0dd",
+        "221dac73-098e-801a-8cd7-eee75d15b96d",
+        "221dac73-098e-80a1-9032-cbdcf478aa5c",
+        "221dac73-098e-80de-923f-ccbc68407b30",
+        "221dac73-098e-8084-a413-ebc3fd1089dd",
+        "221dac73-098e-806b-a385-c35d83528042",
+        "221dac73-098e-8063-a7f5-f769a6f7a227",
+        "221dac73-098e-803b-be92-c59ce415b2e5",
+        "221dac73-098e-806f-8ca5-e51597ec36e2",
+        "221dac73-098e-807d-bd4f-d3c3c0198bab",
+        "221dac73-098e-8023-8307-e5ebd88437ef"
+      ],
+      "format": {
+        "social_media_image_preview_url": "attachment:2dc72097-caa9-4e00-9a9a-2f85777a4b9a:SocialMediaPreviewImage.png"
+      }
+    },
+    "221dac73-098e-806b-a385-c35d83528042": {
+      "id": "221dac73-098e-806b-a385-c35d83528042",
+      "type": "callout",
+      "content": [
+        "221dac73-098e-8034-8d2d-cb83dd22450e"
+      ],
+      "format": {
+        "page_icon": "💡",
+        "block_color": "gray_background",
+        "callout_version": 2,
+        "copied_from_pointer": {
+          "id": "221dac73-098e-8072-b881-e6de0c5f5dd1",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    },
+    "221dac73-098e-8034-8d2d-cb83dd22450e": {
+      "id": "221dac73-098e-8034-8d2d-cb83dd22450e",
+      "type": "sub_sub_header",
+      "properties": {
+        "title": [
+          [
+            "게임 설명"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "221dac73-098e-80bc-8c9a-ef4fd6ca730b",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    },
+    "221dac73-098e-8084-a413-ebc3fd1089dd": {
+      "id": "221dac73-098e-8084-a413-ebc3fd1089dd",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "Unity에서 C#을 사용하여 게임 UI 개발 및 적 behaviour 개발"
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-803b-be92-c59ce415b2e5": {
+      "id": "221dac73-098e-803b-be92-c59ce415b2e5",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "간단 게임 소개:",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-80a1-9032-cbdcf478aa5c": {
+      "id": "221dac73-098e-80a1-9032-cbdcf478aa5c",
+      "type": "callout",
+      "content": [
+        "221dac73-098e-8091-bf38-f4b83ee1ae05"
+      ],
+      "format": {
+        "page_icon": "💡",
+        "block_color": "gray_background",
+        "callout_version": 2,
+        "copied_from_pointer": {
+          "id": "221dac73-098e-808a-9856-f91e6a2a9e30",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    },
+    "221dac73-098e-807d-bd4f-d3c3c0198bab": {
+      "id": "221dac73-098e-807d-bd4f-d3c3c0198bab",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "위에서 보면 점처럼 보이기도 합니다."
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-8091-bf38-f4b83ee1ae05": {
+      "id": "221dac73-098e-8091-bf38-f4b83ee1ae05",
+      "type": "sub_sub_header",
+      "properties": {
+        "title": [
+          [
+            "게임 기획자 & 프로그래머 역할 수행"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "221dac73-098e-80e5-9cc5-d0567872561e",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    },
+    "221dac73-098e-801a-8cd7-eee75d15b96d": {
+      "id": "221dac73-098e-801a-8cd7-eee75d15b96d",
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "157.7KB"
+          ]
+        ],
+        "title": [
+          [
+            "스크린샷 2025-03-22 203755.png"
+          ]
+        ],
+        "source": [
+          [
+            "attachment:77b707fd-df25-4655-83bd-cabc824c3e6c:스크린샷_2025-03-22_203755.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 480,
+        "display_source": "attachment:77b707fd-df25-4655-83bd-cabc824c3e6c:스크린샷_2025-03-22_203755.png",
+        "block_full_width": false,
+        "block_page_width": false,
+        "block_aspect_ratio": 1.054749340369393,
+        "block_preserve_scale": true
+      }
+    },
+    "221dac73-098e-8063-a7f5-f769a6f7a227": {
+      "id": "221dac73-098e-8063-a7f5-f769a6f7a227",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "장르:",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "#3D",
+            [
+              [
+                "c"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "#캐주얼",
+            [
+              [
+                "c"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "#장애물 피하기",
+            [
+              [
+                "c"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "#오래 살아남기",
+            [
+              [
+                "c"
+              ]
+            ]
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "221dac73-098e-80d3-a620-d6f43d9a804c",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    },
+    "221dac73-098e-80de-923f-ccbc68407b30": {
+      "id": "221dac73-098e-80de-923f-ccbc68407b30",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "전반적인 시스템 설계 기획"
+          ]
+        ]
+      }
+    }
+  }
+}

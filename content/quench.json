@@ -1,0 +1,306 @@
+{
+  "slug": "quench",
+  "root": "221dac73-098e-8024-a13f-de80072a99af",
+  "blocks": {
+    "221dac73-098e-8016-a8a0-f64e819c02ad": {
+      "id": "221dac73-098e-8016-a8a0-f64e819c02ad",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "간단 게임 소개: ",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-8024-a13f-de80072a99af": {
+      "id": "221dac73-098e-8024-a13f-de80072a99af",
+      "type": "page",
+      "properties": {
+        "RXZ@": [
+          [
+            "게임잼"
+          ]
+        ],
+        "WI}I": [
+          [
+            "2024/08/13 ~ 2024/08/20 (일주일)"
+          ]
+        ],
+        "title": [
+          [
+            "Quench (퀜치) "
+          ]
+        ]
+      },
+      "content": [
+        "221dac73-098e-80f9-894b-f168e95efa16",
+        "221dac73-098e-8012-aea6-ea7a5ee1e1a3",
+        "221dac73-098e-8075-8e31-c099a4784b8c",
+        "221dac73-098e-80f0-a2b8-cf1fe5bc1f2e",
+        "221dac73-098e-806c-ae24-dbecdaa98fcf",
+        "221dac73-098e-80c8-8d95-f4376d778dc4",
+        "221dac73-098e-80b9-8f86-eec2f806f64b",
+        "221dac73-098e-80e3-b84d-c3ff41c8bb74",
+        "221dac73-098e-8016-a8a0-f64e819c02ad",
+        "221dac73-098e-8004-94f7-e056952fcbb3",
+        "221dac73-098e-80e8-8b94-cad47ac88184",
+        "221dac73-098e-8098-b967-f181e2fdda4a"
+      ],
+      "format": {
+        "social_media_image_preview_url": "attachment:c5aa97b0-e7a2-452e-b9ea-973e4fb5e5d9:SocialMediaPreviewImage.png"
+      }
+    },
+    "221dac73-098e-8098-b967-f181e2fdda4a": {
+      "id": "221dac73-098e-8098-b967-f181e2fdda4a",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "과연 진실을 밝혀내고 이 끝나지 않는 순환에서 벗어나, 모든 것이 초기화되기 전에 고대의 보물을 찾아낼 수 있을까요?"
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-806c-ae24-dbecdaa98fcf": {
+      "id": "221dac73-098e-806c-ae24-dbecdaa98fcf",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "인게임 아트워크 제작, 레벨 설계 수행"
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-80f0-a2b8-cf1fe5bc1f2e": {
+      "id": "221dac73-098e-80f0-a2b8-cf1fe5bc1f2e",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "간접적인 플레이어 가이던스와 몰입형 경험에 중점을 둔 오픈 월드 레벨 디자인 탐구"
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-80e8-8b94-cad47ac88184": {
+      "id": "221dac73-098e-80e8-8b94-cad47ac88184",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "광활하고 신비로운 사막에서 눈을 뜹니다. 그곳은 바로 당신의 할아버지가 평생을 바치며 전설의 보석을 찾아 헤맸던 장소입니다. 내리쬐는 태양 아래, 시간은 촉박합니다. 사구 곳곳에는 잊힌 문명의 유적과 유물에 숨겨진 단서들이 흩어져 있습니다."
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-80c8-8d95-f4376d778dc4": {
+      "id": "221dac73-098e-80c8-8d95-f4376d778dc4",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "VFX 및 카메라 셰이크와 같은 시네마틱 요소 구현"
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-8012-aea6-ea7a5ee1e1a3": {
+      "id": "221dac73-098e-8012-aea6-ea7a5ee1e1a3",
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "1554.1KB"
+          ]
+        ],
+        "title": [
+          [
+            "image.png"
+          ]
+        ],
+        "source": [
+          [
+            "attachment:dae2960c-f597-4aa0-9738-b29bee5c8fb3:image.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 709.9896240234375,
+        "display_source": "attachment:dae2960c-f597-4aa0-9738-b29bee5c8fb3:image.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.6211750305997552,
+        "block_preserve_scale": true
+      }
+    },
+    "221dac73-098e-80b9-8f86-eec2f806f64b": {
+      "id": "221dac73-098e-80b9-8f86-eec2f806f64b",
+      "type": "callout",
+      "content": [
+        "221dac73-098e-8073-a633-fa167f97cbb5"
+      ],
+      "format": {
+        "page_icon": "💡",
+        "block_color": "gray_background",
+        "callout_version": 2,
+        "copied_from_pointer": {
+          "id": "221dac73-098e-8072-b881-e6de0c5f5dd1",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    },
+    "221dac73-098e-80f9-894b-f168e95efa16": {
+      "id": "221dac73-098e-80f9-894b-f168e95efa16",
+      "type": "sub_sub_header",
+      "properties": {
+        "title": [
+          [
+            "프로젝트 링크:",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "‣",
+            [
+              [
+                "lm",
+                {
+                  "href": "https://lny612.itch.io/quench",
+                  "title": "Quench",
+                  "icon_url": "https://img.itch.zone/aW1nLzIwNjg2MzUwLnBuZw==/32x32%23/yMgPk1.png",
+                  "description": "Gather as many clues as possible within limited time to solve the clues and escape the deadly dessert.",
+                  "link_provider": "itch.io",
+                  "thumbnail_url": "https://img.itch.zone/aW1nLzIwNjg2MzUwLnBuZw==/original/05LwAf.png"
+                }
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-808f-8287-fdeee71c34d3": {
+      "id": "221dac73-098e-808f-8287-fdeee71c34d3",
+      "type": "sub_sub_header",
+      "properties": {
+        "title": [
+          [
+            "게임 기획자 - 레벨 디자이너 역할 수행"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "221dac73-098e-80e5-9cc5-d0567872561e",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    },
+    "221dac73-098e-8004-94f7-e056952fcbb3": {
+      "id": "221dac73-098e-8004-94f7-e056952fcbb3",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "Quench는 Outer Wilds에서 영감을 받은 어드벤처 게임으로, 시간이 다하기 전에 가능한 한 많은 퍼즐을 반복해서 풀어야 합니다."
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-80e3-b84d-c3ff41c8bb74": {
+      "id": "221dac73-098e-80e3-b84d-c3ff41c8bb74",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "장르: ",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "#어드벤쳐",
+            [
+              [
+                "c"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "#퍼즐",
+            [
+              [
+                "c"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "#타임 어택",
+            [
+              [
+                "c"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-8075-8e31-c099a4784b8c": {
+      "id": "221dac73-098e-8075-8e31-c099a4784b8c",
+      "type": "callout",
+      "content": [
+        "221dac73-098e-808f-8287-fdeee71c34d3"
+      ],
+      "format": {
+        "page_icon": "💡",
+        "block_color": "gray_background",
+        "callout_version": 2,
+        "copied_from_pointer": {
+          "id": "221dac73-098e-808a-9856-f91e6a2a9e30",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    },
+    "221dac73-098e-8073-a633-fa167f97cbb5": {
+      "id": "221dac73-098e-8073-a633-fa167f97cbb5",
+      "type": "sub_sub_header",
+      "properties": {
+        "title": [
+          [
+            "게임 설명"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "221dac73-098e-80bc-8c9a-ef4fd6ca730b",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    }
+  }
+}

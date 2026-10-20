@@ -1,0 +1,10 @@
+dist/
+node_modules/
+*-source.html
+.DS_Store
+__pycache__/
+exports/
+.vercel/
+.env
+.env.*
+!.env.example

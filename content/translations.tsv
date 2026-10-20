@@ -1,0 +1,440 @@
+0	본 투 게더는 시너지를 조합하는 액션 로그라이크입니다. 마왕에게 복수하려는 작은 해골들과 함께 모험을 떠나세요. 서로 다른 시너지를 지닌 해골을 영입해 강력한 팀을 만들고, 몬스터들을 물리치며 마지막 결전을 향해 나아갑니다.
+1	#덱빌딩 로그라이크 #액션 로그라이크 #크리처 수집 #포인트 앤 클릭
+2	From the developers’ perspective: key ideas
+3	From the player’s perspective: what defines Darkest Dungeon
+4	*This analysis works backwards through the MDA framework, starting with players’ emotions and tracing them to the features that create them.
+5	Over 8,000 unique users and more than 100 positive Steam reviews
+6	— 타이넌 실베스터, 《Designing Games》
+7	1) Hook: assembling the roster and entering the dungeon
+8	1. Emotion → experience
+9	2) Rising action: progressing toward the objective inside the dungeon
+10	2. Experience → feature
+11	September 2023–May 2023 (approximately nine months; dates as listed in the original portfolio)
+12	Selected for the 2024 Busan Indie Connect Festival
+13	6–8 August 2024 (48 hours)
+14	13–20 August 2024 (one week)
+15	September–December 2024 (approximately three months)
+16	A line that seems impossible to pass in a 2D view can be avoided by rotating your viewpoint to the side.
+17	As the lead designer and Unity C# programmer on a two-person team, I designed and implemented the complete gameplay loop.
+18	3) Peak: defeating the boss or completing the objective
+19	4) Resolution: returning to the Hamlet
+20	Managed remote and on-site teammates over nine months to deliver the project on time and to a high standard.
+21	<Emotional intensity over the course of play>
+22	<Four quadrants of emotion, classified by intensity and valence>
+23	<A game that brings every imaginable worst-case scenario to life>
+24	개발팀 소개
+25	퍼블리셔 소개
+26	Action, strategy, roguelike deckbuilding
+27	Managed the team as project manager using Agile practices and Notion.
+28	Anyway Games는 크래프톤 정글 게임랩 프로그램에서 결성된 게임 개발팀입니다. 게임 업계 진출을 준비하는 예비 개발자와 대학생으로 구성되어 있으며, 약 3개월에 걸쳐 본 투 게더를 개발했습니다.
+29	본 투 게더
+30	Bone To Gather
+31	뼈를 모으며 펼치는 액션
+32	시너지 구성
+33	하지만 조심하세요. 해골은 단 한 번만 공격받아도 곧바로 산산조각 납니다.
+34	문의하기 · X: https://x.com/ANYWAYGAMES
+35	Classic RTS
+36	Clockwork Nabi
+37	Clockwork Nabi is a single-player 2D platforming roguelite inspired by Hades and Dead Cells. You play the only clockwork butterfly who cannot fly.
+38	문의: junglegamelab@krafton.com
+39	게임 소개
+40	개발: Anyway Games
+41	디스코드: https://discord.gg/CQaGE8sb48
+42	걱정하지 마세요. 해골은 죽지 않습니다. 흩어진 뼈를 모으면 다시 일으킬 수 있어요. 팀 전체가 무너지기 전에 서둘러 뼈를 모으세요!
+43	다채로운 이벤트와 보상
+44	이메일: iris61214@gmail.com
+45	보스전 사이사이에 다양한 이벤트를 만나보세요.
+46	이벤트에서 얻은 보상으로 덱을 강화하세요!
+47	게임 기본 정보
+48	언론 및 취재 문의
+49	Flip Maze
+50	장르:
+51	Selected for HKU InnoWing’s student creativity and innovation support programme.
+52	정글 게임랩
+53	정글 게임랩은 크래프톤 정글의 핵심 철학인 몰입, 자기주도 학습, 팀 협업을 바탕으로 예비 게임 개발자를 양성하는 24주 집중 프로그램입니다. 기초 학습부터 Steam 출시까지 게임 개발의 전 과정을 경험합니다.
+54	Collected player feedback through MDA-based playtests (Mechanics–Dynamics–Aesthetics) and applied patches to improve evaluation scores.
+55	빈민가의 팝스타, 해적단의 광대, 마법학교의 청소부까지. 해골의 자존심을 되찾기 위해 각지에서 모여든 동료들을 만나보세요.
+56	Mutant Lab
+57	핵심 소개
+58	같은 배경이나 역할을 지닌 해골을 전장에 함께 배치하면 팀에 특별한 효과가 부여됩니다.
+59	플랫폼: Steam (Windows)
+60	플레이 방식: 싱글플레이, PVE
+61	가격: 무료
+62	퍼블리셔: 정글 게임랩
+63	전장에서 팀의 힘을 시험해 보세요!
+64	Quench
+65	Quench is an adventure game inspired by Outer Wilds. Across repeated attempts, solve as many puzzles as possible before time runs out.
+66	출시 일시: 12월 17일 오전 10시 (한국 시간)
+67	스크린샷
+68	스토어 페이지:
+69	팀 규모: 5명
+70	해골들은 저마다 다른 배경과 역할을 지니고 있습니다.
+71	수백 가지 조합과 상성이 기다립니다. 최고의 시너지를 찾아 가장 강력한 팀을 만드세요!
+72	Developed every game element in Unity C#, including the UI and core gameplay systems.
+73	Programmed the UI and supporting game systems.
+74	Developed the game with Unity and C#.
+75	Implemented the game UI and enemy behaviour in Unity using C#.
+76	Implemented cinematic elements, including visual effects and camera shake.
+77	개성 넘치는 해골들
+78	영상
+79	웹사이트: https://jungle.krafton.com/
+80	Wizard Candy Maker
+81	X: https://x.com/ANYWAYGAMES
+82	iris61214@gmail.com
+83	Hero stress, incomplete combat information and story, and deliberately “bad” design.
+84	“미묘한 감정을 감지하고 이해하는 것은 디자이너의 능력이다.”
+85	Reinforced the “wizard confectioner” concept through effects, animation timing, and sound triggers tailored to the available art and audio assets.
+86	→ Dungeon systems > Randomness
+87	→ Dungeon systems > Randomness
+88	→ Dungeon systems > Randomness > Encounters
+89	→ Dungeon systems > Objectives
+90	→ Dungeon systems > Interactions
+91	→ Dungeon systems > Camping
+92	→ Dungeon systems > Provisions
+93	→ Dungeon systems > Torchlight
+94	→ Hero systems > Quirks
+95	→ Hero systems > Skills > Combat skills
+96	→ Hero systems > Attributes
+97	→ Hero systems > Attributes > Speed
+98	→ Hero systems > Attributes > Resistances > Deathblow
+99	→ Hero systems > Attributes > Critical hits
+100	→ Hero systems > Stress
+101	→ Hero systems > Stress > Management > Stress-relief facilities
+102	→ Hero systems > Stress > Affliction / Virtue
+103	→ Hero systems > Attributes > Dodge, accuracy modifiers
+104	→ Hamlet systems > Management
+105	→ Hamlet systems > Hero management
+106	→ Combat systems > Permanent hero death
+107	→ Combat systems > Positioning
+108	→ Combat systems > Team building > Party composition
+109	→ Combat systems > Chance > Damage range
+110	→ Combat systems > Chance > Debuffs
+111	→ Combat systems > Chance > Death’s Door
+112	→ Combat systems > Chance > Critical hits
+113	→ Combat systems > Chance > Turn order
+114	→ Combat systems > Chance > Dodge
+115	⇒ Players must therefore pay attention to their heroes’ stress throughout an expedition. This strengthens the tension and makes strategic decisions more consequential.
+116	⇒ The deliberately confusing dungeon environment keeps players in a state of uncertainty. These elements help create the fear and tension at the heart of Darkest Dungeon.
+117	⇒ Every battle can take an unexpected turn. Players cannot relax when things are going well, but they also have a reason to hold on to hope when the situation looks desperate.
+118	⇒ When a hero beats the odds and becomes virtuous, the contrast with the despair the player expected creates an extraordinary sense of elation.
+119	⇒ These elements sustain tension and emphasise the importance of decisions throughout play. They also offer the thrill of overcoming unpredictable situations and fresh challenges.
+120	⇒ Limited information and deliberately “bad” design that breaks established conventions permeate the game. They make the player feel powerless, reinforcing its cosmic-horror theme.
+121	Heirlooms
+122	Applies from Darkest difficulty upwards
+123	Think carefully about how to use each resource efficiently and optimise your choices. Hiring more workers may seem like a good way to increase production, for example, but consuming too much food in the process can reduce overall efficiency.
+124	Game overview:
+125	Game overview:
+126	Game overview: Bone To Gather is a team-building action roguelike in which you assemble a synergistic party of feeble-looking skeletons with distinctive abilities. Use the money earned from defeating monsters to recruit new skeletons, combine their synergies, and set out to defeat the Demon King who mocked their powers.
+127	Explored open-world level design with an emphasis on indirect player guidance and immersion.
+128	An analysis of fun: emotion → experience → feature
+129	Pacing emotional intensity
+130	Emotional upheaval
+131	Upgrades
+132	During development, pixel-art games were trending on Steam. Simply adopting pixel graphics could attract attention, so the developers reportedly considered that direction carefully.
+133	Behind the development
+134	Developer interview:
+135	What did the developers feel worked, and what did not?
+136	The developers reportedly designed Darkest Dungeon to evoke the uncertainty and tension of playing poker.
+137	By adding corpses, the developers wanted to disrupt strategies that were becoming standard and deepen the existing combat mechanics. The change instead provoked a substantial backlash.
+138	The developers believed fear was most effective when certainty was absent. The game’s imperfect elements work together to build Darkest Dungeon’s distinctive bleak atmosphere.
+139	Construction
+140	Darkest Dungeon’s art style, defined by bold shapes and heavy blacks.
+141	Role: game designer & artist
+142	Role: game designer, programmer & project manager
+143	Role: game designer & programmer
+144	Role: game designer & project manager
+145	Role: game designer — level design
+146	Game design: balance, systems, content, and narrative.
+147	About the game
+148	The warning shown at the start of the game
+149	Created pixel artwork to establish the game’s distinctive visual style.
+150	The hook: stress-driven Affliction and Virtue
+151	Game jam
+152	Apprentice / Veteran / Champion
+153	Conclusion: high difficulty + demanding strategic depth = immersion
+154	Management
+155	Curios
+156	Receiving a negative quirk from a curio
+157	When a troublesome enemy acts first
+158	Can you uncover the truth, escape this endless cycle, and find the ancient treasure before everything resets?
+159	Management
+160	You wake in a vast, mysterious desert—the place where your grandfather spent his life searching for a legendary jewel. Beneath the blazing sun, time is running out. Clues lie scattered among the dunes, hidden in the ruins and relics of a forgotten civilisation.
+161	Abbey
+162	Districts
+163	Designed comprehensive game systems to create balanced and engaging gameplay.
+164	As a result, contrasting positive experiences produce proportionately intense positive emotions, such as elation.
+165	Top-down and isometric views were conventional for this genre at the time. However, the developers felt those wider views weakened the claustrophobic, tense atmosphere they wanted, and settled on a side-on presentation.
+166	Quirks
+167	Quirks / Diseases
+168	Basic attributes
+169	Immersion generally emerges when the difficulty of a task is balanced with the player’s skill level.
+170	Skills
+171	Skill attack range
+172	Surprise attacks
+173	Stun
+174	Tension
+175	When a difficult enemy appears
+176	When a carefully raised hero dies, or the entire party is wiped out
+177	Obtaining an item you wanted
+178	Attributes
+179	Other games let players reload to correct mistakes, but automatic saving makes actions irreversible here, creating tension.
+180	Darkest Dungeon — GDC 2016:
+181	Darkest Dungeon — design analysis
+182	Darkest Dungeon — analysis of fun
+183	Darkest Dungeon uses turn-based combat. Players assemble a roster of four from a pool of roughly twenty available heroes.
+184	Darkest Dungeon openly breaks an unwritten rule of game design: “Never take away what a player has worked hard to build without context.”
+185	Was Darkest Dungeon originally a top-down pixel-art game?
+186	The strategically deep systems described above demand considerable player skill to clear a dungeon. Its deliberately unwelcoming elements increase the difficulty further, balancing challenge against the required skill and producing strong immersion.
+187	The heroes in Darkest Dungeon are deeply human. As they explore, their interactions continually expose them to stress.
+188	Every action in Darkest Dungeon’s combat has a probabilistic element.
+189	Your job is quality assurance at a factory that produces and sells biological macro-organisms.
+190	Receiving a helpful item or effect from a dungeon curio instead of a harmful one
+191	Dungeon level
+192	Dungeon systems
+193	Completing a dungeon
+194	Before entering a dungeon, the game does not explain which items are needed for interactions and survival, or how many to bring.
+195	The game does not explain what an unfamiliar dungeon object will do. Players must discover its effects through experience.
+196	The dungeon experience
+197	Earning resources through dungeon runs, developing the Hamlet, and raising stronger heroes
+198	Receiving a negative quirk after clearing a dungeon
+199	Players explore, fight, and make progress toward their objective.
+200	The tension of encountering enemies while unprepared, or having the party’s formation disrupted by a surprise attack
+201	Dungeon length
+202	Players do not know the dungeon’s layout or where enemies will appear. Scouting—the only way to obtain this information—happens only occasionally, by chance.
+203	Damage range
+204	When the damage range does not guarantee an enemy’s defeat
+205	Dopamine / Elation
+206	Debuffs
+207	Sometimes these organisms mutate and become “WEIRD”!
+208	A side-on view also allowed repeated reuse of graphical assets, making it a good fit for the team’s budget.
+209	Randomness
+210	Random items
+211	Level
+212	Assembling the roster and entering a dungeon create anticipation and tension.
+213	Risk
+214	Designed the core systems—including magical recipes, candy-making minigames, and customer orders and waiting—and iterated from prototypes through balancing.
+215	Make candy through minigames that involve mixing and boiling magical ingredients according to a recipe.
+216	A phase in the final boss fight requires choosing a hero to sacrifice permanently.
+217	In the final boss fight, the player must sacrifice a beloved hero. As shown above, the game displays only “Come Unto Your Maker”, without explaining the next action. The player is left wondering what is happening and what to do.
+218	Led marketing activities, including emails to YouTubers, publisher outreach, Discord management, and promotion to curators and the press.
+219	Planned and designed game systems around the essential ingredients of an engaging, effective management game.
+220	Map structure
+221	When a particular hero needs to act first
+222	Accuracy
+223	Accuracy / Dodge
+224	Accuracy modifier
+225	Accuracy, status resistance
+226	Using a low-accuracy skill
+227	“… being an adventurer is a shit line of work.” — Chris Bourassa, co-creator of Darkest Dungeon
+228	Objectives
+229	As progress increases, so does the cost of failure, gradually raising the tension.
+230	Weapons
+231	Protection
+232	Armour
+233	Hunger
+234	When repeated hunger checks trigger while retracing a corridor and the party runs short of food
+235	The developers drew inspiration from works such as Band of Brothers and the board game Squad Leader, which depict natural human reactions under extreme conditions.
+236	Rewards
+237	Defeating the boss or completing the exploration objective brings achievement, elation, and relief to an emotional peak.
+238	Negative quirks, diseases
+239	A game with intense negative and positive emotions
+240	Finding needed supplies in a curio
+241	Anxiety
+242	Incomplete, unforgiving dungeon exploration — learning the hard way
+243	Scouting as a counterbalance to unfairness
+244	Affliction
+245	Affliction / Virtue
+246	Afflicted behaviour
+247	Affliction / Virtue
+248	The game does not explain exactly what an affliction does. Players must learn through play and through their heroes’ dialogue.
+249	When an afflicted hero spreads stress to other heroes
+250	When an afflicted hero acts independently, skipping turns or harming themselves
+251	Discovering a secret room
+252	Secret-room generation
+253	Similarly, dodging a stress attack just before a hero reaches breaking point
+254	Range
+255	Rotate the viewpoint in the right direction to avoid obstacles approaching from every side.
+256	Increase
+257	Using a hero with low status resistance
+258	Interactions
+259	Players may need to prepare the right consumables for the situation in advance.
+260	Unexpectedly finding a curio containing supplies needed to survive
+261	A sense of achievement
+262	Consumables
+263	Speed
+264	Your goal is to understand each customer’s wishes and make exactly the right candy.
+265	Stats
+266	Stress
+267	Stress management
+268	Curios that increase stress
+269	Spreading stress
+270	When a hero sent to relieve stress becomes absorbed in the activity and refuses to join an expedition
+271	Curios that reduce stress
+272	Stress-relief facilities
+273	At the stress threshold, the player expects the despair of an affliction—but a radiant illustration appears and the hero becomes virtuous instead.
+274	Enemy attacks that inflict heavy stress
+275	Heroes under stress
+276	A hero afflicted by stress
+277	Elements that put the party at a disadvantage when heroes are stressed
+278	When a stress-dealing enemy acts first or survives longer than expected, continually adding to the party’s stress
+279	Simple, intuitive secondary features beyond the stress system
+280	Quirks that affect stress
+281	Acquisition
+282	Facilities
+283	Facility-related features
+284	A chance of becoming unavailable while using a facility
+285	Available recruits and their levels vary with the facility
+286	Corpses
+287	Food
+288	When a critical heal restores more health than expected and also relieves a hero’s stress
+289	Acquiring items
+290	Led the creative vision for the artwork and worked closely with artists to realise the visual style.
+291	Relief
+292	The many RNG elements were intended to make players feel as though they were playing poker.
+293	Camping
+294	Camping skills
+295	Debuffs
+296	The addition of corpses in the early-access Hound & Corpse update attracted considerable criticism.
+297	To save the queen from the threats of nature, form pacts with ancient warriors and inherit their powers. Dash, fight, and evolve in a world where danger lies beyond every jump.
+298	Protecting the laboratory’s reputation is your highest priority.
+299	Hero virtue
+300	Recruiting heroes
+301	Hero-related features
+302	Hero management
+303	Party composition
+304	Hero skills
+305	Hero level restrictions
+306	Hero death, party wipe
+307	Hero systems
+308	Because the heroes are fundamentally human, their growth should not depend on legendary weapons or prestigious gear.
+309	When heroes reach extreme stress, they may become afflicted—or virtuous.
+310	When the order in which heroes use their skills matters
+311	Permanent hero death
+312	Developing heroes
+313	The irritation of a hero missing an attack: “How did you miss that?”
+314	When heroes become afflicted one after another and the party’s condition deteriorates
+315	Hamlet development
+316	Hamlet systems
+317	Hamlet systems > Events
+318	Hamlet events
+319	Returning to the Hamlet lets the tension subside. Players tend to their returning heroes, rest, and prepare for the next expedition.
+320	The Hamlet experience
+321	Finally completing an expedition’s objective after enduring many hardships
+322	The idea of imperfection runs through every system in the game.
+323	Imperfect elements
+324	Imperfection · Cosmic horror · Human reactions to stress
+325	Bosses
+326	Defeating a boss
+327	Elements of chance
+328	From above, it may even look like a dot.
+329	As shown above, Darkest Dungeon produces more intense negative emotions than many games. Its mechanics and visuals deliberately sustain anxiety and tension.
+330	Such emotional intensity could exhaust players or create excessive tension. The following gameplay loop manages that intensity with careful pacing.
+331	The tension of not knowing exactly how turn order will unfold during a dangerous battle
+332	What did not work as intended
+333	What worked as intended
+334	Deliberately “bad” design
+335	Deliberate confusion
+336	The defining stress system makes it clear that, unlike heroes in many RPGs, these characters are not perfect moral exemplars. They react to stress in human ways: breaking down and harming their companions, or finding virtue in a crisis and turning the battle around.
+337	At its core, the game challenges you to survive by gathering resources on a grid-based map.
+338	Information about curios and bosses is likewise withheld.
+339	Movement
+340	Put them through three experiments to identify abnormal specimens, then eliminate them before they escape the production line and reach customers.
+341	Almost every aspect of combat is imperfect. Even the information used to make decisions—turn order, damage, and resistance—is shaped by random variables. Automatic saving gives choices lasting consequences, forcing players to take risks with uncertain, incomplete information.
+342	Events
+343	This led to the design of human heroes with weaknesses and flaws, just like ordinary people.
+344	Becoming unavailable during treatment
+345	Created in-game artwork and designed levels.
+346	Encounters
+347	Handled Japanese, Korean, Traditional Chinese, and Simplified Chinese localisation.
+348	Automatic saving
+349	The weight of permanent choices resulting from the absence of autosaving [wording in the original analysis].
+350	Positioning
+351	A single positioning mistake may leave a hero stuck attacking corpses at the front.
+352	Long-term project
+353	Genre: #3D #Casual #ObstacleDodging #Survival
+354	Genre: #Shooter #Arcade #Memory #Observation
+355	Genre: #Action #RoguelikeDeckbuilder #Strategy
+356	Genre: #Action #Roguevania #Roguelike
+357	Genre: #Adventure #Puzzle #TimeAttack
+358	Genre: #Clicker #RTS #Strategy #Upgrades #FiniteResources
+359	Genre: #TimeManagement #Management #Puzzle #Minigames #Casual #Halloween
+360	Equipment
+361	Trinkets
+362	Regrouping
+363	Resources
+364	Resistance
+365	Resistances
+366	Enemies
+367	Enemy skills
+368	Enemy types and combinations
+369	Enemies, curios
+370	When an attack lands a critical hit, deals more damage than expected, and relieves the hero’s stress
+371	Contracting a disease after an enemy attack
+372	Experiences that make strategy enjoyable
+373	Strategic elements
+374	Loot
+375	Planned and designed the overall game systems.
+376	Combat skills
+377	Combat systems
+378	Quirks that affect combat
+379	The combat experience
+380	Transmission
+381	Despair
+382	The complementary interplay of despair and elation
+383	Limited progression options
+384	Enjoy managing cost efficiency with a limited pool of resources.
+385	Designed the core user experience and prototyped key gameplay mechanics.
+386	Tavern
+387	Death’s Door
+388	Death’s Door
+389	Deathblow
+390	Provisions
+391	Blight
+392	Landing a low-accuracy skill at a crucial moment
+393	Perfect balance between classes was not considered essential to the game.
+394	Diseases
+395	Irritation
+396	References
+397	Not knowing an unfamiliar enemy’s attacks or patterns
+398	Not knowing what an unfamiliar curio will do
+399	Surviving at low health by dodging an enemy attack
+400	Initial ideas and inspiration
+401	Maximum health
+402	Bleed
+403	Treatment and quirk removal
+404	Critical hits
+405	At Death’s Door, a hero can die by chance. The player wonders whether the enemy will target that hero, and whether the next hit will kill them.
+406	Combat requires considering classes, skills, party combinations, and the range restrictions imposed by positioning.
+407	Quest-related features
+408	Balance elements that received less emphasis
+409	Critical hits
+410	Darkest Dungeon in a top-down view
+411	Turn order
+412	Turn order, damage ranges, hit chances, and critical hits all involve randomness. Players must make careful, risky choices based on uncertain information.
+413	Skipping turns, refusing healing, acting independently
+414	Turn-based combat
+415	Specific items
+416	Team building
+417	Publisher presentation:
+418	Project link:
+419	Revised game systems, fixed bugs, and improved gameplay based on player insights.
+420	Ran MDA (Mechanics–Dynamics–Aesthetics) tests to gather player feedback.
+421	Communicated visibly through dialogue between characters
+422	Players enter a dungeon knowing little beyond its length and level.
+423	On Halloween night, you become a wizard confectioner running a magical candy workshop.
+424	Features that create each experience were selected from the feature list.
+425	Damage
+426	Decrease
+427	Pixel art’s cute, appealing qualities did not fit the gloom and melancholy required by the cosmic-horror theme, so the team moved toward illustrations dominated by heavy blacks and bold shapes.
+428	Traps
+429	Chance-based elements
+430	Experiences that make chance enjoyable
+431	Random ambushes
+432	Discovering a secret room by chance while scouting
+433	Strategic turn-based combat in a maelstrom of probability
+434	Torchlight
+435	The tension caused by debuffs associated with torchlight levels
+436	Dodge
+437	Acquiring rare items
+438	📜 Feature list
+439	📝 Game analysis

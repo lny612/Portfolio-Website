@@ -1,0 +1,382 @@
+{
+  "slug": "wizard-candy-maker",
+  "root": "2abdac73-098e-80b1-a28e-eda5c33761e3",
+  "blocks": {
+    "2abdac73-098e-80cb-8640-d114c1820253": {
+      "id": "2abdac73-098e-80cb-8640-d114c1820253",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "“마법사 제과사”라는 콘셉트를 살리기 위해 아트·사운드 리소스를 고려한 연출(이펙트, 애니메이션 타이밍, 사운드 트리거링)을 적용"
+          ]
+        ]
+      }
+    },
+    "2abdac73-098e-80a5-95e6-f6ea23d1090e": {
+      "id": "2abdac73-098e-80a5-95e6-f6ea23d1090e",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "간단 게임 소개:",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "2abdac73-098e-80a7-8c8d-ef4d8fc88b54": {
+      "id": "2abdac73-098e-80a7-8c8d-ef4d8fc88b54",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "손님들의 욕망을 파악하고, 이에 맞는 캔디를 정확하게 만들어 내는 것이 목표입니다."
+          ]
+        ]
+      }
+    },
+    "2abdac73-098e-8091-a72f-f17749e42ddc": {
+      "id": "2abdac73-098e-8091-a72f-f17749e42ddc",
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "3.3 MiB"
+          ]
+        ],
+        "title": [
+          [
+            "image.png"
+          ]
+        ],
+        "source": [
+          [
+            "attachment:0818c605-591f-48db-9a36-fecdecc02b1d:image.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 709.9896240234375,
+        "display_source": "attachment:0818c605-591f-48db-9a36-fecdecc02b1d:image.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.559190031152648,
+        "block_preserve_scale": true
+      }
+    },
+    "2abdac73-098e-8029-a71f-ef11809974e2": {
+      "id": "2abdac73-098e-8029-a71f-ef11809974e2",
+      "type": "callout",
+      "content": [
+        "2abdac73-098e-8089-9cd8-e6a830dc4783"
+      ],
+      "format": {
+        "page_icon": "💡",
+        "block_color": "gray_background",
+        "callout_version": 2,
+        "copied_from_pointer": {
+          "id": "221dac73-098e-8039-b5c1-c6367bdcc351",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    },
+    "2abdac73-098e-80be-9d5e-f0bca1e18e0b": {
+      "id": "2abdac73-098e-80be-9d5e-f0bca1e18e0b",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "게임 설명"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "221dac73-098e-801a-9160-f4d9bb356ce1",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    },
+    "2abdac73-098e-8084-8f05-e285e553bed8": {
+      "id": "2abdac73-098e-8084-8f05-e285e553bed8",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "마법 재료를 "
+          ],
+          [
+            "정해진 레시피에 맞춰 섞고 끓이는 미니게임",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "을 통해 캔디를 제작합니다."
+          ]
+        ]
+      }
+    },
+    "2abdac73-098e-803f-997f-edce53532428": {
+      "id": "2abdac73-098e-803f-997f-edce53532428",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "장르:",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "#타임매니지먼트",
+            [
+              [
+                "c"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "#경영",
+            [
+              [
+                "c"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "#퍼즐",
+            [
+              [
+                "c"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "#미니게임",
+            [
+              [
+                "c"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "#캐주얼",
+            [
+              [
+                "c"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "#할로윈테마",
+            [
+              [
+                "c"
+              ]
+            ]
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "221dac73-098e-8059-9c07-c1f2adc50b92",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    },
+    "2abdac73-098e-80b1-a28e-eda5c33761e3": {
+      "id": "2abdac73-098e-80b1-a28e-eda5c33761e3",
+      "type": "page",
+      "properties": {
+        "RXZ@": [
+          [
+            "게임잼"
+          ]
+        ],
+        "WI}I": [
+          [
+            "2025/10/10 ~ 2025/10/20"
+          ]
+        ],
+        "title": [
+          [
+            "Wizard Candy Maker (위저드 캔디 메이커)"
+          ]
+        ]
+      },
+      "content": [
+        "2abdac73-098e-8069-9b57-cd5f875a0bc0",
+        "2abdac73-098e-8091-a72f-f17749e42ddc",
+        "2abdac73-098e-8029-a71f-ef11809974e2",
+        "2abdac73-098e-805e-bb8f-d67426bf7cc1",
+        "2abdac73-098e-80ad-a27c-dc9f987a3f39",
+        "2abdac73-098e-80cb-8640-d114c1820253",
+        "2abdac73-098e-8095-98bb-cd838dc89ac1",
+        "2abdac73-098e-803f-997f-edce53532428",
+        "2abdac73-098e-80a5-95e6-f6ea23d1090e",
+        "2abdac73-098e-8084-89d7-f9e0aefba02e",
+        "2abdac73-098e-80a7-8c8d-ef4d8fc88b54",
+        "2abdac73-098e-8084-8f05-e285e553bed8"
+      ],
+      "format": {
+        "social_media_image_preview_url": "attachment:ada562c6-9b9c-40c0-80eb-a5a4797e7779:SocialMediaPreviewImage.png"
+      }
+    },
+    "2abdac73-098e-8069-9b57-cd5f875a0bc0": {
+      "id": "2abdac73-098e-8069-9b57-cd5f875a0bc0",
+      "type": "sub_sub_header",
+      "properties": {
+        "title": [
+          [
+            "프로젝트 링크: "
+          ],
+          [
+            "‣",
+            [
+              [
+                "lm",
+                {
+                  "href": "https://lny612.itch.io/wizardcandymaker",
+                  "title": "Wizard Candy Maker",
+                  "icon_url": "https://img.itch.zone/aW1nLzIzNzA0MTAzLnBuZw==/32x32%23/5dL7By.png",
+                  "description": "A sinister candy maker crafts twisted treats for trick-or-treating souls.",
+                  "link_provider": "itch.io",
+                  "thumbnail_url": "https://img.itch.zone/aW1nLzIzNzA0MTAzLnBuZw==/original/7sL0iD.png"
+                }
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "2abdac73-098e-8089-9cd8-e6a830dc4783": {
+      "id": "2abdac73-098e-8089-9cd8-e6a830dc4783",
+      "type": "sub_sub_header",
+      "properties": {
+        "title": [
+          [
+            "게임 기획자 & 프로그래머 역할 수행"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "221dac73-098e-80db-8d93-ef70627998b4",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    },
+    "2abdac73-098e-8095-98bb-cd838dc89ac1": {
+      "id": "2abdac73-098e-8095-98bb-cd838dc89ac1",
+      "type": "callout",
+      "content": [
+        "2abdac73-098e-80be-9d5e-f0bca1e18e0b"
+      ],
+      "format": {
+        "page_icon": "💡",
+        "block_color": "gray_background",
+        "callout_version": 2,
+        "copied_from_pointer": {
+          "id": "221dac73-098e-8067-a6d4-e262d7fde6bb",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    },
+    "2abdac73-098e-805e-bb8f-d67426bf7cc1": {
+      "id": "2abdac73-098e-805e-bb8f-d67426bf7cc1",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "2인 개발 팀에서 "
+          ],
+          [
+            "핵심 기획자 & Unity C# 프로그래머",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "로 참여하여 전체 게임 플레이 루프를 설계 및 구현"
+          ]
+        ]
+      }
+    },
+    "2abdac73-098e-8084-89d7-f9e0aefba02e": {
+      "id": "2abdac73-098e-8084-89d7-f9e0aefba02e",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "플레이어는 할로윈 밤, 마법사이자 제과사가 되어 "
+          ],
+          [
+            "마법 캔디 공방을 운영하는 주인공",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "이 됩니다."
+          ]
+        ]
+      }
+    },
+    "2abdac73-098e-80ad-a27c-dc9f987a3f39": {
+      "id": "2abdac73-098e-80ad-a27c-dc9f987a3f39",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "마법 레시피, 캔디 제작 미니게임, 손님 주문/대기 시스템 등 "
+          ],
+          [
+            "핵심 시스템 전반을 직접 기획하고 프로토타입–밸런싱까지 반복 개선",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  }
+}

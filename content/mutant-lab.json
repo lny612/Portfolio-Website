@@ -1,0 +1,364 @@
+{
+  "slug": "mutant-lab",
+  "root": "221dac73-098e-80b6-89e7-e411cd873cce",
+  "blocks": {
+    "221dac73-098e-8073-99da-ca0e5b7caf79": {
+      "id": "221dac73-098e-8073-99da-ca0e5b7caf79",
+      "type": "sub_sub_header",
+      "properties": {
+        "title": [
+          [
+            "프로젝트 링크: "
+          ],
+          [
+            "‣",
+            [
+              [
+                "lm",
+                {
+                  "href": "https://sesum9.itch.io/mutantlab",
+                  "title": "MutantLab",
+                  "icon_url": "https://img.itch.zone/aW1nLzE3NDcwOTIxLnBuZw==/32x32%23/KczX6M.png",
+                  "description": "Available for Windows",
+                  "link_provider": "itch.io",
+                  "thumbnail_url": "https://img.itch.zone/aW1nLzE3NDcwOTIxLnBuZw==/original/7f8QAK.png"
+                }
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-8009-85a1-cd293a70c15f": {
+      "id": "221dac73-098e-8009-85a1-cd293a70c15f",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "당신의 임무는 생체 매크로 유기체를 생산·판매하는 공장에서 QA(Quality Assurance, 품질 보증)를 수행하는 것입니다."
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-8096-a070-f91712899dde": {
+      "id": "221dac73-098e-8096-a070-f91712899dde",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "게임만의 독창적인 비주얼 스타일을 구축하기 위한 픽셀 아트워크 제작"
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-801f-8b1c-d8ebdfc0d4a0": {
+      "id": "221dac73-098e-801f-8b1c-d8ebdfc0d4a0",
+      "type": "text"
+    },
+    "221dac73-098e-802d-a402-c1ee28346044": {
+      "id": "221dac73-098e-802d-a402-c1ee28346044",
+      "type": "sub_sub_header",
+      "properties": {
+        "title": [
+          [
+            "게임 기획자 & 아티스트 역할 수행"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "221dac73-098e-80e5-9cc5-d0567872561e",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    },
+    "221dac73-098e-8052-9e55-c30385afe57c": {
+      "id": "221dac73-098e-8052-9e55-c30385afe57c",
+      "type": "video",
+      "properties": {
+        "source": [
+          [
+            "https://youtu.be/44B-NFL2t3Y?si=YgB7Vdm-3fxOYqOB"
+          ]
+        ]
+      },
+      "format": {
+        "link_title": "MutantLab GamePlay",
+        "block_width": 1280,
+        "link_author": "유승훈",
+        "link_provider": "YouTube",
+        "display_source": "https://www.youtube.com/embed/44B-NFL2t3Y?rel=0",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.5625,
+        "block_preserve_scale": true
+      }
+    },
+    "221dac73-098e-80d4-9b4e-d3b4ab497630": {
+      "id": "221dac73-098e-80d4-9b4e-d3b4ab497630",
+      "type": "callout",
+      "content": [
+        "221dac73-098e-80d6-a249-f3a6539583bf"
+      ],
+      "format": {
+        "page_icon": "💡",
+        "block_color": "gray_background",
+        "callout_version": 2,
+        "copied_from_pointer": {
+          "id": "221dac73-098e-8072-b881-e6de0c5f5dd1",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    },
+    "221dac73-098e-80b6-89e7-e411cd873cce": {
+      "id": "221dac73-098e-80b6-89e7-e411cd873cce",
+      "type": "page",
+      "properties": {
+        "RXZ@": [
+          [
+            "게임잼"
+          ]
+        ],
+        "WI}I": [
+          [
+            "2024/08/06 ~ 2024/08/08 (48시간)"
+          ]
+        ],
+        "title": [
+          [
+            "Mutant Lab (뮤턴트 랩)"
+          ]
+        ]
+      },
+      "content": [
+        "221dac73-098e-8073-99da-ca0e5b7caf79",
+        "221dac73-098e-80e4-adf8-e8356c0a2f18",
+        "221dac73-098e-80fa-a1ce-dcff712c9a54",
+        "221dac73-098e-8082-af33-fc85d6d6a6e9",
+        "221dac73-098e-8096-a070-f91712899dde",
+        "221dac73-098e-8001-a2ff-e3bc740e1159",
+        "221dac73-098e-801b-80d0-c77fd9cbd13a",
+        "221dac73-098e-80d4-9b4e-d3b4ab497630",
+        "221dac73-098e-8052-9e55-c30385afe57c",
+        "221dac73-098e-8006-8508-e01ae3bfff6e",
+        "221dac73-098e-804d-a74e-f6b5c0d1392a",
+        "221dac73-098e-8009-85a1-cd293a70c15f",
+        "221dac73-098e-8001-b9d4-fff0faf10988",
+        "221dac73-098e-8074-a095-d7887a9aec83",
+        "221dac73-098e-8082-8b37-e0b7d0acbf8f",
+        "221dac73-098e-801f-8b1c-d8ebdfc0d4a0"
+      ],
+      "format": {
+        "social_media_image_preview_url": "attachment:0b54a884-d10e-483d-a46a-3c04a1643725:SocialMediaPreviewImage.png"
+      }
+    },
+    "221dac73-098e-8082-af33-fc85d6d6a6e9": {
+      "id": "221dac73-098e-8082-af33-fc85d6d6a6e9",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "균형 있고 몰입감 있는 게임 플레이를 보장하기 위한 종합적인 게임 시스템 설계"
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-804d-a74e-f6b5c0d1392a": {
+      "id": "221dac73-098e-804d-a74e-f6b5c0d1392a",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "간단한 게임 소개:",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-8006-8508-e01ae3bfff6e": {
+      "id": "221dac73-098e-8006-8508-e01ae3bfff6e",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "장르:",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "#슈터",
+            [
+              [
+                "c"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "#아케이드",
+            [
+              [
+                "c"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "#기억력 테스트",
+            [
+              [
+                "c"
+              ]
+            ]
+          ],
+          [
+            " "
+          ],
+          [
+            "#관찰력",
+            [
+              [
+                "c"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-8082-8b37-e0b7d0acbf8f": {
+      "id": "221dac73-098e-8082-8b37-e0b7d0acbf8f",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "연구소의 명성을 지키는 것은 당신의 최우선 과제입니다."
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-80e4-adf8-e8356c0a2f18": {
+      "id": "221dac73-098e-80e4-adf8-e8356c0a2f18",
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "79.1KB"
+          ]
+        ],
+        "title": [
+          [
+            "image.png"
+          ]
+        ],
+        "source": [
+          [
+            "attachment:59c930bf-8235-4747-867e-61c81248dcaf:image.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 709.9791870117188,
+        "display_source": "attachment:59c930bf-8235-4747-867e-61c81248dcaf:image.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.5594713656387665,
+        "block_preserve_scale": true
+      }
+    },
+    "221dac73-098e-80d6-a249-f3a6539583bf": {
+      "id": "221dac73-098e-80d6-a249-f3a6539583bf",
+      "type": "sub_sub_header",
+      "properties": {
+        "title": [
+          [
+            "게임 설명"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "221dac73-098e-80bc-8c9a-ef4fd6ca730b",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    },
+    "221dac73-098e-801b-80d0-c77fd9cbd13a": {
+      "id": "221dac73-098e-801b-80d0-c77fd9cbd13a",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "플레이어 인사이트에 기반한 게임 시스템 수정, 버그 수정 및 게임플레이 개선"
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-8074-a095-d7887a9aec83": {
+      "id": "221dac73-098e-8074-a095-d7887a9aec83",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "이들을 세 번의 실험에 투입해 이상 개체를 식별하고, 생산 라인을 탈출해 고객에게 전달되기 전에 반드시 제거해야 합니다."
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-8001-a2ff-e3bc740e1159": {
+      "id": "221dac73-098e-8001-a2ff-e3bc740e1159",
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "플레이어 피드백 수집을 위한 MDA(메커닉·다이내믹·미학) 테스트 진행"
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-8001-b9d4-fff0faf10988": {
+      "id": "221dac73-098e-8001-b9d4-fff0faf10988",
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "때때로 문제의 유기체들이 돌연변이를 일으켜 ‘WEIRD’가 되기도 합니다!"
+          ]
+        ]
+      }
+    },
+    "221dac73-098e-80fa-a1ce-dcff712c9a54": {
+      "id": "221dac73-098e-80fa-a1ce-dcff712c9a54",
+      "type": "callout",
+      "content": [
+        "221dac73-098e-802d-a402-c1ee28346044"
+      ],
+      "format": {
+        "page_icon": "💡",
+        "block_color": "gray_background",
+        "callout_version": 2,
+        "copied_from_pointer": {
+          "id": "221dac73-098e-808a-9856-f91e6a2a9e30",
+          "table": "block",
+          "spaceId": "0897a4e6-9622-4582-bec7-4c4d4ca3eda1"
+        }
+      }
+    }
+  }
+}

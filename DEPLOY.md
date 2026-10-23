@@ -43,7 +43,7 @@ The prepared ZIP excludes old downloaded source pages, caches, and build output.
 - Open the production URL in a private/incognito browser window, without a Vercel login.
 - Switch between English and Korean.
 - Open featured projects and the five additional projects.
-- Open Bone To Gather's publisher presentation and the full Darkest Dungeon analysis.
+- Open the nine-game gallery, both new PDF-based case studies, and Bone To Gather's publisher presentation.
 - Refresh a project page directly to check that deep links work.
 - Check images, video playback, contact links, and a narrow mobile viewport.
 

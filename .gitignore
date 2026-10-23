@@ -8,3 +8,5 @@ exports/
 .env
 .env.*
 !.env.example
+
+tmp/

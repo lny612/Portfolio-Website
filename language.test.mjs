@@ -6,6 +6,10 @@ import {readFileSync} from 'node:fs';
 const source = readFileSync('language.js', 'utf8');
 const translations = vm.runInNewContext(source.split('const textEntries')[0] + '\nkorean');
 
+test('browser scripts have valid syntax',()=>{
+  for(const file of ['app.js','language.js','project.js'])new vm.Script(readFileSync(file,'utf8'),{filename:file});
+});
+
 test('every translation switches and restores without replacing markup; preference persists', () => {
   const nodes = Object.keys(translations).map(key => ({textContent:` ${key} `,parentElement:{closest:()=>false}}));
   const originals = nodes.map(node=>node.textContent);
@@ -43,8 +47,6 @@ test('all English text in the page has a translation except official names and t
   const allowed=new Set(['n','l','Unity / C#','AWIL Limited Company','iris61214@gmail.com']);
   const texts=[...html.matchAll(/>([^<>]+)</g)].map(match=>match[1].trim()).filter(text=>/[a-zA-Z]/.test(text));
   assert.deepEqual(texts.filter(text=>!Object.hasOwn(translations,text)&&!allowed.has(text)),[]);
-  const app=readFileSync('app.js','utf8');
-  const titles=[...app.matchAll(/\['([^']+)','[a-f0-9]{32}'\]/g)].map(match=>match[1]);
-  assert.equal(titles.length,5);
-  for(const title of titles)assert.ok(Object.hasOwn(translations,title),title);
+  const featured=JSON.parse(readFileSync('content/featured-projects.json','utf8'));
+  for(const project of featured)assert.equal(translations[project.name],project.ko);
 });

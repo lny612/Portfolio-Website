@@ -4,11 +4,12 @@ import {readFileSync,existsSync} from 'node:fs';
 import path from 'node:path';
 const json=file=>JSON.parse(readFileSync(file,'utf8'));
 const manifest=json('content/render-manifest.json');
-const roots=['bone-to-gather','clockwork-nabi','wizard-candy-maker','mutant-lab','classic-rts','quench','flip-maze','darkest-dungeon'];
+const roots=['bone-to-gather','clockwork-nabi','wizard-candy-maker','mutant-lab','classic-rts','quench','flip-maze'];
+const added=['skulls-pay-the-bills','the-wand-atelier'];
 const docs=roots.map(slug=>json(`content/${slug}.json`));
 
 test('all imported blocks, nested pages, and media are included in the static migration',()=>{
- assert.equal(manifest.length,10);
+ assert.equal(manifest.length,8);
  const rendered=new Set(manifest.flatMap(page=>page.blocks));
  const missing=docs.flatMap(doc=>Object.keys(doc.blocks)).filter(id=>!rendered.has(id));
  assert.deepEqual(missing,[]);
@@ -26,7 +27,7 @@ test('all imported blocks, nested pages, and media are included in the static mi
 });
 
 test('project links, table-of-contents anchors, and assets resolve locally',()=>{
- const files=['index.html',...manifest.map(page=>`projects/${page.slug}.html`)];
+ const files=['index.html','projects.html',...added.map(slug=>`projects/${slug}.html`),...manifest.map(page=>`projects/${page.slug}.html`)];
  for(const file of files){
   const html=readFileSync(file,'utf8');
   if(file!=='index.html')assert.ok(!/href="[^"]*notion\.(site|so)/.test(html),file);
@@ -40,8 +41,21 @@ test('project links, table-of-contents anchors, and assets resolve locally',()=>
   }
  }
  const home=readFileSync('index.html','utf8');
- for(const slug of roots.slice(0,3))assert.equal(home.split(`href="projects/${slug}.html"`).length-1,2);
+ for(const slug of ['bone-to-gather',...added])assert.equal(home.split(`href="projects/${slug}.html"`).length-1,2);
  assert.ok(!readFileSync('app.js','utf8').includes('https://brass-wormhole'));
+});
+
+test('gallery includes all nine games, bilingual additions, and excludes retired analysis',()=>{
+ const gallery=readFileSync('dist/projects.html','utf8');
+ assert.equal((gallery.match(/class="gallery-card"/g)||[]).length,9);
+ for(const slug of [...roots,...added])assert.ok(gallery.includes(`projects/${slug}.html`));
+ assert.ok(!gallery.includes('darkest-dungeon'));
+ for(const slug of ['darkest-dungeon','darkest-dungeon-analysis'])assert.ok(!existsSync(`dist/projects/${slug}.html`));
+ for(const slug of added){const html=readFileSync(`dist/projects/${slug}.html`,'utf8');assert.ok(html.includes('class="locale-en"'));assert.ok(html.includes('class="locale-ko"'));assert.ok(html.includes('../language.js'));}
+ const home=readFileSync('dist/index.html','utf8');
+ assert.equal((home.match(/class="timeline-item reveal"/g)||[]).length,3);
+ assert.ok(home.includes('href="projects.html"'));
+ assert.ok(!/PORTFOLIO \/ 2026|IDEA → PROTOTYPE → PLAY|From the first prototype/.test(home));
 });
 
 test('all source prose has English and Korean versions; deployment contains all pages',()=>{

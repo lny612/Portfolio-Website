@@ -9,12 +9,12 @@ const lines=(await readFile(path.join(root,'content/translations.tsv'),'utf8')).
 const translations=new Map(lines.map(line=>{const i=line.indexOf('\t');return [sources[Number(line.slice(0,i))],line.slice(i+1)];}));
 if(translations.size!==sources.length)throw new Error('Incomplete translation inventory');
 const media=await read('content/media.json');
-const order=['bone-to-gather','clockwork-nabi','wizard-candy-maker','mutant-lab','classic-rts','quench','flip-maze','darkest-dungeon'];
+const order=['bone-to-gather','clockwork-nabi','wizard-candy-maker','mutant-lab','classic-rts','quench','flip-maze'];
 const docs=await Promise.all(order.map(slug=>read(`content/${slug}.json`)));
 const blocks=Object.assign({},...docs.map(d=>d.blocks));
 const routes=Object.fromEntries(docs.map(d=>[d.root,d.slug]));
 routes['15edac73-098e-8048-912e-dc57681e1b36']='bone-to-gather-press-kit';
-routes['18fdac73-098e-81ad-89c4-e0b80cdb27b0']='darkest-dungeon-analysis';
+
 const esc=s=>String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'",'&#39;');
 const plain=runs=>(runs||[]).map(r=>r[0]==='‣'?'':r[0]).join('').trim();
 function pair(value){const other=translations.get(value);if(!other)return {en:value,ko:value};return /[가-힣]/.test(value)?{en:other,ko:value}:{en:value,ko:other};}
@@ -110,11 +110,11 @@ for(const [id,slug] of Object.entries(routes)){
  const cover=media[id+'-cover'];
  const body=`<!doctype html><html lang="en" data-ko-title="${esc(title.ko+' — 임나영 포트폴리오')}"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#141711"><title>${esc(title.en)} — Nayoung Lim</title><meta name="description" content="${esc(title.en)} — project details, design contributions, and supporting material by Nayoung Lim." data-ko-content="${esc(title.ko)} — 임나영의 프로젝트 소개, 기획 과정 및 관련 자료."><link rel="icon" href="../assets/mark.svg"><link rel="stylesheet" href="../style.css"><link rel="stylesheet" href="../project.css"><script src="../project.js" defer></script><script src="../language.js" defer></script></head><body>
  <a class="skip" href="#case-content">${label('Skip to project content','프로젝트 본문 바로가기')}</a><div class="progress" aria-hidden="true"></div>
- <header><a class="brand" href="../index.html" aria-label="Nayoung Lim home">n<span>↗</span>l<span class="brand-name">NAYOUNG LIM</span></a><nav aria-label="Main navigation"><a href="../index.html#work">${label('Work','프로젝트')}</a><a href="../index.html#about">${label('About','소개')}</a><a href="../index.html#contact">${label('Let’s talk ↗','연락하기 ↗')}</a></nav></header>
- <main><section class="case-hero"><a class="case-back" href="../index.html#work">${label('← All projects','← 전체 프로젝트')}</a><span class="eyebrow">${label('PROJECT / '+String(idx+1).padStart(2,'0'),'프로젝트 / '+String(idx+1).padStart(2,'0'))}</span><h1>${label(title.en,title.ko)}</h1>${metadata?`<dl class="case-meta">${metadata}</dl>`:''}${slug==='clockwork-nabi'?`<p class="case-note">${label('The original date range is reproduced above; the source describes a nine-month project.','원문의 기간 표기를 그대로 옮겼습니다. 원문에는 약 9개월간 진행한 프로젝트로 소개되어 있습니다.')}</p>`:''}${cover?`<img class="case-cover" src="../${esc(cover)}" alt="${esc(title.en)}" data-ko-alt="${esc(title.ko)}">`:''}</section>
+ <header><a class="brand" href="../index.html" aria-label="Nayoung Lim home">n<span>↗</span>l<span class="brand-name">NAYOUNG LIM</span></a><nav aria-label="Main navigation"><a href="../projects.html">${label('Work','프로젝트')}</a><a href="../index.html#about">${label('About','소개')}</a><a href="../index.html#contact">${label('Let’s talk ↗','연락하기 ↗')}</a></nav></header>
+ <main><section class="case-hero"><a class="case-back" href="../projects.html">${label('← All projects','← 전체 프로젝트')}</a><span class="eyebrow">${label('PROJECT / '+String(idx+1).padStart(2,'0'),'프로젝트 / '+String(idx+1).padStart(2,'0'))}</span><h1>${label(title.en,title.ko)}</h1>${metadata?`<dl class="case-meta">${metadata}</dl>`:''}${slug==='clockwork-nabi'?`<p class="case-note">${label('The original date range is reproduced above; the source describes a nine-month project.','원문의 기간 표기를 그대로 옮겼습니다. 원문에는 약 9개월간 진행한 프로젝트로 소개되어 있습니다.')}</p>`:''}${cover?`<img class="case-cover" src="../${esc(cover)}" alt="${esc(title.en)}" data-ko-alt="${esc(title.ko)}">`:''}</section>
  <div class="case-layout"><aside class="case-sidebar"><p class="eyebrow">${label('ON THIS PAGE','목차')}</p><nav aria-label="Project contents" data-ko-aria-label="프로젝트 목차">${toc.map(b=>`<a href="#block-${b.id}">${text(b.properties?.title)}</a>`).join('')}<a href="#project-end">${label('Next project →','다음 프로젝트 →')}</a></nav></aside><article class="case-content" id="case-content">${content}</article></div>
  <section class="case-next" id="project-end"><div><span class="eyebrow">${label('KEEP EXPLORING','계속 살펴보기')}</span><h2>${link(next.slug+'.html',text(blocks[next.root].properties.title))}</h2></div><a class="arrow-circle" href="${next.slug}.html" aria-label="Next project" data-ko-aria-label="다음 프로젝트">→</a></section></main>
- <footer><span>© <span id="year">2026</span> NAYOUNG LIM</span><a href="../index.html#work">${label('ALL PROJECTS ↑','전체 프로젝트 ↑')}</a></footer></body></html>`;
+ <footer><span>© <span id="year">2026</span> NAYOUNG LIM</span><a href="../projects.html">${label('ALL PROJECTS ↑','전체 프로젝트 ↑')}</a></footer></body></html>`;
  await writeFile(path.join(root,'projects',slug+'.html'),body);
  manifest.push({slug,id,blocks:[...rendered],images:[...rendered].filter(key=>blocks[key].type==='image')});
 }

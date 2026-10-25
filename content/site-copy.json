@@ -527,7 +527,7 @@
         "ko": "포트폴리오에 기록된 성과: 누적 고유 사용자 8,000명 이상, Steam 긍정 리뷰 100건 이상."
       },
       "en": "The portfolio records 8,000+ unique users and 100+ positive Steam reviews.",
-      "ko": "포트폴리오에 기록된 성과: 누적 고유 사용자 8,000명 이상, Steam 긍정 리뷰 100건 이상.",
+      "ko": "포트폴리오에 기록된 성과: 누적 고유 사용자 20,000명 이상, Steam 긍정 리뷰 200건 이상.",
       "pages": [
         "index.html"
       ]
@@ -996,19 +996,6 @@
       ]
     },
     {
-      "id": "d00fa78df9580f6d3683",
-      "kind": "text",
-      "original": {
-        "en": "2022–PRESENT",
-        "ko": "2022–현재"
-      },
-      "en": "2022–PRESENT",
-      "ko": "2022–현재",
-      "pages": [
-        "index.html"
-      ]
-    },
-    {
       "id": "c25a1d64bc88086e83e5",
       "kind": "text",
       "original": {
@@ -1022,45 +1009,6 @@
       ]
     },
     {
-      "id": "fe16f815b9f4e9d5cd66",
-      "kind": "text",
-      "original": {
-        "en": "Education",
-        "ko": "학력"
-      },
-      "en": "Education",
-      "ko": "학력",
-      "pages": [
-        "index.html"
-      ]
-    },
-    {
-      "id": "f0bd7eaaa5c2aded7d6e",
-      "kind": "text",
-      "original": {
-        "en": "Studying at the University of Hong Kong, with a humanistic perspective on how people learn and play.",
-        "ko": "홍콩대학교에서 공부하며 사람들이 배우고 플레이하는 방식에 대한 인문학적 관점을 기르고 있습니다."
-      },
-      "en": "Studying at the University of Hong Kong, with a humanistic perspective on how people learn and play.",
-      "ko": "홍콩대학교에서 공부하며 사람들이 배우고 플레이하는 방식에 대한 인문학적 관점을 기르고 있습니다.",
-      "pages": [
-        "index.html"
-      ]
-    },
-    {
-      "id": "9d2fb4a71e42efcfa904",
-      "kind": "text",
-      "original": {
-        "en": "2024 / JUL–DEC",
-        "ko": "2024 / 7–12월"
-      },
-      "en": "2024 / JUL–DEC",
-      "ko": "2024 / 7–12월",
-      "pages": [
-        "index.html"
-      ]
-    },
-    {
       "id": "d99d4da0358d05426556",
       "kind": "text",
       "original": {
@@ -1069,84 +1017,6 @@
       },
       "en": "KRAFTON Jungle Game Lab",
       "ko": "크래프톤 정글 게임랩",
-      "pages": [
-        "index.html"
-      ]
-    },
-    {
-      "id": "64285db8d8d5cf88ebeb",
-      "kind": "text",
-      "original": {
-        "en": "2nd cohort · Bone To Gather Steam launch",
-        "ko": "2기 참가 · 본 투 게더 Steam 출시"
-      },
-      "en": "2nd cohort · Bone To Gather Steam launch",
-      "ko": "2기 참가 · 본 투 게더 Steam 출시",
-      "pages": [
-        "index.html"
-      ]
-    },
-    {
-      "id": "ee9aefbf7db85e4cfe76",
-      "kind": "text",
-      "original": {
-        "en": "Developed Bone To Gather with the second cohort and brought the team’s game to Steam.",
-        "ko": "게임랩 2기에서 팀과 함께 본 투 게더를 개발하고 Steam에 출시했습니다."
-      },
-      "en": "Developed Bone To Gather with the second cohort and brought the team’s game to Steam.",
-      "ko": "게임랩 2기에서 팀과 함께 본 투 게더를 개발하고 Steam에 출시했습니다.",
-      "pages": [
-        "index.html"
-      ]
-    },
-    {
-      "id": "32cbfa95ea5808a83187",
-      "kind": "text",
-      "original": {
-        "en": "2025 / JUN–AUG",
-        "ko": "2025 / 6–8월"
-      },
-      "en": "2025 / JUN–AUG",
-      "ko": "2025 / 6–8월",
-      "pages": [
-        "index.html"
-      ]
-    },
-    {
-      "id": "4d2fa96451b145e63eb4",
-      "kind": "text",
-      "original": {
-        "en": "AWIL Limited Company",
-        "ko": "AWIL Limited Company"
-      },
-      "en": "AWIL Limited Company",
-      "ko": "AWIL Limited Company",
-      "pages": [
-        "index.html"
-      ]
-    },
-    {
-      "id": "538ba4ff6945cacad531",
-      "kind": "text",
-      "original": {
-        "en": "Game programmer",
-        "ko": "게임 프로그래머"
-      },
-      "en": "Game programmer",
-      "ko": "게임 프로그래머",
-      "pages": [
-        "index.html"
-      ]
-    },
-    {
-      "id": "2701f9023aafd41ea360",
-      "kind": "text",
-      "original": {
-        "en": "Worked as a game programmer, applying hands-on development skills in a professional team.",
-        "ko": "게임 프로그래머로 근무하며 실제 팀 환경에서 개발 경험을 쌓았습니다."
-      },
-      "en": "Worked as a game programmer, applying hands-on development skills in a professional team.",
-      "ko": "게임 프로그래머로 근무하며 실제 팀 환경에서 개발 경험을 쌓았습니다.",
       "pages": [
         "index.html"
       ]
@@ -1462,7 +1332,7 @@
         "ko": "클락워크 나비"
       },
       "en": "Clockwork Nabi",
-      "ko": "클락워크 나비",
+      "ko": "태엽나비",
       "pages": [
         "projects.html"
       ]
@@ -1488,7 +1358,7 @@
         "ko": "마법사 사탕 제작자"
       },
       "en": "Wizard Candy Maker",
-      "ko": "마법사 사탕 제작자",
+      "ko": "위자드 캔디 메이커",
       "pages": [
         "projects.html"
       ]
@@ -1647,7 +1517,7 @@
         "ko": "클락워크 나비"
       },
       "en": "Clockwork Nabi",
-      "ko": "클락워크 나비",
+      "ko": "태엽나비",
       "pages": [
         "projects.html"
       ]
@@ -1660,7 +1530,7 @@
         "ko": "마법사 사탕 제작자"
       },
       "en": "Wizard Candy Maker",
-      "ko": "마법사 사탕 제작자",
+      "ko": "위자드 캔디 메이커",
       "pages": [
         "projects.html"
       ]
@@ -3208,7 +3078,7 @@
         "ko": "+8,000명 누적 고유 사용자, Steam에서 100건 이상 긍정 리뷰"
       },
       "en": "Over 8,000 unique users and more than 100 positive Steam reviews",
-      "ko": "+8,000명 누적 고유 사용자, Steam에서 100건 이상 긍정 리뷰",
+      "ko": "+20,000명 누적 고유 사용자, Steam에서 200건 이상 긍정 리뷰",
       "pages": [
         "projects/bone-to-gather.html"
       ]
@@ -5359,6 +5229,344 @@
       "ko": "Wizard Candy Maker (위저드 캔디 메이커) — 임나영의 프로젝트 소개, 기획 과정 및 관련 자료.",
       "pages": [
         "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "9117948a4edb33628e31",
+      "kind": "alt",
+      "original": {
+        "en": "Mutant Lab",
+        "ko": "뮤턴트 랩"
+      },
+      "en": "Mutant Lab",
+      "ko": "뮤턴트 랩",
+      "pages": [
+        "projects.html"
+      ]
+    },
+    {
+      "id": "3f841bac2d1be9ecc49d",
+      "kind": "alt",
+      "original": {
+        "en": "Classic RTS",
+        "ko": "클래식 RTS"
+      },
+      "en": "Classic RTS",
+      "ko": "클래식 RTS",
+      "pages": [
+        "projects.html"
+      ]
+    },
+    {
+      "id": "59c178dc6a270f52a2f5",
+      "kind": "alt",
+      "original": {
+        "en": "Quench",
+        "ko": "퀀치"
+      },
+      "en": "Quench",
+      "ko": "퀀치",
+      "pages": [
+        "projects.html"
+      ]
+    },
+    {
+      "id": "a711bde6d923631c0506",
+      "kind": "alt",
+      "original": {
+        "en": "Flip Maze",
+        "ko": "플립 메이즈"
+      },
+      "en": "Flip Maze",
+      "ko": "플립 메이즈",
+      "pages": [
+        "projects.html"
+      ]
+    },
+    {
+      "id": "8de92a56f1980cd825aa",
+      "kind": "text",
+      "original": {
+        "en": "2022.09–2026.12 · Expected graduation",
+        "ko": "2022.09–2026.12 · 졸업예정"
+      },
+      "en": "2022.09–2026.12 · Expected graduation",
+      "ko": "2022.09–2026.12 · 졸업예정",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "89c74bff7299d2b2acaa",
+      "kind": "alt",
+      "original": {
+        "en": "The University of Hong Kong logo",
+        "ko": "홍콩대학교 로고"
+      },
+      "en": "The University of Hong Kong logo",
+      "ko": "홍콩대학교 로고",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "cf7913e90e92b44f20ef",
+      "kind": "text",
+      "original": {
+        "en": "BEng in Data Science and Engineering · Minor in English",
+        "ko": "데이터 사이언스 및 엔지니어링 학사 · 영어 부전공"
+      },
+      "en": "BEng in Data Science and Engineering · Minor in English",
+      "ko": "데이터 사이언스 및 엔지니어링 학사 · 영어 부전공",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "e15b2fb2fbf475ac82d9",
+      "kind": "text",
+      "original": {
+        "en": "Studying Data Science and Engineering with a minor in English. Served as a university ambassador for two years, supporting campus events and contributing promotional interviews and written content.",
+        "ko": "데이터 사이언스 및 엔지니어링을 전공하고 영어를 부전공하고 있습니다. 2년간 학교 홍보대사로 활동하며 교내 행사 운영을 돕고, 홍보 인터뷰 촬영과 글 작성에 참여했습니다."
+      },
+      "en": "Studying Data Science and Engineering with a minor in English. Served as a university ambassador for two years, supporting campus events and contributing promotional interviews and written content.",
+      "ko": "데이터 사이언스 및 엔지니어링을 전공하고 영어를 부전공하고 있습니다. 2년간 학교 홍보대사로 활동하며 교내 행사 운영을 돕고, 홍보 인터뷰 촬영과 글 작성에 참여했습니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "96523557c4e6b84b75a4",
+      "kind": "text",
+      "original": {
+        "en": "As an education committee member and game division lead in the Korean Coding Society, organized Git and object-oriented programming workshops and worked on a nine-month game development project for competition submission.",
+        "ko": "한인 코딩 학회의 교육 부문 임원 및 게임 분야 부서장으로 Git·객체지향 프로그래밍 교육을 진행하고, 9개월간 게임 개발과 공모전 출품을 추진했습니다."
+      },
+      "en": "As an education committee member and game division lead in the Korean Coding Society, organized Git and object-oriented programming workshops and worked on a nine-month game development project for competition submission.",
+      "ko": "한인 코딩 학회의 교육 부문 임원 및 게임 분야 부서장으로 Git·객체지향 프로그래밍 교육을 진행하고, 9개월간 게임 개발과 공모전 출품을 추진했습니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "e7a9d934ffdfa433ae7a",
+      "kind": "text",
+      "original": {
+        "en": "2024.09–2024.12",
+        "ko": "2024.09–2024.12"
+      },
+      "en": "2024.09–2024.12",
+      "ko": "2024.09–2024.12",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "f5c94e9462080bb8e377",
+      "kind": "alt",
+      "original": {
+        "en": "KRAFTON Jungle Game Lab logo",
+        "ko": "크래프톤 정글 게임랩 로고"
+      },
+      "en": "KRAFTON Jungle Game Lab logo",
+      "ko": "크래프톤 정글 게임랩 로고",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "58f1b10bc3f22cd2e109",
+      "kind": "text",
+      "original": {
+        "en": "Epic Project · Project manager, game designer & developer",
+        "ko": "Epic Project · 프로젝트 매니저, 기획 및 개발"
+      },
+      "en": "Epic Project · Project manager, game designer & developer",
+      "ko": "Epic Project · 프로젝트 매니저, 기획 및 개발",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "48ccc9f562e81387a145",
+      "kind": "text",
+      "original": {
+        "en": "Managed a five-person team through weekly Agile sprints, setting weekly schedules and OKRs and tracking progress in daily meetings. Presented prototypes and vertical slices to external reviewers and coordinated the team’s external communication.",
+        "ko": "5인 팀에 애자일 방법론을 적용해 위클리 스프린트 기반의 주간 일정과 OKR을 수립하고, 데일리 미팅으로 진행 상황을 관리했습니다. 외부 심사위원에게 프로토타입과 버티컬 슬라이스를 발표하며 대외 커뮤니케이션을 담당했습니다."
+      },
+      "en": "Managed a five-person team through weekly Agile sprints, setting weekly schedules and OKRs and tracking progress in daily meetings. Presented prototypes and vertical slices to external reviewers and coordinated the team’s external communication.",
+      "ko": "5인 팀에 애자일 방법론을 적용해 위클리 스프린트 기반의 주간 일정과 OKR을 수립하고, 데일리 미팅으로 진행 상황을 관리했습니다. 외부 심사위원에게 프로토타입과 버티컬 슬라이스를 발표하며 대외 커뮤니케이션을 담당했습니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "019e0087e8c585e33eb2",
+      "kind": "text",
+      "original": {
+        "en": "Contributed to Bone To Gather from planning and prototyping through Steam release and post-launch updates. Built UI/UX and gameplay features in Unity C#, and analyzed over 200 player feedback entries using the MDA framework to improve UX.",
+        "ko": "본투게더의 기획·프로토타이핑부터 Steam 출시와 후속 업데이트까지 참여했습니다. Unity C#으로 UI/UX와 게임플레이 기능을 구현하고, 플레이어 피드백 200건 이상을 MDA 프레임워크로 분석해 UX를 개선했습니다."
+      },
+      "en": "Contributed to Bone To Gather from planning and prototyping through Steam release and post-launch updates. Built UI/UX and gameplay features in Unity C#, and analyzed over 200 player feedback entries using the MDA framework to improve UX.",
+      "ko": "본투게더의 기획·프로토타이핑부터 Steam 출시와 후속 업데이트까지 참여했습니다. Unity C#으로 UI/UX와 게임플레이 기능을 구현하고, 플레이어 피드백 200건 이상을 MDA 프레임워크로 분석해 UX를 개선했습니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "e9a55d2b871f903bee03",
+      "kind": "text",
+      "original": {
+        "en": "2025.06–2025.08",
+        "ko": "2025.06–2025.08"
+      },
+      "en": "2025.06–2025.08",
+      "ko": "2025.06–2025.08",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "e0059fb4a5aa79ba43ad",
+      "kind": "alt",
+      "original": {
+        "en": "AWIL Group Limited logo",
+        "ko": "AWIL Group Limited 로고"
+      },
+      "en": "AWIL Group Limited logo",
+      "ko": "AWIL Group Limited 로고",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "95debaaa96be2f8a52d0",
+      "kind": "text",
+      "original": {
+        "en": "AWIL Group Limited",
+        "ko": "AWIL Group Limited"
+      },
+      "en": "AWIL Group Limited",
+      "ko": "AWIL Group Limited",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "137c2690a90db02da5de",
+      "kind": "text",
+      "original": {
+        "en": "Unity programmer intern",
+        "ko": "유니티 프로그래머 인턴"
+      },
+      "en": "Unity programmer intern",
+      "ko": "유니티 프로그래머 인턴",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "7bf2642ee3483ba7d0f4",
+      "kind": "text",
+      "original": {
+        "en": "Contributed to the renewal of a gamified mental-health learning app through testing, bug fixes, and new content. Developed educational minigames in Unity and C# and built file input/output utilities for large-scale data processing.",
+        "ko": "게이미피케이션 기반 정신건강 학습 앱의 리뉴얼에 참여해 테스트, 버그 수정, 신규 콘텐츠 구현을 담당했습니다. Unity와 C#으로 교육용 미니게임을 개발하고 대용량 데이터 처리를 위한 파일 입출력 유틸리티를 구축했습니다."
+      },
+      "en": "Contributed to the renewal of a gamified mental-health learning app through testing, bug fixes, and new content. Developed educational minigames in Unity and C# and built file input/output utilities for large-scale data processing.",
+      "ko": "게이미피케이션 기반 정신건강 학습 앱의 리뉴얼에 참여해 테스트, 버그 수정, 신규 콘텐츠 구현을 담당했습니다. Unity와 C#으로 교육용 미니게임을 개발하고 대용량 데이터 처리를 위한 파일 입출력 유틸리티를 구축했습니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "73ebf3692faf728ffaca",
+      "kind": "text",
+      "original": {
+        "en": "Worked closely with design and art teams to implement gameplay and learning features from the early stages, following the game design document.",
+        "ko": "기획·아트 팀과 긴밀히 협업하며 게임 기획서에 따라 게임플레이와 학습 기능을 초기 단계부터 구현했습니다."
+      },
+      "en": "Worked closely with design and art teams to implement gameplay and learning features from the early stages, following the game design document.",
+      "ko": "기획·아트 팀과 긴밀히 협업하며 게임 기획서에 따라 게임플레이와 학습 기능을 초기 단계부터 구현했습니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "7dd844a99a9edfb6cb36",
+      "kind": "text",
+      "original": {
+        "en": "2026.06–2026.08",
+        "ko": "2026.06–2026.08"
+      },
+      "en": "2026.06–2026.08",
+      "ko": "2026.06–2026.08",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "a1370f71cce17d306f7d",
+      "kind": "alt",
+      "original": {
+        "en": "Solomon Learning Group logo",
+        "ko": "Solomon Learning Group 로고"
+      },
+      "en": "Solomon Learning Group logo",
+      "ko": "Solomon Learning Group 로고",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "282b49e4bd02514113a8",
+      "kind": "text",
+      "original": {
+        "en": "Solomon Learning Group",
+        "ko": "Solomon Learning Group"
+      },
+      "en": "Solomon Learning Group",
+      "ko": "Solomon Learning Group",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "a8a11cf2fbea9cbad4ee",
+      "kind": "text",
+      "original": {
+        "en": "Software engineer intern",
+        "ko": "소프트웨어 엔지니어 인턴"
+      },
+      "en": "Software engineer intern",
+      "ko": "소프트웨어 엔지니어 인턴",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "3b5649ea9eff58b3d972",
+      "kind": "text",
+      "original": {
+        "en": "Used Cursor agents to fix web-platform bugs and add tutorial features. Implemented a website redesign with Claude Code and Figma MCP.",
+        "ko": "Cursor 에이전트를 활용해 웹 플랫폼의 버그를 수정하고 튜토리얼 기능을 추가했습니다. Claude Code와 Figma MCP로 자사 웹사이트 전면 개편안을 구현했습니다."
+      },
+      "en": "Used Cursor agents to fix web-platform bugs and add tutorial features. Implemented a website redesign with Claude Code and Figma MCP.",
+      "ko": "Cursor 에이전트를 활용해 웹 플랫폼의 버그를 수정하고 튜토리얼 기능을 추가했습니다. Claude Code와 Figma MCP로 자사 웹사이트 전면 개편안을 구현했습니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "02d4d8d631f1489b708b",
+      "kind": "text",
+      "original": {
+        "en": "Migrated internal collaboration from Jira and Excel to Lark and built automation workflows. Produced a promotional video for a company dinner event using Higgsfield and Seedance.",
+        "ko": "Jira·Excel에서 Lark로 사내 협업 도구를 이전하고 자동화 시스템을 구축했습니다. Higgsfield와 Seedance를 활용해 자사 디너 이벤트용 홍보 영상을 제작했습니다."
+      },
+      "en": "Migrated internal collaboration from Jira and Excel to Lark and built automation workflows. Produced a promotional video for a company dinner event using Higgsfield and Seedance.",
+      "ko": "Jira·Excel에서 Lark로 사내 협업 도구를 이전하고 자동화 시스템을 구축했습니다. Higgsfield와 Seedance를 활용해 자사 디너 이벤트용 홍보 영상을 제작했습니다.",
+      "pages": [
+        "index.html"
       ]
     }
   ]

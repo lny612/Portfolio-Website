@@ -16,6 +16,8 @@ This static setup is suitable for a personal portfolio on Vercel's Hobby plan, s
 
 ## Edit
 
+For everyday text changes, double-click `portfolio-editor.cmd`. The local editor supports Korean/English search and editing, previews, local backups, and publishing through GitHub/Vercel. See [ADMIN.md](ADMIN.md). All editable copy is stored in `content/site-copy.json`; the build applies it after generating the pages. The editor and its API are never copied into the deployed site.
+
 - Biography, featured projects, contact, and experience: `index.html`.
 - Gallery entries and PDF-based case studies: `scripts/generate-gallery.mjs` and `content/featured-projects.json`.
 - Colors, layouts, and responsive behavior: `style.css`.

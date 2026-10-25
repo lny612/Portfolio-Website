@@ -102,6 +102,11 @@ const korean = {
 };
 
 const textEntries = [];
+const managedEntries = JSON.parse(document.querySelector('#site-copy-data')?.textContent || '[]').map(entry=>{
+  let node=document.documentElement;
+  for(const index of entry.path)node=node?.childNodes[index];
+  return {...entry,node};
+}).filter(entry=>entry.node?.nodeType===3);
 const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
 while (walker.nextNode()) {
   const node = walker.currentNode;
@@ -137,6 +142,7 @@ function setLanguage(language, announce = false) {
   for (const {node, english, key} of textEntries) {
     node.textContent = ko ? english.replace(key, korean[key]) : english;
   }
+  for(const entry of managedEntries)entry.node.textContent=ko?entry.ko:entry.en;
   for (const {node, attribute, english, translated} of attributeEntries) {
     node.setAttribute(attribute, ko ? translated : english);
   }

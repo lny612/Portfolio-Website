@@ -1,0 +1,5365 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "3470be46a60fe49521dc",
+      "kind": "text",
+      "original": {
+        "en": "Skip to projects",
+        "ko": "프로젝트 바로가기"
+      },
+      "en": "Skip to projects",
+      "ko": "프로젝트 바로가기",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "9dee42f0739fe8b7b5a8",
+      "kind": "aria-label",
+      "original": {
+        "en": "Nayoung Lim home",
+        "ko": "임나영 포트폴리오 홈"
+      },
+      "en": "Nayoung Lim home",
+      "ko": "임나영 포트폴리오 홈",
+      "pages": [
+        "index.html",
+        "projects.html",
+        "projects/bone-to-gather-press-kit.html",
+        "projects/bone-to-gather.html",
+        "projects/classic-rts.html",
+        "projects/clockwork-nabi.html",
+        "projects/flip-maze.html",
+        "projects/mutant-lab.html",
+        "projects/quench.html",
+        "projects/skulls-pay-the-bills.html",
+        "projects/the-wand-atelier.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "586302c60a9faf53c507",
+      "kind": "text",
+      "original": {
+        "en": "n",
+        "ko": "n"
+      },
+      "en": "n",
+      "ko": "n",
+      "pages": [
+        "index.html",
+        "projects.html",
+        "projects/bone-to-gather-press-kit.html",
+        "projects/bone-to-gather.html",
+        "projects/classic-rts.html",
+        "projects/clockwork-nabi.html",
+        "projects/flip-maze.html",
+        "projects/mutant-lab.html",
+        "projects/quench.html",
+        "projects/skulls-pay-the-bills.html",
+        "projects/the-wand-atelier.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "d9325d85f6ddf2501ea9",
+      "kind": "text",
+      "original": {
+        "en": "l",
+        "ko": "l"
+      },
+      "en": "l",
+      "ko": "l",
+      "pages": [
+        "index.html",
+        "projects.html",
+        "projects/bone-to-gather-press-kit.html",
+        "projects/bone-to-gather.html",
+        "projects/classic-rts.html",
+        "projects/clockwork-nabi.html",
+        "projects/flip-maze.html",
+        "projects/mutant-lab.html",
+        "projects/quench.html",
+        "projects/skulls-pay-the-bills.html",
+        "projects/the-wand-atelier.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "b1249187bb9613934d80",
+      "kind": "text",
+      "original": {
+        "en": "NAYOUNG LIM",
+        "ko": "임나영"
+      },
+      "en": "NAYOUNG LIM",
+      "ko": "임나영",
+      "pages": [
+        "index.html",
+        "projects.html",
+        "projects/bone-to-gather-press-kit.html",
+        "projects/bone-to-gather.html",
+        "projects/classic-rts.html",
+        "projects/clockwork-nabi.html",
+        "projects/flip-maze.html",
+        "projects/mutant-lab.html",
+        "projects/quench.html",
+        "projects/skulls-pay-the-bills.html",
+        "projects/the-wand-atelier.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "f0da7fd1faba0ff4fa86",
+      "kind": "aria-label",
+      "original": {
+        "en": "Main navigation",
+        "ko": "주요 메뉴"
+      },
+      "en": "Main navigation",
+      "ko": "주요 메뉴",
+      "pages": [
+        "index.html",
+        "projects.html",
+        "projects/bone-to-gather-press-kit.html",
+        "projects/bone-to-gather.html",
+        "projects/classic-rts.html",
+        "projects/clockwork-nabi.html",
+        "projects/flip-maze.html",
+        "projects/mutant-lab.html",
+        "projects/quench.html",
+        "projects/skulls-pay-the-bills.html",
+        "projects/the-wand-atelier.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "5d4cb773ae4995e01d73",
+      "kind": "text",
+      "original": {
+        "en": "Work",
+        "ko": "프로젝트"
+      },
+      "en": "Work",
+      "ko": "프로젝트",
+      "pages": [
+        "index.html",
+        "projects/bone-to-gather-press-kit.html",
+        "projects/bone-to-gather.html",
+        "projects/classic-rts.html",
+        "projects/clockwork-nabi.html",
+        "projects/flip-maze.html",
+        "projects/mutant-lab.html",
+        "projects/quench.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "5fccd8dd26d21c71bf32",
+      "kind": "text",
+      "original": {
+        "en": "About",
+        "ko": "소개"
+      },
+      "en": "About",
+      "ko": "소개",
+      "pages": [
+        "index.html",
+        "projects.html",
+        "projects/bone-to-gather-press-kit.html",
+        "projects/bone-to-gather.html",
+        "projects/classic-rts.html",
+        "projects/clockwork-nabi.html",
+        "projects/flip-maze.html",
+        "projects/mutant-lab.html",
+        "projects/quench.html",
+        "projects/skulls-pay-the-bills.html",
+        "projects/the-wand-atelier.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "e5fcf0fa0f8b936f6646",
+      "kind": "text",
+      "original": {
+        "en": "Let’s talk",
+        "ko": "연락하기"
+      },
+      "en": "Let’s talk",
+      "ko": "연락하기",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "dcd610b214693c6e9c8b",
+      "kind": "text",
+      "original": {
+        "en": "GAME DESIGNER & PROGRAMMER",
+        "ko": "게임 기획자 & 프로그래머"
+      },
+      "en": "GAME DESIGNER & PROGRAMMER",
+      "ko": "게임 기획자 & 프로그래머",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "330f5c864c93e82a7596",
+      "kind": "text",
+      "original": {
+        "en": "Imagination,",
+        "ko": "상상을 경험하게"
+      },
+      "en": "Imagination,",
+      "ko": "상상을 경험하게",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "b1cb8e214a24f4d153d1",
+      "kind": "text",
+      "original": {
+        "en": "made playable",
+        "ko": "만드는 기획자"
+      },
+      "en": "made playable",
+      "ko": "만드는 기획자",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "8886f7fcd2bf81777838",
+      "kind": "text",
+      "original": {
+        "en": "I’m Nayoung Lim, a game designer and programmer.",
+        "ko": "게임 기획자이자 프로그래머 임나영입니다."
+      },
+      "en": "I’m Nayoung Lim, a game designer and programmer.",
+      "ko": "게임 기획자이자 프로그래머 임나영입니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "2dbc6ce63463700e82c7",
+      "kind": "text",
+      "original": {
+        "en": "I shape imagined worlds into systems,",
+        "ko": "상상 속 세계를 규칙과 선택으로 구체화하고,"
+      },
+      "en": "I shape imagined worlds into systems,",
+      "ko": "상상 속 세계를 규칙과 선택으로 구체화하고,",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "fd1061b06c87cbad14e8",
+      "kind": "text",
+      "original": {
+        "en": "choices, and experiences players can explore.",
+        "ko": "플레이어가 직접 경험할 수 있는 게임으로 만듭니다."
+      },
+      "en": "choices, and experiences players can explore.",
+      "ko": "플레이어가 직접 경험할 수 있는 게임으로 만듭니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "cbdd8b0a74aeb64beba4",
+      "kind": "text",
+      "original": {
+        "en": "EXPLORE MY WORK",
+        "ko": "프로젝트 살펴보기"
+      },
+      "en": "EXPLORE MY WORK",
+      "ko": "프로젝트 살펴보기",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "5a9b61bdeeb532dc138f",
+      "kind": "text",
+      "original": {
+        "en": "DESIGN WITH INTENT. ITERATE WITH CURIOSITY.",
+        "ko": "의도를 담아 설계하고, 호기심으로 발전시킵니다."
+      },
+      "en": "DESIGN WITH INTENT. ITERATE WITH CURIOSITY.",
+      "ko": "의도를 담아 설계하고, 호기심으로 발전시킵니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "65d1f08c9e7fe1cdd931",
+      "kind": "text",
+      "original": {
+        "en": "SCROLL TO EXPLORE ↓",
+        "ko": "아래로 스크롤해 살펴보세요 ↓"
+      },
+      "en": "SCROLL TO EXPLORE ↓",
+      "ko": "아래로 스크롤해 살펴보세요 ↓",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "fbbe933057a79c501bd3",
+      "kind": "text",
+      "original": {
+        "en": "01 / SELECTED WORK",
+        "ko": "01 / 주요 프로젝트"
+      },
+      "en": "01 / SELECTED WORK",
+      "ko": "01 / 주요 프로젝트",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "377f3e936980c7b32702",
+      "kind": "text",
+      "original": {
+        "en": "Ideas made",
+        "ko": "아이디어가"
+      },
+      "en": "Ideas made",
+      "ko": "아이디어가",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "53f5f200931bb0c60d5f",
+      "kind": "text",
+      "original": {
+        "en": "playable.",
+        "ko": "플레이가 되기까지."
+      },
+      "en": "playable.",
+      "ko": "플레이가 되기까지.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "3ecf5beb43ffc30fc2a6",
+      "kind": "aria-label",
+      "original": {
+        "en": "Read Bone To Gather project details",
+        "ko": "본 투 게더 프로젝트 자세히 보기"
+      },
+      "en": "Read Bone To Gather project details",
+      "ko": "본 투 게더 프로젝트 자세히 보기",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "8aafeb45be697460f4be",
+      "kind": "alt",
+      "original": {
+        "en": "Bone To Gather game artwork",
+        "ko": "본 투 게더 게임 대표 이미지"
+      },
+      "en": "Bone To Gather game artwork",
+      "ko": "본 투 게더 게임 대표 이미지",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "266e776e0a6c65fad3f2",
+      "kind": "text",
+      "original": {
+        "en": "BONE",
+        "ko": "본 투"
+      },
+      "en": "BONE",
+      "ko": "본 투",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "d298745a315f49fc0539",
+      "kind": "text",
+      "original": {
+        "en": "TO GATHER",
+        "ko": "게더"
+      },
+      "en": "TO GATHER",
+      "ko": "게더",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "e35da8173f45ec5c9b31",
+      "kind": "text",
+      "original": {
+        "en": "01 / SHIPPED ON STEAM",
+        "ko": "01 / Steam 출시"
+      },
+      "en": "01 / SHIPPED ON STEAM",
+      "ko": "01 / Steam 출시",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "4e18210e77ccd87f837c",
+      "kind": "text",
+      "original": {
+        "en": "ACTION ROGUELIKE · 2024",
+        "ko": "액션 로그라이크 · 2024"
+      },
+      "en": "ACTION ROGUELIKE · 2024",
+      "ko": "액션 로그라이크 · 2024",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "d7988e76d62eaa799275",
+      "kind": "text",
+      "original": {
+        "en": "Bone To Gather",
+        "ko": "본 투 게더"
+      },
+      "en": "Bone To Gather",
+      "ko": "본 투 게더",
+      "pages": [
+        "index.html",
+        "projects.html",
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "e29487a705ea3f766ea3",
+      "kind": "text",
+      "original": {
+        "en": "Small skeletons. Big synergies. An action roguelike about building a team powerful enough to take on the Demon King.",
+        "ko": "작은 해골들이 모여 만드는 강력한 시너지. 개성 있는 해골들로 팀을 꾸리고 마왕에게 도전하는 액션 로그라이크입니다."
+      },
+      "en": "Small skeletons. Big synergies. An action roguelike about building a team powerful enough to take on the Demon King.",
+      "ko": "작은 해골들이 모여 만드는 강력한 시너지. 개성 있는 해골들로 팀을 꾸리고 마왕에게 도전하는 액션 로그라이크입니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "888b02ec5c734294ef95",
+      "kind": "text",
+      "original": {
+        "en": "Game design",
+        "ko": "게임 기획"
+      },
+      "en": "Game design",
+      "ko": "게임 기획",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "74d59f83fd548cddf6ac",
+      "kind": "text",
+      "original": {
+        "en": "Unity / C#",
+        "ko": "Unity / C#"
+      },
+      "en": "Unity / C#",
+      "ko": "Unity / C#",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "cc9c6cf8819a24c6f278",
+      "kind": "text",
+      "original": {
+        "en": "Project management",
+        "ko": "프로젝트 관리"
+      },
+      "en": "Project management",
+      "ko": "프로젝트 관리",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "23bea77b40f8ec8ea2c8",
+      "kind": "text",
+      "original": {
+        "en": "Behind the design",
+        "ko": "기획 과정과 담당 역할"
+      },
+      "en": "Behind the design",
+      "ko": "기획 과정과 담당 역할",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "ecb09e769e5ecaecbf5b",
+      "kind": "text",
+      "original": {
+        "en": "Designed the core user experience and prototyped key mechanics. Programmed UI and supporting systems, coordinated the team with Agile and Notion, and supported marketing and localization.",
+        "ko": "핵심 사용자 경험을 설계하고 주요 메커니즘의 프로토타입을 제작했습니다. UI와 부가 시스템을 구현하고, 애자일 방식과 Notion으로 팀을 관리했으며, 마케팅과 현지화에도 참여했습니다."
+      },
+      "en": "Designed the core user experience and prototyped key mechanics. Programmed UI and supporting systems, coordinated the team with Agile and Notion, and supported marketing and localization.",
+      "ko": "핵심 사용자 경험을 설계하고 주요 메커니즘의 프로토타입을 제작했습니다. UI와 부가 시스템을 구현하고, 애자일 방식과 Notion으로 팀을 관리했으며, 마케팅과 현지화에도 참여했습니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "8d80429b192b4b0986b2",
+      "kind": "text",
+      "original": {
+        "en": "The portfolio records 8,000+ unique users and 100+ positive Steam reviews.",
+        "ko": "포트폴리오에 기록된 성과: 누적 고유 사용자 8,000명 이상, Steam 긍정 리뷰 100건 이상."
+      },
+      "en": "The portfolio records 8,000+ unique users and 100+ positive Steam reviews.",
+      "ko": "포트폴리오에 기록된 성과: 누적 고유 사용자 8,000명 이상, Steam 긍정 리뷰 100건 이상.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "5bf7b1c76c585cb02380",
+      "kind": "text",
+      "original": {
+        "en": "Read the case study ↗",
+        "ko": "프로젝트 자세히 보기 ↗"
+      },
+      "en": "Read the case study ↗",
+      "ko": "프로젝트 자세히 보기 ↗",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "a8fcff3401a61dc269d5",
+      "kind": "alt",
+      "original": {
+        "en": "Skulls Pay the Bills",
+        "ko": "해골 꾸며서 먹고 삽니다"
+      },
+      "en": "Skulls Pay the Bills",
+      "ko": "해골 꾸며서 먹고 삽니다",
+      "pages": [
+        "index.html",
+        "projects.html",
+        "projects/skulls-pay-the-bills.html"
+      ]
+    },
+    {
+      "id": "f2dd565af7c089d62720",
+      "kind": "text",
+      "original": {
+        "en": "CASUAL STRATEGY · THREE-PERSON TEAM",
+        "ko": "캐주얼 전략 · 3인 개발"
+      },
+      "en": "CASUAL STRATEGY · THREE-PERSON TEAM",
+      "ko": "캐주얼 전략 · 3인 개발",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "99e3a37bff6ede91b48e",
+      "kind": "text",
+      "original": {
+        "en": "Skulls Pay the Bills",
+        "ko": "해골 꾸며서 먹고 삽니다"
+      },
+      "en": "Skulls Pay the Bills",
+      "ko": "해골 꾸며서 먹고 삽니다",
+      "pages": [
+        "index.html",
+        "projects.html",
+        "projects/skulls-pay-the-bills.html"
+      ]
+    },
+    {
+      "id": "33c8746e2fb7b03fe5f9",
+      "kind": "text",
+      "original": {
+        "en": "Assemble a skeleton from monster parts. Discover positional synergies and exploit enemies’ emotional weaknesses.",
+        "ko": "몬스터 파츠로 해골을 조립하고, 배치 시너지를 찾아 적의 감정적 약점을 공략하는 전략 게임입니다."
+      },
+      "en": "Assemble a skeleton from monster parts. Discover positional synergies and exploit enemies’ emotional weaknesses.",
+      "ko": "몬스터 파츠로 해골을 조립하고, 배치 시너지를 찾아 적의 감정적 약점을 공략하는 전략 게임입니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "1a84eb6f96200bb356d6",
+      "kind": "text",
+      "original": {
+        "en": "Systems design",
+        "ko": "시스템 기획"
+      },
+      "en": "Systems design",
+      "ko": "시스템 기획",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "a59e373e1c8f4c26a1f4",
+      "kind": "text",
+      "original": {
+        "en": "UI / UX",
+        "ko": "UI / UX"
+      },
+      "en": "UI / UX",
+      "ko": "UI / UX",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "26419d713bc79f439229",
+      "kind": "text",
+      "original": {
+        "en": "AI-assisted development",
+        "ko": "AI 활용 개발"
+      },
+      "en": "AI-assisted development",
+      "ko": "AI 활용 개발",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "dc54926502ec48a081ba",
+      "kind": "alt",
+      "original": {
+        "en": "The Wand Atelier",
+        "ko": "완드 아틀리에"
+      },
+      "en": "The Wand Atelier",
+      "ko": "완드 아틀리에",
+      "pages": [
+        "index.html",
+        "projects.html",
+        "projects/the-wand-atelier.html"
+      ]
+    },
+    {
+      "id": "a0a9402599482118c204",
+      "kind": "text",
+      "original": {
+        "en": "CRAFTING SIMULATION · SOLO PROJECT",
+        "ko": "제작 시뮬레이션 · 개인 프로젝트"
+      },
+      "en": "CRAFTING SIMULATION · SOLO PROJECT",
+      "ko": "제작 시뮬레이션 · 개인 프로젝트",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "2046c47bb7eb323275b3",
+      "kind": "text",
+      "original": {
+        "en": "The Wand Atelier",
+        "ko": "완드 아틀리에"
+      },
+      "en": "The Wand Atelier",
+      "ko": "완드 아틀리에",
+      "pages": [
+        "index.html",
+        "projects.html",
+        "projects/the-wand-atelier.html"
+      ]
+    },
+    {
+      "id": "e66bfba9bafb417d4206",
+      "kind": "text",
+      "original": {
+        "en": "Read between the lines of a customer’s request, choose your materials, and craft a wand with AI-generated outcomes.",
+        "ko": "손님의 의뢰에 담긴 의도를 읽고 재료를 골라 지팡이를 제작합니다. AI가 생성하는 결과를 기대하며 선택하는 제작 시뮬레이션입니다."
+      },
+      "en": "Read between the lines of a customer’s request, choose your materials, and craft a wand with AI-generated outcomes.",
+      "ko": "손님의 의뢰에 담긴 의도를 읽고 재료를 골라 지팡이를 제작합니다. AI가 생성하는 결과를 기대하며 선택하는 제작 시뮬레이션입니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "c326c242ba7183f3ce9c",
+      "kind": "text",
+      "original": {
+        "en": "Gameplay systems",
+        "ko": "게임플레이 시스템"
+      },
+      "en": "Gameplay systems",
+      "ko": "게임플레이 시스템",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "488a588c07a9f4dd758e",
+      "kind": "text",
+      "original": {
+        "en": "Prompt design",
+        "ko": "프롬프트 설계"
+      },
+      "en": "Prompt design",
+      "ko": "프롬프트 설계",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "f8f1a88f069554d2e2c0",
+      "kind": "text",
+      "original": {
+        "en": "Prototyping",
+        "ko": "프로토타이핑"
+      },
+      "en": "Prototyping",
+      "ko": "프로토타이핑",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "67aec594a06e29602179",
+      "kind": "text",
+      "original": {
+        "en": "Click for more projects",
+        "ko": "더 많은 프로젝트 보기"
+      },
+      "en": "Click for more projects",
+      "ko": "더 많은 프로젝트 보기",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "f992665d4d20e29ec57e",
+      "kind": "text",
+      "original": {
+        "en": "THE BEST PART OF DESIGN?",
+        "ko": "기획이 가장 즐거워지는 순간은?"
+      },
+      "en": "THE BEST PART OF DESIGN?",
+      "ko": "기획이 가장 즐거워지는 순간은?",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "732bb47e9cf751789bda",
+      "kind": "text",
+      "original": {
+        "en": "That moment when",
+        "ko": "머릿속 아이디어가"
+      },
+      "en": "That moment when",
+      "ko": "머릿속 아이디어가",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "7197358ee39a2d9236c3",
+      "kind": "text",
+      "original": {
+        "en": "an idea clicks.",
+        "ko": "재미로 맞아떨어지는 순간."
+      },
+      "en": "an idea clicks.",
+      "ko": "재미로 맞아떨어지는 순간.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "a43ed2da8a1d4c0d7f91",
+      "kind": "text",
+      "original": {
+        "en": "MAKE IT. PLAY IT. LEARN. REPEAT.",
+        "ko": "만들고, 플레이하고, 배우고, 다시 시도합니다."
+      },
+      "en": "MAKE IT. PLAY IT. LEARN. REPEAT.",
+      "ko": "만들고, 플레이하고, 배우고, 다시 시도합니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "be6b9a4375984e6484e1",
+      "kind": "text",
+      "original": {
+        "en": "02 / THE PERSON BEHIND THE PLAY",
+        "ko": "02 / 재미를 만드는 사람"
+      },
+      "en": "02 / THE PERSON BEHIND THE PLAY",
+      "ko": "02 / 재미를 만드는 사람",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "35b02dcfc3d307029c5a",
+      "kind": "text",
+      "original": {
+        "en": "Curious mind.",
+        "ko": "호기심으로 묻고,"
+      },
+      "en": "Curious mind.",
+      "ko": "호기심으로 묻고,",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "928bb626334eb02b7784",
+      "kind": "text",
+      "original": {
+        "en": "Hands-on maker.",
+        "ko": "직접 만들며 답합니다."
+      },
+      "en": "Hands-on maker.",
+      "ko": "직접 만들며 답합니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "ed1210654dd995c8dadb",
+      "kind": "text",
+      "original": {
+        "en": "I’m a game designer and programmer studying at the University of Hong Kong. My practice connects rapid prototyping, data-informed analysis, and a humanistic understanding of players.",
+        "ko": "홍콩대학교에 재학 중인 게임 기획자이자 프로그래머 임나영입니다. 빠른 프로토타입 제작, 데이터 기반 분석, 플레이어에 대한 인문학적 이해를 연결해 게임을 만듭니다."
+      },
+      "en": "I’m a game designer and programmer studying at the University of Hong Kong. My practice connects rapid prototyping, data-informed analysis, and a humanistic understanding of players.",
+      "ko": "홍콩대학교에 재학 중인 게임 기획자이자 프로그래머 임나영입니다. 빠른 프로토타입 제작, 데이터 기반 분석, 플레이어에 대한 인문학적 이해를 연결해 게임을 만듭니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "7ba12b7a4dc065830aca",
+      "kind": "text",
+      "original": {
+        "en": "01",
+        "ko": "01"
+      },
+      "en": "01",
+      "ko": "01",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "1cd57868b182454a8835",
+      "kind": "text",
+      "original": {
+        "en": "Build to understand.",
+        "ko": "직접 만들며 이해합니다."
+      },
+      "en": "Build to understand.",
+      "ko": "직접 만들며 이해합니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "43cf8481c3192cf568d8",
+      "kind": "text",
+      "original": {
+        "en": "I use Unity, C#, and AI-assisted prototyping to turn ideas into experiences that can be tested.",
+        "ko": "Unity와 C#, AI를 활용한 프로토타이핑으로 아이디어를 직접 검증할 수 있는 플레이 경험으로 구현합니다."
+      },
+      "en": "I use Unity, C#, and AI-assisted prototyping to turn ideas into experiences that can be tested.",
+      "ko": "Unity와 C#, AI를 활용한 프로토타이핑으로 아이디어를 직접 검증할 수 있는 플레이 경험으로 구현합니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "723e37dcadc535426f36",
+      "kind": "text",
+      "original": {
+        "en": "02",
+        "ko": "02"
+      },
+      "en": "02",
+      "ko": "02",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "894a5c2736dc72905c3c",
+      "kind": "text",
+      "original": {
+        "en": "Look beyond the numbers.",
+        "ko": "숫자 너머의 의미를 찾습니다."
+      },
+      "en": "Look beyond the numbers.",
+      "ko": "숫자 너머의 의미를 찾습니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "0f18202d2cd8d53dfc8b",
+      "kind": "text",
+      "original": {
+        "en": "Data science helps me ask sharper questions about how systems work and how people play.",
+        "ko": "데이터 사이언스를 바탕으로 시스템의 작동 방식과 플레이어의 행동에 대해 더 깊이 있는 질문을 던집니다."
+      },
+      "en": "Data science helps me ask sharper questions about how systems work and how people play.",
+      "ko": "데이터 사이언스를 바탕으로 시스템의 작동 방식과 플레이어의 행동에 대해 더 깊이 있는 질문을 던집니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "53ffb7b6eb4ab06b87a1",
+      "kind": "text",
+      "original": {
+        "en": "03",
+        "ko": "03"
+      },
+      "en": "03",
+      "ko": "03",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "0696ce6bfead2cb02714",
+      "kind": "text",
+      "original": {
+        "en": "Start with people.",
+        "ko": "사람에서 출발합니다."
+      },
+      "en": "Start with people.",
+      "ko": "사람에서 출발합니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "498c6b95b659a28197c0",
+      "kind": "text",
+      "original": {
+        "en": "A humanistic perspective grounds the mechanics, stories, and choices I design.",
+        "ko": "인문학적 관점을 토대로 메커니즘과 이야기, 플레이어에게 주어지는 선택을 설계합니다."
+      },
+      "en": "A humanistic perspective grounds the mechanics, stories, and choices I design.",
+      "ko": "인문학적 관점을 토대로 메커니즘과 이야기, 플레이어에게 주어지는 선택을 설계합니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "16ad8fe54fc46fcea58d",
+      "kind": "text",
+      "original": {
+        "en": "EXPERIENCE & EDUCATION",
+        "ko": "경력 및 학력"
+      },
+      "en": "EXPERIENCE & EDUCATION",
+      "ko": "경력 및 학력",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "eea363fdf541c8ccbba0",
+      "kind": "text",
+      "original": {
+        "en": "Select an experience to read more.",
+        "ko": "각 경험을 선택하면 자세한 내용을 볼 수 있습니다."
+      },
+      "en": "Select an experience to read more.",
+      "ko": "각 경험을 선택하면 자세한 내용을 볼 수 있습니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "d00fa78df9580f6d3683",
+      "kind": "text",
+      "original": {
+        "en": "2022–PRESENT",
+        "ko": "2022–현재"
+      },
+      "en": "2022–PRESENT",
+      "ko": "2022–현재",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "c25a1d64bc88086e83e5",
+      "kind": "text",
+      "original": {
+        "en": "The University of Hong Kong",
+        "ko": "홍콩대학교"
+      },
+      "en": "The University of Hong Kong",
+      "ko": "홍콩대학교",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "fe16f815b9f4e9d5cd66",
+      "kind": "text",
+      "original": {
+        "en": "Education",
+        "ko": "학력"
+      },
+      "en": "Education",
+      "ko": "학력",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "f0bd7eaaa5c2aded7d6e",
+      "kind": "text",
+      "original": {
+        "en": "Studying at the University of Hong Kong, with a humanistic perspective on how people learn and play.",
+        "ko": "홍콩대학교에서 공부하며 사람들이 배우고 플레이하는 방식에 대한 인문학적 관점을 기르고 있습니다."
+      },
+      "en": "Studying at the University of Hong Kong, with a humanistic perspective on how people learn and play.",
+      "ko": "홍콩대학교에서 공부하며 사람들이 배우고 플레이하는 방식에 대한 인문학적 관점을 기르고 있습니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "9d2fb4a71e42efcfa904",
+      "kind": "text",
+      "original": {
+        "en": "2024 / JUL–DEC",
+        "ko": "2024 / 7–12월"
+      },
+      "en": "2024 / JUL–DEC",
+      "ko": "2024 / 7–12월",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "d99d4da0358d05426556",
+      "kind": "text",
+      "original": {
+        "en": "KRAFTON Jungle Game Lab",
+        "ko": "크래프톤 정글 게임랩"
+      },
+      "en": "KRAFTON Jungle Game Lab",
+      "ko": "크래프톤 정글 게임랩",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "64285db8d8d5cf88ebeb",
+      "kind": "text",
+      "original": {
+        "en": "2nd cohort · Bone To Gather Steam launch",
+        "ko": "2기 참가 · 본 투 게더 Steam 출시"
+      },
+      "en": "2nd cohort · Bone To Gather Steam launch",
+      "ko": "2기 참가 · 본 투 게더 Steam 출시",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "ee9aefbf7db85e4cfe76",
+      "kind": "text",
+      "original": {
+        "en": "Developed Bone To Gather with the second cohort and brought the team’s game to Steam.",
+        "ko": "게임랩 2기에서 팀과 함께 본 투 게더를 개발하고 Steam에 출시했습니다."
+      },
+      "en": "Developed Bone To Gather with the second cohort and brought the team’s game to Steam.",
+      "ko": "게임랩 2기에서 팀과 함께 본 투 게더를 개발하고 Steam에 출시했습니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "32cbfa95ea5808a83187",
+      "kind": "text",
+      "original": {
+        "en": "2025 / JUN–AUG",
+        "ko": "2025 / 6–8월"
+      },
+      "en": "2025 / JUN–AUG",
+      "ko": "2025 / 6–8월",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "4d2fa96451b145e63eb4",
+      "kind": "text",
+      "original": {
+        "en": "AWIL Limited Company",
+        "ko": "AWIL Limited Company"
+      },
+      "en": "AWIL Limited Company",
+      "ko": "AWIL Limited Company",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "538ba4ff6945cacad531",
+      "kind": "text",
+      "original": {
+        "en": "Game programmer",
+        "ko": "게임 프로그래머"
+      },
+      "en": "Game programmer",
+      "ko": "게임 프로그래머",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "2701f9023aafd41ea360",
+      "kind": "text",
+      "original": {
+        "en": "Worked as a game programmer, applying hands-on development skills in a professional team.",
+        "ko": "게임 프로그래머로 근무하며 실제 팀 환경에서 개발 경험을 쌓았습니다."
+      },
+      "en": "Worked as a game programmer, applying hands-on development skills in a professional team.",
+      "ko": "게임 프로그래머로 근무하며 실제 팀 환경에서 개발 경험을 쌓았습니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "7343fd110d24ffdc0048",
+      "kind": "text",
+      "original": {
+        "en": "03 / CONTACT",
+        "ko": "03 / 연락처"
+      },
+      "en": "03 / CONTACT",
+      "ko": "03 / 연락처",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "5d529374e4ae9fb9f445",
+      "kind": "text",
+      "original": {
+        "en": "Contact me",
+        "ko": "연락처"
+      },
+      "en": "Contact me",
+      "ko": "연락처",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "9c9be02693f06acfadcf",
+      "kind": "text",
+      "original": {
+        "en": "iris61214@gmail.com",
+        "ko": "iris61214@gmail.com"
+      },
+      "en": "iris61214@gmail.com",
+      "ko": "iris61214@gmail.com",
+      "pages": [
+        "index.html",
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "5ea41a5b7ffaa63596d5",
+      "kind": "text",
+      "original": {
+        "en": "For opportunities and questions, please get in touch by email.",
+        "ko": "채용 및 프로젝트 관련 문의는 이메일로 부탁드립니다."
+      },
+      "en": "For opportunities and questions, please get in touch by email.",
+      "ko": "채용 및 프로젝트 관련 문의는 이메일로 부탁드립니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "242d35a64642861a5bfc",
+      "kind": "text",
+      "original": {
+        "en": "LinkedIn ↗",
+        "ko": "링크드인 ↗"
+      },
+      "en": "LinkedIn ↗",
+      "ko": "링크드인 ↗",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "a8026ce9e6e12e621684",
+      "kind": "text",
+      "original": {
+        "en": "GitHub ↗",
+        "ko": "깃허브 ↗"
+      },
+      "en": "GitHub ↗",
+      "ko": "깃허브 ↗",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "597a9e71607a339e8c54",
+      "kind": "text",
+      "original": {
+        "en": "Notion ↗",
+        "ko": "노션 ↗"
+      },
+      "en": "Notion ↗",
+      "ko": "노션 ↗",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "79d7615760d973b8a3ea",
+      "kind": "text",
+      "original": {
+        "en": "2026",
+        "ko": "2026"
+      },
+      "en": "2026",
+      "ko": "2026",
+      "pages": [
+        "index.html",
+        "projects/bone-to-gather-press-kit.html",
+        "projects/bone-to-gather.html",
+        "projects/classic-rts.html",
+        "projects/clockwork-nabi.html",
+        "projects/flip-maze.html",
+        "projects/mutant-lab.html",
+        "projects/quench.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "0b925ba6797a8d45401f",
+      "kind": "text",
+      "original": {
+        "en": "MADE WITH CURIOSITY.",
+        "ko": "호기심을 담아 만들었습니다."
+      },
+      "en": "MADE WITH CURIOSITY.",
+      "ko": "호기심을 담아 만들었습니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "175a4501cb2d5ef80fcf",
+      "kind": "text",
+      "original": {
+        "en": "BACK TO TOP ↑",
+        "ko": "맨 위로 ↑"
+      },
+      "en": "BACK TO TOP ↑",
+      "ko": "맨 위로 ↑",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "2d878ff48e86f454250e",
+      "kind": "title",
+      "original": {
+        "en": "Nayoung Lim — Game Designer & Programmer",
+        "ko": "임나영 — 게임 기획자 & 프로그래머"
+      },
+      "en": "Nayoung Lim — Game Designer & Programmer",
+      "ko": "임나영 — 게임 기획자 & 프로그래머",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "0a41afbe1d3091a41ff6",
+      "kind": "description",
+      "original": {
+        "en": "Nayoung Lim — game designer and programmer. Explore game systems, playful prototypes, and shipped projects.",
+        "ko": "게임 기획자이자 프로그래머 임나영의 포트폴리오. 게임 시스템, 창의적인 프로토타입, 출시 프로젝트를 소개합니다."
+      },
+      "en": "Nayoung Lim — game designer and programmer. Explore game systems, playful prototypes, and shipped projects.",
+      "ko": "게임 기획자이자 프로그래머 임나영의 포트폴리오. 게임 시스템, 창의적인 프로토타입, 출시 프로젝트를 소개합니다.",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "19ab1136d49b808e3e13",
+      "kind": "text",
+      "original": {
+        "en": "Skip to content",
+        "ko": "본문 바로가기"
+      },
+      "en": "Skip to content",
+      "ko": "본문 바로가기",
+      "pages": [
+        "projects.html",
+        "projects/skulls-pay-the-bills.html",
+        "projects/the-wand-atelier.html"
+      ]
+    },
+    {
+      "id": "d215b0c4ce282c602f9c",
+      "kind": "text",
+      "original": {
+        "en": "Projects",
+        "ko": "프로젝트"
+      },
+      "en": "Projects",
+      "ko": "프로젝트",
+      "pages": [
+        "projects.html",
+        "projects/skulls-pay-the-bills.html",
+        "projects/the-wand-atelier.html"
+      ]
+    },
+    {
+      "id": "cf3266f3fcc78d30b812",
+      "kind": "text",
+      "original": {
+        "en": "Contact",
+        "ko": "연락처"
+      },
+      "en": "Contact",
+      "ko": "연락처",
+      "pages": [
+        "projects.html",
+        "projects/skulls-pay-the-bills.html",
+        "projects/the-wand-atelier.html"
+      ]
+    },
+    {
+      "id": "1053b3c938c87c2f8122",
+      "kind": "text",
+      "original": {
+        "en": "← Selected work",
+        "ko": "← 주요 프로젝트"
+      },
+      "en": "← Selected work",
+      "ko": "← 주요 프로젝트",
+      "pages": [
+        "projects.html"
+      ]
+    },
+    {
+      "id": "2bcd08e08261a72ad9a2",
+      "kind": "text",
+      "original": {
+        "en": "THE PROJECT COLLECTION",
+        "ko": "프로젝트 모음"
+      },
+      "en": "THE PROJECT COLLECTION",
+      "ko": "프로젝트 모음",
+      "pages": [
+        "projects.html"
+      ]
+    },
+    {
+      "id": "ed3dd9abc73880906c61",
+      "kind": "text",
+      "original": {
+        "en": "All projects.",
+        "ko": "전체 프로젝트"
+      },
+      "en": "All projects.",
+      "ko": "전체 프로젝트",
+      "pages": [
+        "projects.html"
+      ]
+    },
+    {
+      "id": "5a259078df6981c6fc1e",
+      "kind": "text",
+      "original": {
+        "en": "Games, prototypes, and the ideas behind them. Select a project to explore.",
+        "ko": "게임과 프로토타입, 그리고 그 안에 담긴 생각들. 프로젝트를 선택해 자세히 살펴보세요."
+      },
+      "en": "Games, prototypes, and the ideas behind them. Select a project to explore.",
+      "ko": "게임과 프로토타입, 그리고 그 안에 담긴 생각들. 프로젝트를 선택해 자세히 살펴보세요.",
+      "pages": [
+        "projects.html"
+      ]
+    },
+    {
+      "id": "9370b69d622394c8401c",
+      "kind": "text",
+      "original": {
+        "en": "Action roguelike · Steam release",
+        "ko": "액션 로그라이크 · Steam 출시"
+      },
+      "en": "Action roguelike · Steam release",
+      "ko": "액션 로그라이크 · Steam 출시",
+      "pages": [
+        "projects.html"
+      ]
+    },
+    {
+      "id": "cd6398b697aa8e8ed2d5",
+      "kind": "text",
+      "original": {
+        "en": "3 weeks · Team of 3",
+        "ko": "3주 · 3인 팀"
+      },
+      "en": "3 weeks · Team of 3",
+      "ko": "3주 · 3인 팀",
+      "pages": [
+        "projects.html",
+        "projects/skulls-pay-the-bills.html"
+      ]
+    },
+    {
+      "id": "c915eb3d3d87d4aec9d2",
+      "kind": "text",
+      "original": {
+        "en": "8 weeks · Solo development",
+        "ko": "8주 · 1인 개발"
+      },
+      "en": "8 weeks · Solo development",
+      "ko": "8주 · 1인 개발",
+      "pages": [
+        "projects.html",
+        "projects/the-wand-atelier.html"
+      ]
+    },
+    {
+      "id": "7db8b5387c4f780ab2bc",
+      "kind": "text",
+      "original": {
+        "en": "Clockwork Nabi",
+        "ko": "클락워크 나비"
+      },
+      "en": "Clockwork Nabi",
+      "ko": "클락워크 나비",
+      "pages": [
+        "projects.html"
+      ]
+    },
+    {
+      "id": "25f05fb79c36c99031f2",
+      "kind": "text",
+      "original": {
+        "en": "Action · Roguevania",
+        "ko": "액션 · 로그바니아"
+      },
+      "en": "Action · Roguevania",
+      "ko": "액션 · 로그바니아",
+      "pages": [
+        "projects.html"
+      ]
+    },
+    {
+      "id": "a25e56923a101b9f9536",
+      "kind": "text",
+      "original": {
+        "en": "Wizard Candy Maker",
+        "ko": "마법사 사탕 제작자"
+      },
+      "en": "Wizard Candy Maker",
+      "ko": "마법사 사탕 제작자",
+      "pages": [
+        "projects.html"
+      ]
+    },
+    {
+      "id": "85a7272fda0948c96844",
+      "kind": "text",
+      "original": {
+        "en": "Time management · Puzzle",
+        "ko": "시간 관리 · 퍼즐"
+      },
+      "en": "Time management · Puzzle",
+      "ko": "시간 관리 · 퍼즐",
+      "pages": [
+        "projects.html"
+      ]
+    },
+    {
+      "id": "df72ec342117093ffbf5",
+      "kind": "text",
+      "original": {
+        "en": "Mutant Lab",
+        "ko": "뮤턴트 랩"
+      },
+      "en": "Mutant Lab",
+      "ko": "뮤턴트 랩",
+      "pages": [
+        "projects.html"
+      ]
+    },
+    {
+      "id": "f88e419f01d944e346fa",
+      "kind": "text",
+      "original": {
+        "en": "Game design & development",
+        "ko": "게임 기획 및 개발"
+      },
+      "en": "Game design & development",
+      "ko": "게임 기획 및 개발",
+      "pages": [
+        "projects.html"
+      ]
+    },
+    {
+      "id": "0bfc89748bfc84b05a24",
+      "kind": "text",
+      "original": {
+        "en": "Classic RTS",
+        "ko": "클래식 RTS"
+      },
+      "en": "Classic RTS",
+      "ko": "클래식 RTS",
+      "pages": [
+        "projects.html"
+      ]
+    },
+    {
+      "id": "1e4611c147051a94789e",
+      "kind": "text",
+      "original": {
+        "en": "Real-time strategy",
+        "ko": "실시간 전략"
+      },
+      "en": "Real-time strategy",
+      "ko": "실시간 전략",
+      "pages": [
+        "projects.html"
+      ]
+    },
+    {
+      "id": "0ab81ef4e46a2977d7a5",
+      "kind": "text",
+      "original": {
+        "en": "Quench",
+        "ko": "퀀치"
+      },
+      "en": "Quench",
+      "ko": "퀀치",
+      "pages": [
+        "projects.html"
+      ]
+    },
+    {
+      "id": "0dc101b74bfeccfee5b3",
+      "kind": "text",
+      "original": {
+        "en": "Flip Maze",
+        "ko": "플립 메이즈"
+      },
+      "en": "Flip Maze",
+      "ko": "플립 메이즈",
+      "pages": [
+        "projects.html"
+      ]
+    },
+    {
+      "id": "1623a0d3dc2b88a79277",
+      "kind": "text",
+      "original": {
+        "en": "Puzzle",
+        "ko": "퍼즐"
+      },
+      "en": "Puzzle",
+      "ko": "퍼즐",
+      "pages": [
+        "projects.html"
+      ]
+    },
+    {
+      "id": "e80cafbabb8a8a62d0cc",
+      "kind": "text",
+      "original": {
+        "en": "Back to home ↗",
+        "ko": "홈으로 돌아가기 ↗"
+      },
+      "en": "Back to home ↗",
+      "ko": "홈으로 돌아가기 ↗",
+      "pages": [
+        "projects.html",
+        "projects/skulls-pay-the-bills.html",
+        "projects/the-wand-atelier.html"
+      ]
+    },
+    {
+      "id": "6d35eb3e5c261b5420a6",
+      "kind": "aria-label",
+      "original": {
+        "en": "Project gallery",
+        "ko": "프로젝트 갤러리"
+      },
+      "en": "Project gallery",
+      "ko": "프로젝트 갤러리",
+      "pages": [
+        "projects.html"
+      ]
+    },
+    {
+      "id": "78701fa2263fe2dc0a2f",
+      "kind": "alt",
+      "original": {
+        "en": "Bone To Gather",
+        "ko": "본 투 게더"
+      },
+      "en": "Bone To Gather",
+      "ko": "본 투 게더",
+      "pages": [
+        "projects.html",
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "6ccaa9570f3c191e91c9",
+      "kind": "alt",
+      "original": {
+        "en": "Clockwork Nabi",
+        "ko": "클락워크 나비"
+      },
+      "en": "Clockwork Nabi",
+      "ko": "클락워크 나비",
+      "pages": [
+        "projects.html"
+      ]
+    },
+    {
+      "id": "86940cd8e84b064e3bee",
+      "kind": "alt",
+      "original": {
+        "en": "Wizard Candy Maker",
+        "ko": "마법사 사탕 제작자"
+      },
+      "en": "Wizard Candy Maker",
+      "ko": "마법사 사탕 제작자",
+      "pages": [
+        "projects.html"
+      ]
+    },
+    {
+      "id": "6838b927e9fe6dacac69",
+      "kind": "text",
+      "original": {
+        "en": "© 2026 NAYOUNG LIM",
+        "ko": "© 2026 NAYOUNG LIM"
+      },
+      "en": "© 2026 NAYOUNG LIM",
+      "ko": "© 2026 NAYOUNG LIM",
+      "pages": [
+        "projects.html",
+        "projects/skulls-pay-the-bills.html",
+        "projects/the-wand-atelier.html"
+      ]
+    },
+    {
+      "id": "9315e991e286defdf8b2",
+      "kind": "title",
+      "original": {
+        "en": "All projects — Nayoung Lim",
+        "ko": "전체 프로젝트 — 임나영"
+      },
+      "en": "All projects — Nayoung Lim",
+      "ko": "전체 프로젝트 — 임나영",
+      "pages": [
+        "projects.html"
+      ]
+    },
+    {
+      "id": "59078f442cf5c6511537",
+      "kind": "description",
+      "original": {
+        "en": "Game design projects by Nayoung Lim",
+        "ko": "임나영의 게임 기획 프로젝트"
+      },
+      "en": "Game design projects by Nayoung Lim",
+      "ko": "임나영의 게임 기획 프로젝트",
+      "pages": [
+        "projects.html",
+        "projects/skulls-pay-the-bills.html",
+        "projects/the-wand-atelier.html"
+      ]
+    },
+    {
+      "id": "94b1daf1f0a0d0fd9f74",
+      "kind": "text",
+      "original": {
+        "en": "Skip to project content",
+        "ko": "프로젝트 본문 바로가기"
+      },
+      "en": "Skip to project content",
+      "ko": "프로젝트 본문 바로가기",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html",
+        "projects/bone-to-gather.html",
+        "projects/classic-rts.html",
+        "projects/clockwork-nabi.html",
+        "projects/flip-maze.html",
+        "projects/mutant-lab.html",
+        "projects/quench.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "377064328915683fc14b",
+      "kind": "text",
+      "original": {
+        "en": "Let’s talk ↗",
+        "ko": "연락하기 ↗"
+      },
+      "en": "Let’s talk ↗",
+      "ko": "연락하기 ↗",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html",
+        "projects/bone-to-gather.html",
+        "projects/classic-rts.html",
+        "projects/clockwork-nabi.html",
+        "projects/flip-maze.html",
+        "projects/mutant-lab.html",
+        "projects/quench.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "e0b71b12ab7647d9aeda",
+      "kind": "text",
+      "original": {
+        "en": "← All projects",
+        "ko": "← 전체 프로젝트"
+      },
+      "en": "← All projects",
+      "ko": "← 전체 프로젝트",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html",
+        "projects/bone-to-gather.html",
+        "projects/classic-rts.html",
+        "projects/clockwork-nabi.html",
+        "projects/flip-maze.html",
+        "projects/mutant-lab.html",
+        "projects/quench.html",
+        "projects/skulls-pay-the-bills.html",
+        "projects/the-wand-atelier.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "da1ee0b96c86fd4c680b",
+      "kind": "text",
+      "original": {
+        "en": "PROJECT / 01",
+        "ko": "프로젝트 / 01"
+      },
+      "en": "PROJECT / 01",
+      "ko": "프로젝트 / 01",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html",
+        "projects/bone-to-gather.html"
+      ]
+    },
+    {
+      "id": "1e60ea65067629c4b893",
+      "kind": "text",
+      "original": {
+        "en": "ON THIS PAGE",
+        "ko": "목차"
+      },
+      "en": "ON THIS PAGE",
+      "ko": "목차",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html",
+        "projects/bone-to-gather.html",
+        "projects/classic-rts.html",
+        "projects/clockwork-nabi.html",
+        "projects/flip-maze.html",
+        "projects/mutant-lab.html",
+        "projects/quench.html",
+        "projects/skulls-pay-the-bills.html",
+        "projects/the-wand-atelier.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "29494892bac355cde920",
+      "kind": "text",
+      "original": {
+        "en": "Pitch",
+        "ko": "핵심 소개"
+      },
+      "en": "Pitch",
+      "ko": "핵심 소개",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "1b1a2db28bf9b6127a9e",
+      "kind": "text",
+      "original": {
+        "en": "Descriptions",
+        "ko": "게임 소개"
+      },
+      "en": "Descriptions",
+      "ko": "게임 소개",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "9fbd4197ac1504b91560",
+      "kind": "text",
+      "original": {
+        "en": "Variety of Unique Skeletons",
+        "ko": "개성 넘치는 해골들"
+      },
+      "en": "Variety of Unique Skeletons",
+      "ko": "개성 넘치는 해골들",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "3085a8eace81de19a967",
+      "kind": "text",
+      "original": {
+        "en": "Building Synergies",
+        "ko": "시너지 구성"
+      },
+      "en": "Building Synergies",
+      "ko": "시너지 구성",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "4347359f7ca474dd41a9",
+      "kind": "text",
+      "original": {
+        "en": "Bone-gathering Action",
+        "ko": "뼈를 모으며 펼치는 액션"
+      },
+      "en": "Bone-gathering Action",
+      "ko": "뼈를 모으며 펼치는 액션",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "769897f82f2855c9034a",
+      "kind": "text",
+      "original": {
+        "en": "Dynamic Events and Rewards",
+        "ko": "다채로운 이벤트와 보상"
+      },
+      "en": "Dynamic Events and Rewards",
+      "ko": "다채로운 이벤트와 보상",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "5e06c371c917257a9730",
+      "kind": "text",
+      "original": {
+        "en": "Videos",
+        "ko": "영상"
+      },
+      "en": "Videos",
+      "ko": "영상",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "5495a9e1edc2cd6d1694",
+      "kind": "text",
+      "original": {
+        "en": "Screenshots",
+        "ko": "스크린샷"
+      },
+      "en": "Screenshots",
+      "ko": "스크린샷",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "ad278fb7788908cb77d7",
+      "kind": "text",
+      "original": {
+        "en": "About Developer",
+        "ko": "개발팀 소개"
+      },
+      "en": "About Developer",
+      "ko": "개발팀 소개",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "86eb1276323642469a4a",
+      "kind": "text",
+      "original": {
+        "en": "About Publisher",
+        "ko": "퍼블리셔 소개"
+      },
+      "en": "About Publisher",
+      "ko": "퍼블리셔 소개",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "624d7a8d8779feba4f20",
+      "kind": "text",
+      "original": {
+        "en": "Next project →",
+        "ko": "다음 프로젝트 →"
+      },
+      "en": "Next project →",
+      "ko": "다음 프로젝트 →",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html",
+        "projects/bone-to-gather.html",
+        "projects/classic-rts.html",
+        "projects/clockwork-nabi.html",
+        "projects/flip-maze.html",
+        "projects/mutant-lab.html",
+        "projects/quench.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "9aa349238cff5f8bde1d",
+      "kind": "text",
+      "original": {
+        "en": "\"Bone To Gather\" is a synergy-building action roguelike. Embark on an epic journey with a team of puny skeletons determined to revenge the Demon King. Recruit skeletons with unique synergies to create a powerful team and battle through monsters on your way to the final showdown.",
+        "ko": "본 투 게더는 시너지를 조합하는 액션 로그라이크입니다. 마왕에게 복수하려는 작은 해골들과 함께 모험을 떠나세요. 서로 다른 시너지를 지닌 해골을 영입해 강력한 팀을 만들고, 몬스터들을 물리치며 마지막 결전을 향해 나아갑니다."
+      },
+      "en": "\"Bone To Gather\" is a synergy-building action roguelike. Embark on an epic journey with a team of puny skeletons determined to revenge the Demon King. Recruit skeletons with unique synergies to create a powerful team and battle through monsters on your way to the final showdown.",
+      "ko": "본 투 게더는 시너지를 조합하는 액션 로그라이크입니다. 마왕에게 복수하려는 작은 해골들과 함께 모험을 떠나세요. 서로 다른 시너지를 지닌 해골을 영입해 강력한 팀을 만들고, 몬스터들을 물리치며 마지막 결전을 향해 나아갑니다.",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "d8a441ea34a7871442e5",
+      "kind": "text",
+      "original": {
+        "en": "The skeletons come from various backgrounds and have different roles.",
+        "ko": "해골들은 저마다 다른 배경과 역할을 지니고 있습니다."
+      },
+      "en": "The skeletons come from various backgrounds and have different roles.",
+      "ko": "해골들은 저마다 다른 배경과 역할을 지니고 있습니다.",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "e368b9be603f1a917c38",
+      "kind": "text",
+      "original": {
+        "en": "Meet a popstar from the slums, a clown from a pirate crew, and a cleaner from a magic academy who have gathered from all over the land to reclaim the pride of skeletons.",
+        "ko": "빈민가의 팝스타, 해적단의 광대, 마법학교의 청소부까지. 해골의 자존심을 되찾기 위해 각지에서 모여든 동료들을 만나보세요."
+      },
+      "en": "Meet a popstar from the slums, a clown from a pirate crew, and a cleaner from a magic academy who have gathered from all over the land to reclaim the pride of skeletons.",
+      "ko": "빈민가의 팝스타, 해적단의 광대, 마법학교의 청소부까지. 해골의 자존심을 되찾기 위해 각지에서 모여든 동료들을 만나보세요.",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "bd65936d7807e0b7a58b",
+      "kind": "text",
+      "original": {
+        "en": "Placing skeletons from the same background or with the same role on the battlefield will grant special effects to your team.",
+        "ko": "같은 배경이나 역할을 지닌 해골을 전장에 함께 배치하면 팀에 특별한 효과가 부여됩니다."
+      },
+      "en": "Placing skeletons from the same background or with the same role on the battlefield will grant special effects to your team.",
+      "ko": "같은 배경이나 역할을 지닌 해골을 전장에 함께 배치하면 팀에 특별한 효과가 부여됩니다.",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "4be1dbd5236dc4c8535b",
+      "kind": "text",
+      "original": {
+        "en": "There are hundreds of possible combinations and matchups. Find the best synergies to build the strongest team!",
+        "ko": "수백 가지 조합과 상성이 기다립니다. 최고의 시너지를 찾아 가장 강력한 팀을 만드세요!"
+      },
+      "en": "There are hundreds of possible combinations and matchups. Find the best synergies to build the strongest team!",
+      "ko": "수백 가지 조합과 상성이 기다립니다. 최고의 시너지를 찾아 가장 강력한 팀을 만드세요!",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "9e17cb4354aa93b3f676",
+      "kind": "text",
+      "original": {
+        "en": "Put your team’s power to the test on the battlefield!",
+        "ko": "전장에서 팀의 힘을 시험해 보세요!"
+      },
+      "en": "Put your team’s power to the test on the battlefield!",
+      "ko": "전장에서 팀의 힘을 시험해 보세요!",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "9fc8a1ce5dae0a023a5b",
+      "kind": "text",
+      "original": {
+        "en": "But watch out - skeletons will immediately shatter if they take even a SINGLE hit.",
+        "ko": "하지만 조심하세요. 해골은 단 한 번만 공격받아도 곧바로 산산조각 납니다."
+      },
+      "en": "But watch out - skeletons will immediately shatter if they take even a SINGLE hit.",
+      "ko": "하지만 조심하세요. 해골은 단 한 번만 공격받아도 곧바로 산산조각 납니다.",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "165c70e0756b0284d421",
+      "kind": "text",
+      "original": {
+        "en": "Don’t worry, skeletons never die. You can bring them back to life by collecting their scattered bones. Hurry to gather those bones before your entire team breaks apart!",
+        "ko": "걱정하지 마세요. 해골은 죽지 않습니다. 흩어진 뼈를 모으면 다시 일으킬 수 있어요. 팀 전체가 무너지기 전에 서둘러 뼈를 모으세요!"
+      },
+      "en": "Don’t worry, skeletons never die. You can bring them back to life by collecting their scattered bones. Hurry to gather those bones before your entire team breaks apart!",
+      "ko": "걱정하지 마세요. 해골은 죽지 않습니다. 흩어진 뼈를 모으면 다시 일으킬 수 있어요. 팀 전체가 무너지기 전에 서둘러 뼈를 모으세요!",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "5f43ec5f08a88e7fbca2",
+      "kind": "text",
+      "original": {
+        "en": "Encounter a variety of events between boss battles.",
+        "ko": "보스전 사이사이에 다양한 이벤트를 만나보세요."
+      },
+      "en": "Encounter a variety of events between boss battles.",
+      "ko": "보스전 사이사이에 다양한 이벤트를 만나보세요.",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "1db16884419fef68b508",
+      "kind": "text",
+      "original": {
+        "en": "Enhance your deck with the rewards you earn from these events!",
+        "ko": "이벤트에서 얻은 보상으로 덱을 강화하세요!"
+      },
+      "en": "Enhance your deck with the rewards you earn from these events!",
+      "ko": "이벤트에서 얻은 보상으로 덱을 강화하세요!",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "a43e73fe6b2449fa1d65",
+      "kind": "text",
+      "original": {
+        "en": "Watch on YouTube ↗",
+        "ko": "YouTube에서 보기 ↗"
+      },
+      "en": "Watch on YouTube ↗",
+      "ko": "YouTube에서 보기 ↗",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html",
+        "projects/bone-to-gather.html",
+        "projects/clockwork-nabi.html",
+        "projects/mutant-lab.html",
+        "projects/skulls-pay-the-bills.html",
+        "projects/the-wand-atelier.html"
+      ]
+    },
+    {
+      "id": "eb961630f0f98dd7ff2b",
+      "kind": "rich-en",
+      "original": {
+        "en": "Team Size:",
+        "ko": ""
+      },
+      "en": "Team Size:",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "7db192209162c511e9e6",
+      "kind": "rich-en",
+      "original": {
+        "en": "5",
+        "ko": ""
+      },
+      "en": "5",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "c0cb094b9dba38777b16",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "팀 규모: 5명"
+      },
+      "en": "",
+      "ko": "팀 규모: 5명",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "7ccf2f98b8396fa0672f",
+      "kind": "text",
+      "original": {
+        "en": "Email:",
+        "ko": "이메일:"
+      },
+      "en": "Email:",
+      "ko": "이메일:",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "4ce3b05cd6344cf56e8f",
+      "kind": "text",
+      "original": {
+        "en": "X:",
+        "ko": "X:"
+      },
+      "en": "X:",
+      "ko": "X:",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "4058a285c2e8220969dc",
+      "kind": "text",
+      "original": {
+        "en": "https://x.com/ANYWAYGAMES",
+        "ko": "https://x.com/ANYWAYGAMES"
+      },
+      "en": "https://x.com/ANYWAYGAMES",
+      "ko": "https://x.com/ANYWAYGAMES",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "bc89d18bdf6ec382db3f",
+      "kind": "text",
+      "original": {
+        "en": "Discord:",
+        "ko": "디스코드:"
+      },
+      "en": "Discord:",
+      "ko": "디스코드:",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "93b88f716ac93175f976",
+      "kind": "text",
+      "original": {
+        "en": "https://discord.gg/CQaGE8sb48",
+        "ko": "https://discord.gg/CQaGE8sb48"
+      },
+      "en": "https://discord.gg/CQaGE8sb48",
+      "ko": "https://discord.gg/CQaGE8sb48",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "98ce3fd944112d158b25",
+      "kind": "rich-en",
+      "original": {
+        "en": "Anyway Games",
+        "ko": ""
+      },
+      "en": "Anyway Games",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "98fed262c1974c909a21",
+      "kind": "rich-en",
+      "original": {
+        "en": "is  a game development team formed within the",
+        "ko": ""
+      },
+      "en": "is  a game development team formed within the",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "e1b6f6b7998765338d55",
+      "kind": "rich-en",
+      "original": {
+        "en": "KRAFTON Jungle Game Lab program",
+        "ko": ""
+      },
+      "en": "KRAFTON Jungle Game Lab program",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "4b5cf4dd6375562c80e9",
+      "kind": "rich-en",
+      "original": {
+        "en": ". Our team consists of aspiring game developers and university students preparing to enter the game industry. We developed",
+        "ko": ""
+      },
+      "en": ". Our team consists of aspiring game developers and university students preparing to enter the game industry. We developed",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "d560e401f4260d8bf0d8",
+      "kind": "rich-en",
+      "original": {
+        "en": "Bone To Gather",
+        "ko": ""
+      },
+      "en": "Bone To Gather",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html",
+        "projects/bone-to-gather.html"
+      ]
+    },
+    {
+      "id": "6bef64e299aae7f426f2",
+      "kind": "rich-en",
+      "original": {
+        "en": "over the course of approximately three months.",
+        "ko": ""
+      },
+      "en": "over the course of approximately three months.",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "a3e9beb3a9152d4a2b28",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "Anyway Games는 크래프톤 정글 게임랩 프로그램에서 결성된 게임 개발팀입니다. 게임 업계 진출을 준비하는 예비 개발자와 대학생으로 구성되어 있으며, 약 3개월에 걸쳐 본 투 게더를 개발했습니다."
+      },
+      "en": "",
+      "ko": "Anyway Games는 크래프톤 정글 게임랩 프로그램에서 결성된 게임 개발팀입니다. 게임 업계 진출을 준비하는 예비 개발자와 대학생으로 구성되어 있으며, 약 3개월에 걸쳐 본 투 게더를 개발했습니다.",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "c01b12d1e1c15d0d8fc4",
+      "kind": "text",
+      "original": {
+        "en": "Jungle Game Lab",
+        "ko": "정글 게임랩"
+      },
+      "en": "Jungle Game Lab",
+      "ko": "정글 게임랩",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "5f9f1ca3547d855f7f4a",
+      "kind": "text",
+      "original": {
+        "en": "Contact:",
+        "ko": "문의:"
+      },
+      "en": "Contact:",
+      "ko": "문의:",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "66be28be17e171ed4c81",
+      "kind": "text",
+      "original": {
+        "en": "junglegamelab@krafton.com",
+        "ko": "junglegamelab@krafton.com"
+      },
+      "en": "junglegamelab@krafton.com",
+      "ko": "junglegamelab@krafton.com",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "99a421cd15c503757fec",
+      "kind": "text",
+      "original": {
+        "en": "Website:",
+        "ko": "웹사이트:"
+      },
+      "en": "Website:",
+      "ko": "웹사이트:",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "2d0cc06645839bd7fd7a",
+      "kind": "text",
+      "original": {
+        "en": "https://jungle.krafton.com/",
+        "ko": "https://jungle.krafton.com/"
+      },
+      "en": "https://jungle.krafton.com/",
+      "ko": "https://jungle.krafton.com/",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "b0999a00639ffffa1d40",
+      "kind": "text",
+      "original": {
+        "en": "FOR PRESS INQUIRIES PLEASE CONTACT US AT",
+        "ko": "언론 및 취재 문의"
+      },
+      "en": "FOR PRESS INQUIRIES PLEASE CONTACT US AT",
+      "ko": "언론 및 취재 문의",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "e1ed0232262b8731e493",
+      "kind": "text",
+      "original": {
+        "en": "FACTSHEET",
+        "ko": "게임 기본 정보"
+      },
+      "en": "FACTSHEET",
+      "ko": "게임 기본 정보",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "01423478e6023a555b3b",
+      "kind": "rich-en",
+      "original": {
+        "en": "Developer:",
+        "ko": ""
+      },
+      "en": "Developer:",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "ba8b9ab4a7f82b5d5ec9",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "개발: Anyway Games"
+      },
+      "en": "",
+      "ko": "개발: Anyway Games",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "96ee53b9df5f12dffcf1",
+      "kind": "rich-en",
+      "original": {
+        "en": "Publisher:",
+        "ko": ""
+      },
+      "en": "Publisher:",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "46934171ee3f0c9d5d1b",
+      "kind": "rich-en",
+      "original": {
+        "en": "Jungle Game Lab",
+        "ko": ""
+      },
+      "en": "Jungle Game Lab",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "21a31ee4f8a69a3d3388",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "퍼블리셔: 정글 게임랩"
+      },
+      "en": "",
+      "ko": "퍼블리셔: 정글 게임랩",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "41d40cc15c30893436da",
+      "kind": "text",
+      "original": {
+        "en": "Genre:",
+        "ko": "장르:"
+      },
+      "en": "Genre:",
+      "ko": "장르:",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "1835fafa3ddb0fc3052c",
+      "kind": "rich-en",
+      "original": {
+        "en": "#Roguelike Deckbuilder",
+        "ko": ""
+      },
+      "en": "#Roguelike Deckbuilder",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "463de5b454d7d0bdf8b7",
+      "kind": "rich-en",
+      "original": {
+        "en": "#Action Roguelike",
+        "ko": ""
+      },
+      "en": "#Action Roguelike",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "ee005f0554af16a0ad49",
+      "kind": "rich-en",
+      "original": {
+        "en": "#Creature Collector",
+        "ko": ""
+      },
+      "en": "#Creature Collector",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "9927ddf293c8c096a8d1",
+      "kind": "rich-en",
+      "original": {
+        "en": "Point & Click",
+        "ko": ""
+      },
+      "en": "Point & Click",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "5ed1512f6f6545077665",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "#덱빌딩 로그라이크 #액션 로그라이크 #크리처 수집 #포인트 앤 클릭"
+      },
+      "en": "",
+      "ko": "#덱빌딩 로그라이크 #액션 로그라이크 #크리처 수집 #포인트 앤 클릭",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "adbea2ed88b8a553b37d",
+      "kind": "rich-en",
+      "original": {
+        "en": "Players:",
+        "ko": ""
+      },
+      "en": "Players:",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "dfc4d8082fe4399bd40d",
+      "kind": "rich-en",
+      "original": {
+        "en": "Single Player, PVE",
+        "ko": ""
+      },
+      "en": "Single Player, PVE",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "0d2d992d3aca518fb772",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "플레이 방식: 싱글플레이, PVE"
+      },
+      "en": "",
+      "ko": "플레이 방식: 싱글플레이, PVE",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "16ac57d8bae4a78159ae",
+      "kind": "rich-en",
+      "original": {
+        "en": "Release Date:",
+        "ko": ""
+      },
+      "en": "Release Date:",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "bef900761f3db7ce30d5",
+      "kind": "rich-en",
+      "original": {
+        "en": "12/17 10:00 a.m (KST)",
+        "ko": ""
+      },
+      "en": "12/17 10:00 a.m (KST)",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "a6e55acf2199721fbe06",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "출시 일시: 12월 17일 오전 10시 (한국 시간)"
+      },
+      "en": "",
+      "ko": "출시 일시: 12월 17일 오전 10시 (한국 시간)",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "af86b67dd95bbf93bb28",
+      "kind": "rich-en",
+      "original": {
+        "en": "Price:",
+        "ko": ""
+      },
+      "en": "Price:",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "8763cab23eff6ec68868",
+      "kind": "rich-en",
+      "original": {
+        "en": "Free",
+        "ko": ""
+      },
+      "en": "Free",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "dc08c8d1c4fd9c1f744a",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "가격: 무료"
+      },
+      "en": "",
+      "ko": "가격: 무료",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "0fa350a5f17184a6414a",
+      "kind": "rich-en",
+      "original": {
+        "en": "Platforms:",
+        "ko": ""
+      },
+      "en": "Platforms:",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "0c3c300d2500090bd0ba",
+      "kind": "rich-en",
+      "original": {
+        "en": "Steam (Windows)",
+        "ko": ""
+      },
+      "en": "Steam (Windows)",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "fa8937b807c6aeefd27a",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "플랫폼: Steam (Windows)"
+      },
+      "en": "",
+      "ko": "플랫폼: Steam (Windows)",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "8c4e7db9d30687e9d797",
+      "kind": "text",
+      "original": {
+        "en": "Store page link:",
+        "ko": "스토어 페이지:"
+      },
+      "en": "Store page link:",
+      "ko": "스토어 페이지:",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "d462019eccd3e585b0d8",
+      "kind": "text",
+      "original": {
+        "en": "Bone To Gather",
+        "ko": "Bone To Gather"
+      },
+      "en": "Bone To Gather",
+      "ko": "Bone To Gather",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html",
+        "projects/bone-to-gather.html"
+      ]
+    },
+    {
+      "id": "dec807a47d9a95c75a11",
+      "kind": "rich-en",
+      "original": {
+        "en": "CONTACT US",
+        "ko": ""
+      },
+      "en": "CONTACT US",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "77650d238debc556bd8d",
+      "kind": "rich-en",
+      "original": {
+        "en": "X:",
+        "ko": ""
+      },
+      "en": "X:",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "4574b220fa9a823aa02a",
+      "kind": "rich-en",
+      "original": {
+        "en": "https://x.com/ANYWAYGAMES",
+        "ko": ""
+      },
+      "en": "https://x.com/ANYWAYGAMES",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "96467fabb72ae7cf1883",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "문의하기 · X:"
+      },
+      "en": "",
+      "ko": "문의하기 · X:",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "92e45dfedc83f4e45612",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "https://x.com/ANYWAYGAMES"
+      },
+      "en": "",
+      "ko": "https://x.com/ANYWAYGAMES",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "9b4e9295c69f5e3a51db",
+      "kind": "rich-en",
+      "original": {
+        "en": "is an intensive 24-week program designed for aspiring game developers, inspired by the core philosophy of KRAFTON Jungle:",
+        "ko": ""
+      },
+      "en": "is an intensive 24-week program designed for aspiring game developers, inspired by the core philosophy of KRAFTON Jungle:",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "6e5751cd4f03a69da370",
+      "kind": "rich-en",
+      "original": {
+        "en": "immersive experiences, self-directed learning, and team collaboration.",
+        "ko": ""
+      },
+      "en": "immersive experiences, self-directed learning, and team collaboration.",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "9ced8202440e861b4031",
+      "kind": "rich-en",
+      "original": {
+        "en": "This program takes participants through the entire game development journey—from mastering the basics to launching a game on Steam.",
+        "ko": ""
+      },
+      "en": "This program takes participants through the entire game development journey—from mastering the basics to launching a game on Steam.",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "ca62e1107a22b1c24835",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "정글 게임랩은 크래프톤 정글의 핵심 철학인 몰입, 자기주도 학습, 팀 협업을 바탕으로 예비 게임 개발자를 양성하는 24주 집중 프로그램입니다. 기초 학습부터 Steam 출시까지 게임 개발의 전 과정을 경험합니다."
+      },
+      "en": "",
+      "ko": "정글 게임랩은 크래프톤 정글의 핵심 철학인 몰입, 자기주도 학습, 팀 협업을 바탕으로 예비 게임 개발자를 양성하는 24주 집중 프로그램입니다. 기초 학습부터 Steam 출시까지 게임 개발의 전 과정을 경험합니다.",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "cefe4d2d51c8052892fa",
+      "kind": "text",
+      "original": {
+        "en": "KEEP EXPLORING",
+        "ko": "계속 살펴보기"
+      },
+      "en": "KEEP EXPLORING",
+      "ko": "계속 살펴보기",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html",
+        "projects/bone-to-gather.html",
+        "projects/classic-rts.html",
+        "projects/clockwork-nabi.html",
+        "projects/flip-maze.html",
+        "projects/mutant-lab.html",
+        "projects/quench.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "5a52304ce2ac9155c629",
+      "kind": "text",
+      "original": {
+        "en": "Clockwork Nabi",
+        "ko": "Clockwork Nabi (태엽 나비)"
+      },
+      "en": "Clockwork Nabi",
+      "ko": "Clockwork Nabi (태엽 나비)",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html",
+        "projects/bone-to-gather.html",
+        "projects/clockwork-nabi.html"
+      ]
+    },
+    {
+      "id": "4b1b24d22a7a928a4c50",
+      "kind": "text",
+      "original": {
+        "en": "ALL PROJECTS ↑",
+        "ko": "전체 프로젝트 ↑"
+      },
+      "en": "ALL PROJECTS ↑",
+      "ko": "전체 프로젝트 ↑",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html",
+        "projects/bone-to-gather.html",
+        "projects/classic-rts.html",
+        "projects/clockwork-nabi.html",
+        "projects/flip-maze.html",
+        "projects/mutant-lab.html",
+        "projects/quench.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "0539363db1047a7b39c6",
+      "kind": "aria-label",
+      "original": {
+        "en": "Project contents",
+        "ko": "프로젝트 목차"
+      },
+      "en": "Project contents",
+      "ko": "프로젝트 목차",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html",
+        "projects/bone-to-gather.html",
+        "projects/classic-rts.html",
+        "projects/clockwork-nabi.html",
+        "projects/flip-maze.html",
+        "projects/mutant-lab.html",
+        "projects/quench.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "580009c132a805a61e9c",
+      "kind": "aria-label",
+      "original": {
+        "en": "Open image at full size",
+        "ko": "이미지 원본 크기로 보기"
+      },
+      "en": "Open image at full size",
+      "ko": "이미지 원본 크기로 보기",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html",
+        "projects/bone-to-gather.html",
+        "projects/classic-rts.html",
+        "projects/clockwork-nabi.html",
+        "projects/flip-maze.html",
+        "projects/mutant-lab.html",
+        "projects/quench.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "3b7e7af05ab0a5469aee",
+      "kind": "alt",
+      "original": {
+        "en": "Project illustration",
+        "ko": "프로젝트 이미지"
+      },
+      "en": "Project illustration",
+      "ko": "프로젝트 이미지",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html",
+        "projects/bone-to-gather.html",
+        "projects/classic-rts.html",
+        "projects/clockwork-nabi.html",
+        "projects/flip-maze.html",
+        "projects/mutant-lab.html",
+        "projects/quench.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "f3611a46d0382032c89d",
+      "kind": "aria-label",
+      "original": {
+        "en": "Next project",
+        "ko": "다음 프로젝트"
+      },
+      "en": "Next project",
+      "ko": "다음 프로젝트",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html",
+        "projects/bone-to-gather.html",
+        "projects/classic-rts.html",
+        "projects/clockwork-nabi.html",
+        "projects/flip-maze.html",
+        "projects/mutant-lab.html",
+        "projects/quench.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "d9d50a3838aaa34ed90f",
+      "kind": "title",
+      "original": {
+        "en": "Bone To Gather — Nayoung Lim",
+        "ko": "본 투 게더 — 임나영 포트폴리오"
+      },
+      "en": "Bone To Gather — Nayoung Lim",
+      "ko": "본 투 게더 — 임나영 포트폴리오",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "bf55bba2e2db640f1365",
+      "kind": "description",
+      "original": {
+        "en": "Bone To Gather — project details, design contributions, and supporting material by Nayoung Lim.",
+        "ko": "본 투 게더 — 임나영의 프로젝트 소개, 기획 과정 및 관련 자료."
+      },
+      "en": "Bone To Gather — project details, design contributions, and supporting material by Nayoung Lim.",
+      "ko": "본 투 게더 — 임나영의 프로젝트 소개, 기획 과정 및 관련 자료.",
+      "pages": [
+        "projects/bone-to-gather-press-kit.html"
+      ]
+    },
+    {
+      "id": "822b68a90f599de15e3e",
+      "kind": "text",
+      "original": {
+        "en": "Bone To Gather",
+        "ko": "Bone To Gather (본 투 게더)"
+      },
+      "en": "Bone To Gather",
+      "ko": "Bone To Gather (본 투 게더)",
+      "pages": [
+        "projects/bone-to-gather.html",
+        "projects/flip-maze.html"
+      ]
+    },
+    {
+      "id": "5cf5c8d9c163d3586450",
+      "kind": "text",
+      "original": {
+        "en": "Project type",
+        "ko": "프로젝트 유형"
+      },
+      "en": "Project type",
+      "ko": "프로젝트 유형",
+      "pages": [
+        "projects/bone-to-gather.html",
+        "projects/classic-rts.html",
+        "projects/clockwork-nabi.html",
+        "projects/mutant-lab.html",
+        "projects/quench.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "f8fcab04e00dd96bfd44",
+      "kind": "text",
+      "original": {
+        "en": "Long-term project",
+        "ko": "장기 프로젝트"
+      },
+      "en": "Long-term project",
+      "ko": "장기 프로젝트",
+      "pages": [
+        "projects/bone-to-gather.html",
+        "projects/clockwork-nabi.html"
+      ]
+    },
+    {
+      "id": "d1ac5ec13b7a9b21b789",
+      "kind": "text",
+      "original": {
+        "en": "Genres",
+        "ko": "장르"
+      },
+      "en": "Genres",
+      "ko": "장르",
+      "pages": [
+        "projects/bone-to-gather.html"
+      ]
+    },
+    {
+      "id": "a26e6d7cbf4359d8ee36",
+      "kind": "text",
+      "original": {
+        "en": "Action, strategy, roguelike deckbuilding",
+        "ko": "Action,Strategy,액션,전략,로그라이크 덱빌딩"
+      },
+      "en": "Action, strategy, roguelike deckbuilding",
+      "ko": "Action,Strategy,액션,전략,로그라이크 덱빌딩",
+      "pages": [
+        "projects/bone-to-gather.html"
+      ]
+    },
+    {
+      "id": "484b9e96ef02c912c7c2",
+      "kind": "text",
+      "original": {
+        "en": "Timeline",
+        "ko": "기간"
+      },
+      "en": "Timeline",
+      "ko": "기간",
+      "pages": [
+        "projects/bone-to-gather.html",
+        "projects/clockwork-nabi.html",
+        "projects/mutant-lab.html",
+        "projects/quench.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "d1223428e79cdd351394",
+      "kind": "text",
+      "original": {
+        "en": "September–December 2024 (approximately three months)",
+        "ko": "2024/09 ~ 2024/12 (약 3개월)"
+      },
+      "en": "September–December 2024 (approximately three months)",
+      "ko": "2024/09 ~ 2024/12 (약 3개월)",
+      "pages": [
+        "projects/bone-to-gather.html"
+      ]
+    },
+    {
+      "id": "40ac1532c13e18c5a3c6",
+      "kind": "text",
+      "original": {
+        "en": "Role: game designer, programmer & project manager",
+        "ko": "게임 기획자 & 프로그래머 & 프로젝트 매니저 역할 수행"
+      },
+      "en": "Role: game designer, programmer & project manager",
+      "ko": "게임 기획자 & 프로그래머 & 프로젝트 매니저 역할 수행",
+      "pages": [
+        "projects/bone-to-gather.html"
+      ]
+    },
+    {
+      "id": "145b314f20f1b81b70e4",
+      "kind": "text",
+      "original": {
+        "en": "About the game",
+        "ko": "게임 설명"
+      },
+      "en": "About the game",
+      "ko": "게임 설명",
+      "pages": [
+        "projects/bone-to-gather.html",
+        "projects/classic-rts.html",
+        "projects/clockwork-nabi.html",
+        "projects/flip-maze.html",
+        "projects/mutant-lab.html",
+        "projects/quench.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "f16db5152b08989b96be",
+      "kind": "text",
+      "original": {
+        "en": "Project link:",
+        "ko": "프로젝트 링크:"
+      },
+      "en": "Project link:",
+      "ko": "프로젝트 링크:",
+      "pages": [
+        "projects/bone-to-gather.html",
+        "projects/classic-rts.html",
+        "projects/clockwork-nabi.html",
+        "projects/flip-maze.html",
+        "projects/mutant-lab.html",
+        "projects/quench.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "ac5fecce49ebfe84900e",
+      "kind": "rich-en",
+      "original": {
+        "en": "Publisher presentation:",
+        "ko": ""
+      },
+      "en": "Publisher presentation:",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather.html"
+      ]
+    },
+    {
+      "id": "c397860034909e5962ae",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "퍼블리셔 전달용 소개 페이지:"
+      },
+      "en": "",
+      "ko": "퍼블리셔 전달용 소개 페이지:",
+      "pages": [
+        "projects/bone-to-gather.html"
+      ]
+    },
+    {
+      "id": "6952b5b52e5db9b12d14",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "본 투 게더"
+      },
+      "en": "",
+      "ko": "본 투 게더",
+      "pages": [
+        "projects/bone-to-gather.html"
+      ]
+    },
+    {
+      "id": "1e17324145d9e5b2ee4f",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "(영문 작성)"
+      },
+      "en": "",
+      "ko": "(영문 작성)",
+      "pages": [
+        "projects/bone-to-gather.html"
+      ]
+    },
+    {
+      "id": "2892e9ca0de6896985dc",
+      "kind": "text",
+      "original": {
+        "en": "Over 8,000 unique users and more than 100 positive Steam reviews",
+        "ko": "+8,000명 누적 고유 사용자, Steam에서 100건 이상 긍정 리뷰"
+      },
+      "en": "Over 8,000 unique users and more than 100 positive Steam reviews",
+      "ko": "+8,000명 누적 고유 사용자, Steam에서 100건 이상 긍정 리뷰",
+      "pages": [
+        "projects/bone-to-gather.html"
+      ]
+    },
+    {
+      "id": "7ee5ff493996d4b9cd18",
+      "kind": "text",
+      "original": {
+        "en": "Designed the core user experience and prototyped key gameplay mechanics.",
+        "ko": "주요 사용자 경험(UX) 설계 및 핵심 게임 메커니즘 프로토타입 제작"
+      },
+      "en": "Designed the core user experience and prototyped key gameplay mechanics.",
+      "ko": "주요 사용자 경험(UX) 설계 및 핵심 게임 메커니즘 프로토타입 제작",
+      "pages": [
+        "projects/bone-to-gather.html"
+      ]
+    },
+    {
+      "id": "495d0f65131d1c4ba449",
+      "kind": "text",
+      "original": {
+        "en": "Programmed the UI and supporting game systems.",
+        "ko": "UI와 부차적인 게임 시스템 전반 프로그래밍"
+      },
+      "en": "Programmed the UI and supporting game systems.",
+      "ko": "UI와 부차적인 게임 시스템 전반 프로그래밍",
+      "pages": [
+        "projects/bone-to-gather.html"
+      ]
+    },
+    {
+      "id": "e52fd0494ad7bb6eca44",
+      "kind": "text",
+      "original": {
+        "en": "Developed the game with Unity and C#.",
+        "ko": "Unity C#을 사용한 게임 개발"
+      },
+      "en": "Developed the game with Unity and C#.",
+      "ko": "Unity C#을 사용한 게임 개발",
+      "pages": [
+        "projects/bone-to-gather.html"
+      ]
+    },
+    {
+      "id": "47c291f7a72599d361cb",
+      "kind": "text",
+      "original": {
+        "en": "Managed the team as project manager using Agile practices and Notion.",
+        "ko": "Agile 방법론 및 Notion을 활용한 프로젝트 매니저로서 팀 관리"
+      },
+      "en": "Managed the team as project manager using Agile practices and Notion.",
+      "ko": "Agile 방법론 및 Notion을 활용한 프로젝트 매니저로서 팀 관리",
+      "pages": [
+        "projects/bone-to-gather.html"
+      ]
+    },
+    {
+      "id": "72259fa4dee822a5b9be",
+      "kind": "text",
+      "original": {
+        "en": "Led marketing activities, including emails to YouTubers, publisher outreach, Discord management, and promotion to curators and the press.",
+        "ko": "마케팅 활동 주도 (유튜버 이메일 발송, 퍼블리셔 연락, Discord 운영, 큐레이터 및 언론사 대상 홍보)"
+      },
+      "en": "Led marketing activities, including emails to YouTubers, publisher outreach, Discord management, and promotion to curators and the press.",
+      "ko": "마케팅 활동 주도 (유튜버 이메일 발송, 퍼블리셔 연락, Discord 운영, 큐레이터 및 언론사 대상 홍보)",
+      "pages": [
+        "projects/bone-to-gather.html"
+      ]
+    },
+    {
+      "id": "6a8132222caedc66b193",
+      "kind": "text",
+      "original": {
+        "en": "Handled Japanese, Korean, Traditional Chinese, and Simplified Chinese localisation.",
+        "ko": "일본어, 한국어, 번체 및 간체 중국어 현지화 담당"
+      },
+      "en": "Handled Japanese, Korean, Traditional Chinese, and Simplified Chinese localisation.",
+      "ko": "일본어, 한국어, 번체 및 간체 중국어 현지화 담당",
+      "pages": [
+        "projects/bone-to-gather.html"
+      ]
+    },
+    {
+      "id": "cd4524903308377b7d41",
+      "kind": "rich-en",
+      "original": {
+        "en": "Genre: #Action #RoguelikeDeckbuilder #Strategy",
+        "ko": ""
+      },
+      "en": "Genre: #Action #RoguelikeDeckbuilder #Strategy",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather.html"
+      ]
+    },
+    {
+      "id": "c9d876a006802c581983",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "장르:"
+      },
+      "en": "",
+      "ko": "장르:",
+      "pages": [
+        "projects/bone-to-gather.html",
+        "projects/classic-rts.html",
+        "projects/clockwork-nabi.html",
+        "projects/flip-maze.html",
+        "projects/mutant-lab.html",
+        "projects/quench.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "6d1ebf32f6dc3b9b5ae3",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "#액션"
+      },
+      "en": "",
+      "ko": "#액션",
+      "pages": [
+        "projects/bone-to-gather.html",
+        "projects/clockwork-nabi.html"
+      ]
+    },
+    {
+      "id": "7627379f51e501053785",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "#덱빌딩 로그라이크"
+      },
+      "en": "",
+      "ko": "#덱빌딩 로그라이크",
+      "pages": [
+        "projects/bone-to-gather.html"
+      ]
+    },
+    {
+      "id": "643235f241ac61f057fa",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "#전략"
+      },
+      "en": "",
+      "ko": "#전략",
+      "pages": [
+        "projects/bone-to-gather.html",
+        "projects/classic-rts.html"
+      ]
+    },
+    {
+      "id": "df19d1f847a847d07578",
+      "kind": "rich-en",
+      "original": {
+        "en": "Game overview: Bone To Gather is a team-building action roguelike in which you assemble a synergistic party of feeble-looking skeletons with distinctive abilities. Use the money earned from defeating monsters to recruit new skeletons, combine their synergies, and set out to defeat the Demon King who mocked their powers.",
+        "ko": ""
+      },
+      "en": "Game overview: Bone To Gather is a team-building action roguelike in which you assemble a synergistic party of feeble-looking skeletons with distinctive abilities. Use the money earned from defeating monsters to recruit new skeletons, combine their synergies, and set out to defeat the Demon King who mocked their powers.",
+      "ko": "",
+      "pages": [
+        "projects/bone-to-gather.html"
+      ]
+    },
+    {
+      "id": "f87ca196761849b56aa8",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "간단한 게임 소개:"
+      },
+      "en": "",
+      "ko": "간단한 게임 소개:",
+      "pages": [
+        "projects/bone-to-gather.html"
+      ]
+    },
+    {
+      "id": "9e3b9872724aed120488",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "Bone To Gather는 하찮지만 독특한 능력을 가진 스켈레톤들로 시너지에 맞는 팀을 구성해 전투하는 팀 빌딩 액션 로그라이크 게임입니다. 방해꾼 몬스터들을 처치하며 얻은 자금으로 다양한 스켈레톤들을 팀에 영입하고, 시너지를 조합해, 그들의 능력을 비웃은 마왕을 무찌르기 위한 복수의 여정을 떠나세요."
+      },
+      "en": "",
+      "ko": "Bone To Gather는 하찮지만 독특한 능력을 가진 스켈레톤들로 시너지에 맞는 팀을 구성해 전투하는 팀 빌딩 액션 로그라이크 게임입니다. 방해꾼 몬스터들을 처치하며 얻은 자금으로 다양한 스켈레톤들을 팀에 영입하고, 시너지를 조합해, 그들의 능력을 비웃은 마왕을 무찌르기 위한 복수의 여정을 떠나세요.",
+      "pages": [
+        "projects/bone-to-gather.html"
+      ]
+    },
+    {
+      "id": "a285e4c843716dcf0e47",
+      "kind": "title",
+      "original": {
+        "en": "Bone To Gather — Nayoung Lim",
+        "ko": "Bone To Gather (본 투 게더) — 임나영 포트폴리오"
+      },
+      "en": "Bone To Gather — Nayoung Lim",
+      "ko": "Bone To Gather (본 투 게더) — 임나영 포트폴리오",
+      "pages": [
+        "projects/bone-to-gather.html"
+      ]
+    },
+    {
+      "id": "0e1430c5c36207ec280b",
+      "kind": "description",
+      "original": {
+        "en": "Bone To Gather — project details, design contributions, and supporting material by Nayoung Lim.",
+        "ko": "Bone To Gather (본 투 게더) — 임나영의 프로젝트 소개, 기획 과정 및 관련 자료."
+      },
+      "en": "Bone To Gather — project details, design contributions, and supporting material by Nayoung Lim.",
+      "ko": "Bone To Gather (본 투 게더) — 임나영의 프로젝트 소개, 기획 과정 및 관련 자료.",
+      "pages": [
+        "projects/bone-to-gather.html"
+      ]
+    },
+    {
+      "id": "2e3cc73b15e228c93c9e",
+      "kind": "text",
+      "original": {
+        "en": "PROJECT / 05",
+        "ko": "프로젝트 / 05"
+      },
+      "en": "PROJECT / 05",
+      "ko": "프로젝트 / 05",
+      "pages": [
+        "projects/classic-rts.html"
+      ]
+    },
+    {
+      "id": "68c3a4502b75adfd0fb2",
+      "kind": "text",
+      "original": {
+        "en": "Classic RTS",
+        "ko": "Classic RTS (클래식 RTS)"
+      },
+      "en": "Classic RTS",
+      "ko": "Classic RTS (클래식 RTS)",
+      "pages": [
+        "projects/classic-rts.html",
+        "projects/mutant-lab.html"
+      ]
+    },
+    {
+      "id": "ed8bb52930961dc9c839",
+      "kind": "text",
+      "original": {
+        "en": "Game jam",
+        "ko": "게임잼"
+      },
+      "en": "Game jam",
+      "ko": "게임잼",
+      "pages": [
+        "projects/classic-rts.html",
+        "projects/mutant-lab.html",
+        "projects/quench.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "f469d3f57d0f2e8b7d16",
+      "kind": "text",
+      "original": {
+        "en": "Role: game designer & programmer",
+        "ko": "게임 기획자 & 프로그래머 역할 수행"
+      },
+      "en": "Role: game designer & programmer",
+      "ko": "게임 기획자 & 프로그래머 역할 수행",
+      "pages": [
+        "projects/classic-rts.html",
+        "projects/flip-maze.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "94571f66eff81e7fb4dc",
+      "kind": "text",
+      "original": {
+        "en": "Classic RTS",
+        "ko": "Classic RTS"
+      },
+      "en": "Classic RTS",
+      "ko": "Classic RTS",
+      "pages": [
+        "projects/classic-rts.html"
+      ]
+    },
+    {
+      "id": "68be19ca6cd1755876c1",
+      "kind": "text",
+      "original": {
+        "en": "Developed every game element in Unity C#, including the UI and core gameplay systems.",
+        "ko": "UI 및 핵심 게임 플레이 시스템을 포함한 모든 게임 요소를 Unity C#으로 개발"
+      },
+      "en": "Developed every game element in Unity C#, including the UI and core gameplay systems.",
+      "ko": "UI 및 핵심 게임 플레이 시스템을 포함한 모든 게임 요소를 Unity C#으로 개발",
+      "pages": [
+        "projects/classic-rts.html"
+      ]
+    },
+    {
+      "id": "9fc8c91bf4208599368f",
+      "kind": "text",
+      "original": {
+        "en": "Planned and designed game systems around the essential ingredients of an engaging, effective management game.",
+        "ko": "매력적이고 효과적인 경영 게임을 구현하기 위한 핵심 요소에 집중하여 게임 시스템을 기획 및 설계"
+      },
+      "en": "Planned and designed game systems around the essential ingredients of an engaging, effective management game.",
+      "ko": "매력적이고 효과적인 경영 게임을 구현하기 위한 핵심 요소에 집중하여 게임 시스템을 기획 및 설계",
+      "pages": [
+        "projects/classic-rts.html"
+      ]
+    },
+    {
+      "id": "b55f59d66bbd29dced80",
+      "kind": "text",
+      "original": {
+        "en": "Collected player feedback through MDA-based playtests (Mechanics–Dynamics–Aesthetics) and applied patches to improve evaluation scores.",
+        "ko": "MDA(메커닉–다이내믹–미학) 기반 플레이테스트를 통해 플레이어 피드백을 수집하고, 점수 개선을 위해 패치를 적용했습니다"
+      },
+      "en": "Collected player feedback through MDA-based playtests (Mechanics–Dynamics–Aesthetics) and applied patches to improve evaluation scores.",
+      "ko": "MDA(메커닉–다이내믹–미학) 기반 플레이테스트를 통해 플레이어 피드백을 수집하고, 점수 개선을 위해 패치를 적용했습니다",
+      "pages": [
+        "projects/classic-rts.html"
+      ]
+    },
+    {
+      "id": "7132b755ff511311fee8",
+      "kind": "rich-en",
+      "original": {
+        "en": "Genre: #Clicker #RTS #Strategy #Upgrades #FiniteResources",
+        "ko": ""
+      },
+      "en": "Genre: #Clicker #RTS #Strategy #Upgrades #FiniteResources",
+      "ko": "",
+      "pages": [
+        "projects/classic-rts.html"
+      ]
+    },
+    {
+      "id": "55220d534d505802b1dd",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "#클리커"
+      },
+      "en": "",
+      "ko": "#클리커",
+      "pages": [
+        "projects/classic-rts.html"
+      ]
+    },
+    {
+      "id": "02eb4a81732613b7940c",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "#RTS"
+      },
+      "en": "",
+      "ko": "#RTS",
+      "pages": [
+        "projects/classic-rts.html"
+      ]
+    },
+    {
+      "id": "7ff58eb8189a9f27fcd8",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "#업그레이드"
+      },
+      "en": "",
+      "ko": "#업그레이드",
+      "pages": [
+        "projects/classic-rts.html"
+      ]
+    },
+    {
+      "id": "c8cbac8bae43dcf5c274",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "#유한한 자원"
+      },
+      "en": "",
+      "ko": "#유한한 자원",
+      "pages": [
+        "projects/classic-rts.html"
+      ]
+    },
+    {
+      "id": "d584cc96ec2d022670be",
+      "kind": "text",
+      "original": {
+        "en": "Game overview:",
+        "ko": "간단 게임 소개:"
+      },
+      "en": "Game overview:",
+      "ko": "간단 게임 소개:",
+      "pages": [
+        "projects/classic-rts.html",
+        "projects/flip-maze.html",
+        "projects/quench.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "94c22fe34085ec549ee0",
+      "kind": "text",
+      "original": {
+        "en": "Enjoy managing cost efficiency with a limited pool of resources.",
+        "ko": "제한된 자원을 바탕으로 비용 효율성을 관리하는 즐거움을 느껴보세요."
+      },
+      "en": "Enjoy managing cost efficiency with a limited pool of resources.",
+      "ko": "제한된 자원을 바탕으로 비용 효율성을 관리하는 즐거움을 느껴보세요.",
+      "pages": [
+        "projects/classic-rts.html"
+      ]
+    },
+    {
+      "id": "91488b29b7a6e875f135",
+      "kind": "rich-en",
+      "original": {
+        "en": "Think carefully about how to use each resource efficiently and optimise your choices. Hiring more workers may seem like a good way to increase production, for example, but consuming too much food in the process can reduce overall efficiency.",
+        "ko": ""
+      },
+      "en": "Think carefully about how to use each resource efficiently and optimise your choices. Hiring more workers may seem like a good way to increase production, for example, but consuming too much food in the process can reduce overall efficiency.",
+      "ko": "",
+      "pages": [
+        "projects/classic-rts.html"
+      ]
+    },
+    {
+      "id": "cd8dc040dff920619aad",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "각 자원을 얼마나 효율적으로 활용할지 신중하게 고민하고 최적화해 보세요."
+      },
+      "en": "",
+      "ko": "각 자원을 얼마나 효율적으로 활용할지 신중하게 고민하고 최적화해 보세요.",
+      "pages": [
+        "projects/classic-rts.html"
+      ]
+    },
+    {
+      "id": "d2cb23aca1776b837aca",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "예를 들어, 자원 생산을 늘리기 위해 더 많은 노동자를 고용하는 전략이 좋아 보일 수 있지만, 그 과정에서 식량을 과도하게 소비하면 전체 효율성이 떨어질 수 있습니다."
+      },
+      "en": "",
+      "ko": "예를 들어, 자원 생산을 늘리기 위해 더 많은 노동자를 고용하는 전략이 좋아 보일 수 있지만, 그 과정에서 식량을 과도하게 소비하면 전체 효율성이 떨어질 수 있습니다.",
+      "pages": [
+        "projects/classic-rts.html"
+      ]
+    },
+    {
+      "id": "6535b0829fd13bf0fd26",
+      "kind": "text",
+      "original": {
+        "en": "At its core, the game challenges you to survive by gathering resources on a grid-based map.",
+        "ko": "이 게임의 핵심은 그리드 기반 맵에서 자원을 수집하며 생존에 도전하는 것입니다."
+      },
+      "en": "At its core, the game challenges you to survive by gathering resources on a grid-based map.",
+      "ko": "이 게임의 핵심은 그리드 기반 맵에서 자원을 수집하며 생존에 도전하는 것입니다.",
+      "pages": [
+        "projects/classic-rts.html"
+      ]
+    },
+    {
+      "id": "24ac1319319ecbe6dc6b",
+      "kind": "text",
+      "original": {
+        "en": "Quench",
+        "ko": "Quench (퀜치)"
+      },
+      "en": "Quench",
+      "ko": "Quench (퀜치)",
+      "pages": [
+        "projects/classic-rts.html",
+        "projects/quench.html"
+      ]
+    },
+    {
+      "id": "9e1e811466751a75f153",
+      "kind": "title",
+      "original": {
+        "en": "Classic RTS — Nayoung Lim",
+        "ko": "Classic RTS (클래식 RTS) — 임나영 포트폴리오"
+      },
+      "en": "Classic RTS — Nayoung Lim",
+      "ko": "Classic RTS (클래식 RTS) — 임나영 포트폴리오",
+      "pages": [
+        "projects/classic-rts.html"
+      ]
+    },
+    {
+      "id": "3791b1cc0b7047541fd8",
+      "kind": "description",
+      "original": {
+        "en": "Classic RTS — project details, design contributions, and supporting material by Nayoung Lim.",
+        "ko": "Classic RTS (클래식 RTS) — 임나영의 프로젝트 소개, 기획 과정 및 관련 자료."
+      },
+      "en": "Classic RTS — project details, design contributions, and supporting material by Nayoung Lim.",
+      "ko": "Classic RTS (클래식 RTS) — 임나영의 프로젝트 소개, 기획 과정 및 관련 자료.",
+      "pages": [
+        "projects/classic-rts.html"
+      ]
+    },
+    {
+      "id": "cebc48f98ef503bff183",
+      "kind": "text",
+      "original": {
+        "en": "PROJECT / 02",
+        "ko": "프로젝트 / 02"
+      },
+      "en": "PROJECT / 02",
+      "ko": "프로젝트 / 02",
+      "pages": [
+        "projects/clockwork-nabi.html"
+      ]
+    },
+    {
+      "id": "5365cd83afe2fc73930a",
+      "kind": "text",
+      "original": {
+        "en": "September 2023–May 2023 (approximately nine months; dates as listed in the original portfolio)",
+        "ko": "2023/09 ~ 2023/05 (약 9개월)"
+      },
+      "en": "September 2023–May 2023 (approximately nine months; dates as listed in the original portfolio)",
+      "ko": "2023/09 ~ 2023/05 (약 9개월)",
+      "pages": [
+        "projects/clockwork-nabi.html"
+      ]
+    },
+    {
+      "id": "d21f810b04944d9d3f81",
+      "kind": "text",
+      "original": {
+        "en": "The original date range is reproduced above; the source describes a nine-month project.",
+        "ko": "원문의 기간 표기를 그대로 옮겼습니다. 원문에는 약 9개월간 진행한 프로젝트로 소개되어 있습니다."
+      },
+      "en": "The original date range is reproduced above; the source describes a nine-month project.",
+      "ko": "원문의 기간 표기를 그대로 옮겼습니다. 원문에는 약 9개월간 진행한 프로젝트로 소개되어 있습니다.",
+      "pages": [
+        "projects/clockwork-nabi.html"
+      ]
+    },
+    {
+      "id": "b6114e0c5255bb854bc1",
+      "kind": "text",
+      "original": {
+        "en": "Role: game designer & project manager",
+        "ko": "게임 기획자 & 프로젝트 매니저 역할 수행"
+      },
+      "en": "Role: game designer & project manager",
+      "ko": "게임 기획자 & 프로젝트 매니저 역할 수행",
+      "pages": [
+        "projects/clockwork-nabi.html"
+      ]
+    },
+    {
+      "id": "f2dfca867a4d3aa1f538",
+      "kind": "text",
+      "original": {
+        "en": "Clockwork Nabi",
+        "ko": "Clockwork Nabi"
+      },
+      "en": "Clockwork Nabi",
+      "ko": "Clockwork Nabi",
+      "pages": [
+        "projects/clockwork-nabi.html"
+      ]
+    },
+    {
+      "id": "9ac93a15c3fb482f92a2",
+      "kind": "text",
+      "original": {
+        "en": "Selected for HKU InnoWing’s student creativity and innovation support programme.",
+        "ko": "HKU 이노윙 학생 창의혁신 지원 사업 선정 프로젝트"
+      },
+      "en": "Selected for HKU InnoWing’s student creativity and innovation support programme.",
+      "ko": "HKU 이노윙 학생 창의혁신 지원 사업 선정 프로젝트",
+      "pages": [
+        "projects/clockwork-nabi.html"
+      ]
+    },
+    {
+      "id": "1145ed03ad41a22fc6b5",
+      "kind": "text",
+      "original": {
+        "en": "Selected for the 2024 Busan Indie Connect Festival",
+        "ko": "2024 부산 인디 커넥트 페스티벌 참가작"
+      },
+      "en": "Selected for the 2024 Busan Indie Connect Festival",
+      "ko": "2024 부산 인디 커넥트 페스티벌 참가작",
+      "pages": [
+        "projects/clockwork-nabi.html"
+      ]
+    },
+    {
+      "id": "c9314cda3245a93cecee",
+      "kind": "text",
+      "original": {
+        "en": "Game design: balance, systems, content, and narrative.",
+        "ko": "게임 디자이너 (밸런스, 시스템, 콘텐츠, 내러티브)"
+      },
+      "en": "Game design: balance, systems, content, and narrative.",
+      "ko": "게임 디자이너 (밸런스, 시스템, 콘텐츠, 내러티브)",
+      "pages": [
+        "projects/clockwork-nabi.html"
+      ]
+    },
+    {
+      "id": "3277cf7f83a512b93831",
+      "kind": "text",
+      "original": {
+        "en": "Led the creative vision for the artwork and worked closely with artists to realise the visual style.",
+        "ko": "아트워크의 창의적 비전을 총괄하여 아티스트와 긴밀히 협업, 시각적 스타일 구현"
+      },
+      "en": "Led the creative vision for the artwork and worked closely with artists to realise the visual style.",
+      "ko": "아트워크의 창의적 비전을 총괄하여 아티스트와 긴밀히 협업, 시각적 스타일 구현",
+      "pages": [
+        "projects/clockwork-nabi.html"
+      ]
+    },
+    {
+      "id": "fc0efb835e0ae3eda686",
+      "kind": "text",
+      "original": {
+        "en": "Managed remote and on-site teammates over nine months to deliver the project on time and to a high standard.",
+        "ko": "9개월에 걸쳐 원격 및 현장 팀원을 관리하며 고품질·기한 내 프로젝트 완수 보장"
+      },
+      "en": "Managed remote and on-site teammates over nine months to deliver the project on time and to a high standard.",
+      "ko": "9개월에 걸쳐 원격 및 현장 팀원을 관리하며 고품질·기한 내 프로젝트 완수 보장",
+      "pages": [
+        "projects/clockwork-nabi.html"
+      ]
+    },
+    {
+      "id": "b6c1753002dc8bbfcd80",
+      "kind": "rich-en",
+      "original": {
+        "en": "Genre: #Action #Roguevania #Roguelike",
+        "ko": ""
+      },
+      "en": "Genre: #Action #Roguevania #Roguelike",
+      "ko": "",
+      "pages": [
+        "projects/clockwork-nabi.html"
+      ]
+    },
+    {
+      "id": "e7a044274bdcc3176326",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "#로그배니아"
+      },
+      "en": "",
+      "ko": "#로그배니아",
+      "pages": [
+        "projects/clockwork-nabi.html"
+      ]
+    },
+    {
+      "id": "1f5511fbbe3f6abbaf5d",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "#로그라이크"
+      },
+      "en": "",
+      "ko": "#로그라이크",
+      "pages": [
+        "projects/clockwork-nabi.html"
+      ]
+    },
+    {
+      "id": "d4b9947e46bfe7e4b00c",
+      "kind": "text",
+      "original": {
+        "en": "Game overview:",
+        "ko": "간단한 게임 소개:"
+      },
+      "en": "Game overview:",
+      "ko": "간단한 게임 소개:",
+      "pages": [
+        "projects/clockwork-nabi.html",
+        "projects/mutant-lab.html"
+      ]
+    },
+    {
+      "id": "123ee0c2de83507e578d",
+      "kind": "rich-en",
+      "original": {
+        "en": "Clockwork Nabi is a single-player 2D platforming roguelite inspired by Hades and Dead Cells. You play the only clockwork butterfly who cannot fly.",
+        "ko": ""
+      },
+      "en": "Clockwork Nabi is a single-player 2D platforming roguelite inspired by Hades and Dead Cells. You play the only clockwork butterfly who cannot fly.",
+      "ko": "",
+      "pages": [
+        "projects/clockwork-nabi.html"
+      ]
+    },
+    {
+      "id": "6db366cb9f4d1259062e",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "Clockwork Nabi는 Hades와 Dead Cells에서 영감을 받은 싱글플레이어 2D 플랫폼 로그라이트입니다."
+      },
+      "en": "",
+      "ko": "Clockwork Nabi는 Hades와 Dead Cells에서 영감을 받은 싱글플레이어 2D 플랫폼 로그라이트입니다.",
+      "pages": [
+        "projects/clockwork-nabi.html"
+      ]
+    },
+    {
+      "id": "90e5eb421a9f43abe5bd",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "당신은 날 수 없는 유일한 시계장치 나비입니다."
+      },
+      "en": "",
+      "ko": "당신은 날 수 없는 유일한 시계장치 나비입니다.",
+      "pages": [
+        "projects/clockwork-nabi.html"
+      ]
+    },
+    {
+      "id": "cde22069b6ad2741f176",
+      "kind": "rich-en",
+      "original": {
+        "en": "To save the queen from the threats of nature, form pacts with ancient warriors and inherit their powers. Dash, fight, and evolve in a world where danger lies beyond every jump.",
+        "ko": ""
+      },
+      "en": "To save the queen from the threats of nature, form pacts with ancient warriors and inherit their powers. Dash, fight, and evolve in a world where danger lies beyond every jump.",
+      "ko": "",
+      "pages": [
+        "projects/clockwork-nabi.html"
+      ]
+    },
+    {
+      "id": "bdba5425ad43289cbd0c",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "여왕을 자연의 위협으로부터 구하기 위해 고대 전사들과 계약을 맺고 그들의 힘을 계승해야 합니다."
+      },
+      "en": "",
+      "ko": "여왕을 자연의 위협으로부터 구하기 위해 고대 전사들과 계약을 맺고 그들의 힘을 계승해야 합니다.",
+      "pages": [
+        "projects/clockwork-nabi.html"
+      ]
+    },
+    {
+      "id": "f590fb0cba946c23f073",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "한 번의 점프마다 위험이 도사리는 세상 속에서 대시하고, 싸우고, 진화하세요."
+      },
+      "en": "",
+      "ko": "한 번의 점프마다 위험이 도사리는 세상 속에서 대시하고, 싸우고, 진화하세요.",
+      "pages": [
+        "projects/clockwork-nabi.html"
+      ]
+    },
+    {
+      "id": "2d01483f19e345087d8a",
+      "kind": "text",
+      "original": {
+        "en": "Wizard Candy Maker",
+        "ko": "Wizard Candy Maker (위저드 캔디 메이커)"
+      },
+      "en": "Wizard Candy Maker",
+      "ko": "Wizard Candy Maker (위저드 캔디 메이커)",
+      "pages": [
+        "projects/clockwork-nabi.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "70a629d13846f4884771",
+      "kind": "title",
+      "original": {
+        "en": "Clockwork Nabi — Nayoung Lim",
+        "ko": "Clockwork Nabi (태엽 나비) — 임나영 포트폴리오"
+      },
+      "en": "Clockwork Nabi — Nayoung Lim",
+      "ko": "Clockwork Nabi (태엽 나비) — 임나영 포트폴리오",
+      "pages": [
+        "projects/clockwork-nabi.html"
+      ]
+    },
+    {
+      "id": "ce7ea5884c5f2f49189e",
+      "kind": "description",
+      "original": {
+        "en": "Clockwork Nabi — project details, design contributions, and supporting material by Nayoung Lim.",
+        "ko": "Clockwork Nabi (태엽 나비) — 임나영의 프로젝트 소개, 기획 과정 및 관련 자료."
+      },
+      "en": "Clockwork Nabi — project details, design contributions, and supporting material by Nayoung Lim.",
+      "ko": "Clockwork Nabi (태엽 나비) — 임나영의 프로젝트 소개, 기획 과정 및 관련 자료.",
+      "pages": [
+        "projects/clockwork-nabi.html"
+      ]
+    },
+    {
+      "id": "1f9479d62a3b36ca3d6b",
+      "kind": "text",
+      "original": {
+        "en": "PROJECT / 07",
+        "ko": "프로젝트 / 07"
+      },
+      "en": "PROJECT / 07",
+      "ko": "프로젝트 / 07",
+      "pages": [
+        "projects/flip-maze.html"
+      ]
+    },
+    {
+      "id": "b4d80820d2b76cb76dc2",
+      "kind": "text",
+      "original": {
+        "en": "Flip Maze",
+        "ko": "Flip Maze (플립 메이즈)"
+      },
+      "en": "Flip Maze",
+      "ko": "Flip Maze (플립 메이즈)",
+      "pages": [
+        "projects/flip-maze.html",
+        "projects/quench.html"
+      ]
+    },
+    {
+      "id": "ac61d26db43181d395ec",
+      "kind": "text",
+      "original": {
+        "en": "Flip Maze",
+        "ko": "Flip Maze"
+      },
+      "en": "Flip Maze",
+      "ko": "Flip Maze",
+      "pages": [
+        "projects/flip-maze.html"
+      ]
+    },
+    {
+      "id": "cda06f15326b349c4abd",
+      "kind": "text",
+      "original": {
+        "en": "Planned and designed the overall game systems.",
+        "ko": "전반적인 시스템 설계 기획"
+      },
+      "en": "Planned and designed the overall game systems.",
+      "ko": "전반적인 시스템 설계 기획",
+      "pages": [
+        "projects/flip-maze.html"
+      ]
+    },
+    {
+      "id": "89cfaec798f769263160",
+      "kind": "text",
+      "original": {
+        "en": "Implemented the game UI and enemy behaviour in Unity using C#.",
+        "ko": "Unity에서 C#을 사용하여 게임 UI 개발 및 적 behaviour 개발"
+      },
+      "en": "Implemented the game UI and enemy behaviour in Unity using C#.",
+      "ko": "Unity에서 C#을 사용하여 게임 UI 개발 및 적 behaviour 개발",
+      "pages": [
+        "projects/flip-maze.html"
+      ]
+    },
+    {
+      "id": "bb4637e6344a8a9392c6",
+      "kind": "rich-en",
+      "original": {
+        "en": "Genre: #3D #Casual #ObstacleDodging #Survival",
+        "ko": ""
+      },
+      "en": "Genre: #3D #Casual #ObstacleDodging #Survival",
+      "ko": "",
+      "pages": [
+        "projects/flip-maze.html"
+      ]
+    },
+    {
+      "id": "27d8b6c78dc1ed0cfe13",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "#3D"
+      },
+      "en": "",
+      "ko": "#3D",
+      "pages": [
+        "projects/flip-maze.html"
+      ]
+    },
+    {
+      "id": "b16d3d6e0b02a8e175f6",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "#캐주얼"
+      },
+      "en": "",
+      "ko": "#캐주얼",
+      "pages": [
+        "projects/flip-maze.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "49934e2083e7823cb401",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "#장애물 피하기"
+      },
+      "en": "",
+      "ko": "#장애물 피하기",
+      "pages": [
+        "projects/flip-maze.html"
+      ]
+    },
+    {
+      "id": "50eedb3cecc4c468e688",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "#오래 살아남기"
+      },
+      "en": "",
+      "ko": "#오래 살아남기",
+      "pages": [
+        "projects/flip-maze.html"
+      ]
+    },
+    {
+      "id": "3282c8e9db1f16c76ea3",
+      "kind": "text",
+      "original": {
+        "en": "A line that seems impossible to pass in a 2D view can be avoided by rotating your viewpoint to the side.",
+        "ko": "2D 화면에서 도저히 통과할 수 없을 것 같은 선도 시점을 옆으로 회전하면 피할 수 있습니다."
+      },
+      "en": "A line that seems impossible to pass in a 2D view can be avoided by rotating your viewpoint to the side.",
+      "ko": "2D 화면에서 도저히 통과할 수 없을 것 같은 선도 시점을 옆으로 회전하면 피할 수 있습니다.",
+      "pages": [
+        "projects/flip-maze.html"
+      ]
+    },
+    {
+      "id": "2bd1472acec3fd8bcc46",
+      "kind": "text",
+      "original": {
+        "en": "From above, it may even look like a dot.",
+        "ko": "위에서 보면 점처럼 보이기도 합니다."
+      },
+      "en": "From above, it may even look like a dot.",
+      "ko": "위에서 보면 점처럼 보이기도 합니다.",
+      "pages": [
+        "projects/flip-maze.html"
+      ]
+    },
+    {
+      "id": "89f4e107348d917ff717",
+      "kind": "text",
+      "original": {
+        "en": "Rotate the viewpoint in the right direction to avoid obstacles approaching from every side.",
+        "ko": "사방에서 다가오는 장애물을 피하려면 시점을 적절한 방향으로 회전해야 합니다."
+      },
+      "en": "Rotate the viewpoint in the right direction to avoid obstacles approaching from every side.",
+      "ko": "사방에서 다가오는 장애물을 피하려면 시점을 적절한 방향으로 회전해야 합니다.",
+      "pages": [
+        "projects/flip-maze.html"
+      ]
+    },
+    {
+      "id": "7ee0b2853f8843114454",
+      "kind": "title",
+      "original": {
+        "en": "Flip Maze — Nayoung Lim",
+        "ko": "Flip Maze (플립 메이즈) — 임나영 포트폴리오"
+      },
+      "en": "Flip Maze — Nayoung Lim",
+      "ko": "Flip Maze (플립 메이즈) — 임나영 포트폴리오",
+      "pages": [
+        "projects/flip-maze.html"
+      ]
+    },
+    {
+      "id": "58ac6e91c515de1fa398",
+      "kind": "description",
+      "original": {
+        "en": "Flip Maze — project details, design contributions, and supporting material by Nayoung Lim.",
+        "ko": "Flip Maze (플립 메이즈) — 임나영의 프로젝트 소개, 기획 과정 및 관련 자료."
+      },
+      "en": "Flip Maze — project details, design contributions, and supporting material by Nayoung Lim.",
+      "ko": "Flip Maze (플립 메이즈) — 임나영의 프로젝트 소개, 기획 과정 및 관련 자료.",
+      "pages": [
+        "projects/flip-maze.html"
+      ]
+    },
+    {
+      "id": "01deef0dc85839a9b869",
+      "kind": "text",
+      "original": {
+        "en": "PROJECT / 04",
+        "ko": "프로젝트 / 04"
+      },
+      "en": "PROJECT / 04",
+      "ko": "프로젝트 / 04",
+      "pages": [
+        "projects/mutant-lab.html"
+      ]
+    },
+    {
+      "id": "96ba2ce73d3a5f1c12f9",
+      "kind": "text",
+      "original": {
+        "en": "Mutant Lab",
+        "ko": "Mutant Lab (뮤턴트 랩)"
+      },
+      "en": "Mutant Lab",
+      "ko": "Mutant Lab (뮤턴트 랩)",
+      "pages": [
+        "projects/mutant-lab.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "8effae29ef137be895fb",
+      "kind": "text",
+      "original": {
+        "en": "6–8 August 2024 (48 hours)",
+        "ko": "2024/08/06 ~ 2024/08/08 (48시간)"
+      },
+      "en": "6–8 August 2024 (48 hours)",
+      "ko": "2024/08/06 ~ 2024/08/08 (48시간)",
+      "pages": [
+        "projects/mutant-lab.html"
+      ]
+    },
+    {
+      "id": "4f4299ba6548db83c35f",
+      "kind": "text",
+      "original": {
+        "en": "Role: game designer & artist",
+        "ko": "게임 기획자 & 아티스트 역할 수행"
+      },
+      "en": "Role: game designer & artist",
+      "ko": "게임 기획자 & 아티스트 역할 수행",
+      "pages": [
+        "projects/mutant-lab.html"
+      ]
+    },
+    {
+      "id": "23dc3b0b02980ac42bd6",
+      "kind": "text",
+      "original": {
+        "en": "MutantLab",
+        "ko": "MutantLab"
+      },
+      "en": "MutantLab",
+      "ko": "MutantLab",
+      "pages": [
+        "projects/mutant-lab.html"
+      ]
+    },
+    {
+      "id": "c67ee0753c5a1c466cbc",
+      "kind": "text",
+      "original": {
+        "en": "Designed comprehensive game systems to create balanced and engaging gameplay.",
+        "ko": "균형 있고 몰입감 있는 게임 플레이를 보장하기 위한 종합적인 게임 시스템 설계"
+      },
+      "en": "Designed comprehensive game systems to create balanced and engaging gameplay.",
+      "ko": "균형 있고 몰입감 있는 게임 플레이를 보장하기 위한 종합적인 게임 시스템 설계",
+      "pages": [
+        "projects/mutant-lab.html"
+      ]
+    },
+    {
+      "id": "0086195c64cd184347db",
+      "kind": "text",
+      "original": {
+        "en": "Created pixel artwork to establish the game’s distinctive visual style.",
+        "ko": "게임만의 독창적인 비주얼 스타일을 구축하기 위한 픽셀 아트워크 제작"
+      },
+      "en": "Created pixel artwork to establish the game’s distinctive visual style.",
+      "ko": "게임만의 독창적인 비주얼 스타일을 구축하기 위한 픽셀 아트워크 제작",
+      "pages": [
+        "projects/mutant-lab.html"
+      ]
+    },
+    {
+      "id": "3f0c8ad352b7e0be73c6",
+      "kind": "text",
+      "original": {
+        "en": "Ran MDA (Mechanics–Dynamics–Aesthetics) tests to gather player feedback.",
+        "ko": "플레이어 피드백 수집을 위한 MDA(메커닉·다이내믹·미학) 테스트 진행"
+      },
+      "en": "Ran MDA (Mechanics–Dynamics–Aesthetics) tests to gather player feedback.",
+      "ko": "플레이어 피드백 수집을 위한 MDA(메커닉·다이내믹·미학) 테스트 진행",
+      "pages": [
+        "projects/mutant-lab.html"
+      ]
+    },
+    {
+      "id": "a201fea2bc09fccbd589",
+      "kind": "text",
+      "original": {
+        "en": "Revised game systems, fixed bugs, and improved gameplay based on player insights.",
+        "ko": "플레이어 인사이트에 기반한 게임 시스템 수정, 버그 수정 및 게임플레이 개선"
+      },
+      "en": "Revised game systems, fixed bugs, and improved gameplay based on player insights.",
+      "ko": "플레이어 인사이트에 기반한 게임 시스템 수정, 버그 수정 및 게임플레이 개선",
+      "pages": [
+        "projects/mutant-lab.html"
+      ]
+    },
+    {
+      "id": "a88667a24c9a355d34f0",
+      "kind": "rich-en",
+      "original": {
+        "en": "Genre: #Shooter #Arcade #Memory #Observation",
+        "ko": ""
+      },
+      "en": "Genre: #Shooter #Arcade #Memory #Observation",
+      "ko": "",
+      "pages": [
+        "projects/mutant-lab.html"
+      ]
+    },
+    {
+      "id": "972ec3914fee946ebb34",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "#슈터"
+      },
+      "en": "",
+      "ko": "#슈터",
+      "pages": [
+        "projects/mutant-lab.html"
+      ]
+    },
+    {
+      "id": "4c02b21d93466837baec",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "#아케이드"
+      },
+      "en": "",
+      "ko": "#아케이드",
+      "pages": [
+        "projects/mutant-lab.html"
+      ]
+    },
+    {
+      "id": "83d40e0bdd3c74e98941",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "#기억력 테스트"
+      },
+      "en": "",
+      "ko": "#기억력 테스트",
+      "pages": [
+        "projects/mutant-lab.html"
+      ]
+    },
+    {
+      "id": "2af3ea538524bb646c47",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "#관찰력"
+      },
+      "en": "",
+      "ko": "#관찰력",
+      "pages": [
+        "projects/mutant-lab.html"
+      ]
+    },
+    {
+      "id": "76bc585fd9ce142c1cb0",
+      "kind": "text",
+      "original": {
+        "en": "Your job is quality assurance at a factory that produces and sells biological macro-organisms.",
+        "ko": "당신의 임무는 생체 매크로 유기체를 생산·판매하는 공장에서 QA(Quality Assurance, 품질 보증)를 수행하는 것입니다."
+      },
+      "en": "Your job is quality assurance at a factory that produces and sells biological macro-organisms.",
+      "ko": "당신의 임무는 생체 매크로 유기체를 생산·판매하는 공장에서 QA(Quality Assurance, 품질 보증)를 수행하는 것입니다.",
+      "pages": [
+        "projects/mutant-lab.html"
+      ]
+    },
+    {
+      "id": "f11f7e3ab22d0db78213",
+      "kind": "text",
+      "original": {
+        "en": "Sometimes these organisms mutate and become “WEIRD”!",
+        "ko": "때때로 문제의 유기체들이 돌연변이를 일으켜 ‘WEIRD’가 되기도 합니다!"
+      },
+      "en": "Sometimes these organisms mutate and become “WEIRD”!",
+      "ko": "때때로 문제의 유기체들이 돌연변이를 일으켜 ‘WEIRD’가 되기도 합니다!",
+      "pages": [
+        "projects/mutant-lab.html"
+      ]
+    },
+    {
+      "id": "330f78a8a0063efdb9cb",
+      "kind": "text",
+      "original": {
+        "en": "Put them through three experiments to identify abnormal specimens, then eliminate them before they escape the production line and reach customers.",
+        "ko": "이들을 세 번의 실험에 투입해 이상 개체를 식별하고, 생산 라인을 탈출해 고객에게 전달되기 전에 반드시 제거해야 합니다."
+      },
+      "en": "Put them through three experiments to identify abnormal specimens, then eliminate them before they escape the production line and reach customers.",
+      "ko": "이들을 세 번의 실험에 투입해 이상 개체를 식별하고, 생산 라인을 탈출해 고객에게 전달되기 전에 반드시 제거해야 합니다.",
+      "pages": [
+        "projects/mutant-lab.html"
+      ]
+    },
+    {
+      "id": "8ebf1692029ec963aa75",
+      "kind": "text",
+      "original": {
+        "en": "Protecting the laboratory’s reputation is your highest priority.",
+        "ko": "연구소의 명성을 지키는 것은 당신의 최우선 과제입니다."
+      },
+      "en": "Protecting the laboratory’s reputation is your highest priority.",
+      "ko": "연구소의 명성을 지키는 것은 당신의 최우선 과제입니다.",
+      "pages": [
+        "projects/mutant-lab.html"
+      ]
+    },
+    {
+      "id": "b495285e7dd9330059c5",
+      "kind": "title",
+      "original": {
+        "en": "Mutant Lab — Nayoung Lim",
+        "ko": "Mutant Lab (뮤턴트 랩) — 임나영 포트폴리오"
+      },
+      "en": "Mutant Lab — Nayoung Lim",
+      "ko": "Mutant Lab (뮤턴트 랩) — 임나영 포트폴리오",
+      "pages": [
+        "projects/mutant-lab.html"
+      ]
+    },
+    {
+      "id": "36aebe9e12d6b1579999",
+      "kind": "description",
+      "original": {
+        "en": "Mutant Lab — project details, design contributions, and supporting material by Nayoung Lim.",
+        "ko": "Mutant Lab (뮤턴트 랩) — 임나영의 프로젝트 소개, 기획 과정 및 관련 자료."
+      },
+      "en": "Mutant Lab — project details, design contributions, and supporting material by Nayoung Lim.",
+      "ko": "Mutant Lab (뮤턴트 랩) — 임나영의 프로젝트 소개, 기획 과정 및 관련 자료.",
+      "pages": [
+        "projects/mutant-lab.html"
+      ]
+    },
+    {
+      "id": "6f1e61cd2e111af613eb",
+      "kind": "text",
+      "original": {
+        "en": "PROJECT / 06",
+        "ko": "프로젝트 / 06"
+      },
+      "en": "PROJECT / 06",
+      "ko": "프로젝트 / 06",
+      "pages": [
+        "projects/quench.html"
+      ]
+    },
+    {
+      "id": "da61febd17c00cbfc8b3",
+      "kind": "text",
+      "original": {
+        "en": "13–20 August 2024 (one week)",
+        "ko": "2024/08/13 ~ 2024/08/20 (일주일)"
+      },
+      "en": "13–20 August 2024 (one week)",
+      "ko": "2024/08/13 ~ 2024/08/20 (일주일)",
+      "pages": [
+        "projects/quench.html"
+      ]
+    },
+    {
+      "id": "f75c5edc78bb47a7ed84",
+      "kind": "text",
+      "original": {
+        "en": "Role: game designer — level design",
+        "ko": "게임 기획자 - 레벨 디자이너 역할 수행"
+      },
+      "en": "Role: game designer — level design",
+      "ko": "게임 기획자 - 레벨 디자이너 역할 수행",
+      "pages": [
+        "projects/quench.html"
+      ]
+    },
+    {
+      "id": "6cf9710a6d5431aeadcd",
+      "kind": "text",
+      "original": {
+        "en": "Quench",
+        "ko": "Quench"
+      },
+      "en": "Quench",
+      "ko": "Quench",
+      "pages": [
+        "projects/quench.html"
+      ]
+    },
+    {
+      "id": "652a7992630c2a3ccbbf",
+      "kind": "text",
+      "original": {
+        "en": "Explored open-world level design with an emphasis on indirect player guidance and immersion.",
+        "ko": "간접적인 플레이어 가이던스와 몰입형 경험에 중점을 둔 오픈 월드 레벨 디자인 탐구"
+      },
+      "en": "Explored open-world level design with an emphasis on indirect player guidance and immersion.",
+      "ko": "간접적인 플레이어 가이던스와 몰입형 경험에 중점을 둔 오픈 월드 레벨 디자인 탐구",
+      "pages": [
+        "projects/quench.html"
+      ]
+    },
+    {
+      "id": "0a3a4060676d64a28c97",
+      "kind": "text",
+      "original": {
+        "en": "Created in-game artwork and designed levels.",
+        "ko": "인게임 아트워크 제작, 레벨 설계 수행"
+      },
+      "en": "Created in-game artwork and designed levels.",
+      "ko": "인게임 아트워크 제작, 레벨 설계 수행",
+      "pages": [
+        "projects/quench.html"
+      ]
+    },
+    {
+      "id": "d123995bc17692acf6af",
+      "kind": "text",
+      "original": {
+        "en": "Implemented cinematic elements, including visual effects and camera shake.",
+        "ko": "VFX 및 카메라 셰이크와 같은 시네마틱 요소 구현"
+      },
+      "en": "Implemented cinematic elements, including visual effects and camera shake.",
+      "ko": "VFX 및 카메라 셰이크와 같은 시네마틱 요소 구현",
+      "pages": [
+        "projects/quench.html"
+      ]
+    },
+    {
+      "id": "d2135554eba16eba9dc1",
+      "kind": "rich-en",
+      "original": {
+        "en": "Genre: #Adventure #Puzzle #TimeAttack",
+        "ko": ""
+      },
+      "en": "Genre: #Adventure #Puzzle #TimeAttack",
+      "ko": "",
+      "pages": [
+        "projects/quench.html"
+      ]
+    },
+    {
+      "id": "72a7b2764867c4194c73",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "#어드벤쳐"
+      },
+      "en": "",
+      "ko": "#어드벤쳐",
+      "pages": [
+        "projects/quench.html"
+      ]
+    },
+    {
+      "id": "c338de731c7c2b912405",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "#퍼즐"
+      },
+      "en": "",
+      "ko": "#퍼즐",
+      "pages": [
+        "projects/quench.html",
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "6fce280ba7a9c14dbae5",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "#타임 어택"
+      },
+      "en": "",
+      "ko": "#타임 어택",
+      "pages": [
+        "projects/quench.html"
+      ]
+    },
+    {
+      "id": "0156f6afc7646f97fa86",
+      "kind": "text",
+      "original": {
+        "en": "Quench is an adventure game inspired by Outer Wilds. Across repeated attempts, solve as many puzzles as possible before time runs out.",
+        "ko": "Quench는 Outer Wilds에서 영감을 받은 어드벤처 게임으로, 시간이 다하기 전에 가능한 한 많은 퍼즐을 반복해서 풀어야 합니다."
+      },
+      "en": "Quench is an adventure game inspired by Outer Wilds. Across repeated attempts, solve as many puzzles as possible before time runs out.",
+      "ko": "Quench는 Outer Wilds에서 영감을 받은 어드벤처 게임으로, 시간이 다하기 전에 가능한 한 많은 퍼즐을 반복해서 풀어야 합니다.",
+      "pages": [
+        "projects/quench.html"
+      ]
+    },
+    {
+      "id": "10311c1e7770b218b83e",
+      "kind": "text",
+      "original": {
+        "en": "You wake in a vast, mysterious desert—the place where your grandfather spent his life searching for a legendary jewel. Beneath the blazing sun, time is running out. Clues lie scattered among the dunes, hidden in the ruins and relics of a forgotten civilisation.",
+        "ko": "광활하고 신비로운 사막에서 눈을 뜹니다. 그곳은 바로 당신의 할아버지가 평생을 바치며 전설의 보석을 찾아 헤맸던 장소입니다. 내리쬐는 태양 아래, 시간은 촉박합니다. 사구 곳곳에는 잊힌 문명의 유적과 유물에 숨겨진 단서들이 흩어져 있습니다."
+      },
+      "en": "You wake in a vast, mysterious desert—the place where your grandfather spent his life searching for a legendary jewel. Beneath the blazing sun, time is running out. Clues lie scattered among the dunes, hidden in the ruins and relics of a forgotten civilisation.",
+      "ko": "광활하고 신비로운 사막에서 눈을 뜹니다. 그곳은 바로 당신의 할아버지가 평생을 바치며 전설의 보석을 찾아 헤맸던 장소입니다. 내리쬐는 태양 아래, 시간은 촉박합니다. 사구 곳곳에는 잊힌 문명의 유적과 유물에 숨겨진 단서들이 흩어져 있습니다.",
+      "pages": [
+        "projects/quench.html"
+      ]
+    },
+    {
+      "id": "cedabfea6b7ec2379eee",
+      "kind": "text",
+      "original": {
+        "en": "Can you uncover the truth, escape this endless cycle, and find the ancient treasure before everything resets?",
+        "ko": "과연 진실을 밝혀내고 이 끝나지 않는 순환에서 벗어나, 모든 것이 초기화되기 전에 고대의 보물을 찾아낼 수 있을까요?"
+      },
+      "en": "Can you uncover the truth, escape this endless cycle, and find the ancient treasure before everything resets?",
+      "ko": "과연 진실을 밝혀내고 이 끝나지 않는 순환에서 벗어나, 모든 것이 초기화되기 전에 고대의 보물을 찾아낼 수 있을까요?",
+      "pages": [
+        "projects/quench.html"
+      ]
+    },
+    {
+      "id": "a9a739dedd9a6e8d35ed",
+      "kind": "title",
+      "original": {
+        "en": "Quench — Nayoung Lim",
+        "ko": "Quench (퀜치) — 임나영 포트폴리오"
+      },
+      "en": "Quench — Nayoung Lim",
+      "ko": "Quench (퀜치) — 임나영 포트폴리오",
+      "pages": [
+        "projects/quench.html"
+      ]
+    },
+    {
+      "id": "d91298c499f77c6df0a2",
+      "kind": "description",
+      "original": {
+        "en": "Quench — project details, design contributions, and supporting material by Nayoung Lim.",
+        "ko": "Quench (퀜치) — 임나영의 프로젝트 소개, 기획 과정 및 관련 자료."
+      },
+      "en": "Quench — project details, design contributions, and supporting material by Nayoung Lim.",
+      "ko": "Quench (퀜치) — 임나영의 프로젝트 소개, 기획 과정 및 관련 자료.",
+      "pages": [
+        "projects/quench.html"
+      ]
+    },
+    {
+      "id": "99e27640bacd1227a592",
+      "kind": "text",
+      "original": {
+        "en": "GAME DESIGN CASE STUDY",
+        "ko": "게임 기획 사례"
+      },
+      "en": "GAME DESIGN CASE STUDY",
+      "ko": "게임 기획 사례",
+      "pages": [
+        "projects/skulls-pay-the-bills.html",
+        "projects/the-wand-atelier.html"
+      ]
+    },
+    {
+      "id": "12fd3e4cd52023a861d8",
+      "kind": "text",
+      "original": {
+        "en": "Duration / team",
+        "ko": "기간 / 인원"
+      },
+      "en": "Duration / team",
+      "ko": "기간 / 인원",
+      "pages": [
+        "projects/skulls-pay-the-bills.html",
+        "projects/the-wand-atelier.html"
+      ]
+    },
+    {
+      "id": "4af6357fc8f921ef1c18",
+      "kind": "text",
+      "original": {
+        "en": "My role",
+        "ko": "담당 역할"
+      },
+      "en": "My role",
+      "ko": "담당 역할",
+      "pages": [
+        "projects/skulls-pay-the-bills.html",
+        "projects/the-wand-atelier.html"
+      ]
+    },
+    {
+      "id": "4bfbd92a055820f8dabc",
+      "kind": "text",
+      "original": {
+        "en": "Game design, UI/UX, narrative, and schedule management",
+        "ko": "게임 기획, UI/UX, 내러티브, 일정 관리"
+      },
+      "en": "Game design, UI/UX, narrative, and schedule management",
+      "ko": "게임 기획, UI/UX, 내러티브, 일정 관리",
+      "pages": [
+        "projects/skulls-pay-the-bills.html"
+      ]
+    },
+    {
+      "id": "af04145c46ba6d706a82",
+      "kind": "text",
+      "original": {
+        "en": "The player experience",
+        "ko": "핵심 경험"
+      },
+      "en": "The player experience",
+      "ko": "핵심 경험",
+      "pages": [
+        "projects/skulls-pay-the-bills.html",
+        "projects/the-wand-atelier.html"
+      ]
+    },
+    {
+      "id": "4df83dc8e19547b882c8",
+      "kind": "text",
+      "original": {
+        "en": "Three layers, interlocking decisions",
+        "ko": "세 레이어가 만드는 선택"
+      },
+      "en": "Three layers, interlocking decisions",
+      "ko": "세 레이어가 만드는 선택",
+      "pages": [
+        "projects/skulls-pay-the-bills.html"
+      ]
+    },
+    {
+      "id": "a15aa78a7a6e3688f9b3",
+      "kind": "text",
+      "original": {
+        "en": "From a fixed answer to discovery",
+        "ko": "정답 배치에서 시너지 발견으로"
+      },
+      "en": "From a fixed answer to discovery",
+      "ko": "정답 배치에서 시너지 발견으로",
+      "pages": [
+        "projects/skulls-pay-the-bills.html"
+      ]
+    },
+    {
+      "id": "66f64011dcede35fc8dc",
+      "kind": "text",
+      "original": {
+        "en": "AI in the workflow",
+        "ko": "AI 활용"
+      },
+      "en": "AI in the workflow",
+      "ko": "AI 활용",
+      "pages": [
+        "projects/skulls-pay-the-bills.html"
+      ]
+    },
+    {
+      "id": "18d89529962923a07e44",
+      "kind": "text",
+      "original": {
+        "en": "Gameplay video",
+        "ko": "플레이 영상"
+      },
+      "en": "Gameplay video",
+      "ko": "플레이 영상",
+      "pages": [
+        "projects/skulls-pay-the-bills.html",
+        "projects/the-wand-atelier.html"
+      ]
+    },
+    {
+      "id": "fbf8bac0356d37419214",
+      "kind": "text",
+      "original": {
+        "en": "Choose monster parts for their synergies and assemble a servant that can exploit an enemy’s weaknesses. Face-building becomes a strategic decision rather than a cosmetic choice.",
+        "ko": "획득한 몬스터 파츠의 시너지를 고려해 적의 약점을 공략할 하수인을 설계합니다. 얼굴을 꾸미는 행위가 외형 선택을 넘어 전략적 판단이 되도록 기획했습니다."
+      },
+      "en": "Choose monster parts for their synergies and assemble a servant that can exploit an enemy’s weaknesses. Face-building becomes a strategic decision rather than a cosmetic choice.",
+      "ko": "획득한 몬스터 파츠의 시너지를 고려해 적의 약점을 공략할 하수인을 설계합니다. 얼굴을 꾸미는 행위가 외형 선택을 넘어 전략적 판단이 되도록 기획했습니다.",
+      "pages": [
+        "projects/skulls-pay-the-bills.html"
+      ]
+    },
+    {
+      "id": "abca7cebc9fa352504fa",
+      "kind": "text",
+      "original": {
+        "en": "Skin establishes the usable area. Facial features produce scores through placement and adjacency. Accessories carry emotion values that interact with enemy weaknesses. Each layer changes the value of the others.",
+        "ko": "피부는 배치 가능한 영역을 만들고, 이목구비는 위치와 인접 관계에 따라 점수를 만듭니다. 장신구는 적의 약점과 연결되는 감정 수치를 담당합니다. 각 레이어의 선택이 다른 레이어의 가치에 영향을 주도록 구성했습니다."
+      },
+      "en": "Skin establishes the usable area. Facial features produce scores through placement and adjacency. Accessories carry emotion values that interact with enemy weaknesses. Each layer changes the value of the others.",
+      "ko": "피부는 배치 가능한 영역을 만들고, 이목구비는 위치와 인접 관계에 따라 점수를 만듭니다. 장신구는 적의 약점과 연결되는 감정 수치를 담당합니다. 각 레이어의 선택이 다른 레이어의 가치에 영향을 주도록 구성했습니다.",
+      "pages": [
+        "projects/skulls-pay-the-bills.html"
+      ]
+    },
+    {
+      "id": "39ca9d285ba6daecb440",
+      "kind": "text",
+      "original": {
+        "en": "A fixed placement rule made assembly feel like copying an answer. A single-layer approach encouraged simply adding more strong parts. The three-layer design instead creates interactions between neighboring and overlapping parts.",
+        "ko": "정해진 위치에 파츠를 놓는 방식은 정답을 따라 하는 경험에 가까웠습니다. 단일 레이어에서는 좋은 파츠를 많이 붙이는 전략으로 수렴했습니다. 세 레이어를 도입해 위아래와 옆의 관계를 함께 고민하며 시너지를 발견하도록 바꿨습니다."
+      },
+      "en": "A fixed placement rule made assembly feel like copying an answer. A single-layer approach encouraged simply adding more strong parts. The three-layer design instead creates interactions between neighboring and overlapping parts.",
+      "ko": "정해진 위치에 파츠를 놓는 방식은 정답을 따라 하는 경험에 가까웠습니다. 단일 레이어에서는 좋은 파츠를 많이 붙이는 전략으로 수렴했습니다. 세 레이어를 도입해 위아래와 옆의 관계를 함께 고민하며 시너지를 발견하도록 바꿨습니다.",
+      "pages": [
+        "projects/skulls-pay-the-bills.html"
+      ]
+    },
+    {
+      "id": "a34fe6433a6694030bb2",
+      "kind": "text",
+      "original": {
+        "en": "AI supported implementation, art, sound, and planning. Gemini also generates enemy dialogue during play, connecting the production workflow with an in-game use of AI.",
+        "ko": "구현, 아트, 사운드, 기획 과정에 AI를 활용했습니다. 게임 안에서는 Gemini를 통해 적의 대사를 실시간으로 생성하도록 구성했습니다."
+      },
+      "en": "AI supported implementation, art, sound, and planning. Gemini also generates enemy dialogue during play, connecting the production workflow with an in-game use of AI.",
+      "ko": "구현, 아트, 사운드, 기획 과정에 AI를 활용했습니다. 게임 안에서는 Gemini를 통해 적의 대사를 실시간으로 생성하도록 구성했습니다.",
+      "pages": [
+        "projects/skulls-pay-the-bills.html"
+      ]
+    },
+    {
+      "id": "92b06e31bc72e78ab688",
+      "kind": "text",
+      "original": {
+        "en": "Play on itch.io ↗",
+        "ko": "itch.io에서 플레이하기 ↗"
+      },
+      "en": "Play on itch.io ↗",
+      "ko": "itch.io에서 플레이하기 ↗",
+      "pages": [
+        "projects/skulls-pay-the-bills.html"
+      ]
+    },
+    {
+      "id": "7b6d519fbafef823a010",
+      "kind": "title",
+      "original": {
+        "en": "Skulls Pay the Bills — Nayoung Lim",
+        "ko": "해골 꾸며서 먹고 삽니다 — 임나영"
+      },
+      "en": "Skulls Pay the Bills — Nayoung Lim",
+      "ko": "해골 꾸며서 먹고 삽니다 — 임나영",
+      "pages": [
+        "projects/skulls-pay-the-bills.html"
+      ]
+    },
+    {
+      "id": "5b2f1bc25a2a1adedbcb",
+      "kind": "text",
+      "original": {
+        "en": "Game design, systems, UI/UX, prompt design, and validation",
+        "ko": "게임 기획, 시스템, UI/UX, 프롬프트 설계 및 검증"
+      },
+      "en": "Game design, systems, UI/UX, prompt design, and validation",
+      "ko": "게임 기획, 시스템, UI/UX, 프롬프트 설계 및 검증",
+      "pages": [
+        "projects/the-wand-atelier.html"
+      ]
+    },
+    {
+      "id": "e4378f9c0adba542482e",
+      "kind": "text",
+      "original": {
+        "en": "Read, choose, create",
+        "ko": "읽기, 선택, 제작"
+      },
+      "en": "Read, choose, create",
+      "ko": "읽기, 선택, 제작",
+      "pages": [
+        "projects/the-wand-atelier.html"
+      ]
+    },
+    {
+      "id": "1cc5c45b7971be31cfb7",
+      "kind": "text",
+      "original": {
+        "en": "Generation as a game system",
+        "ko": "게임 시스템으로서의 생성"
+      },
+      "en": "Generation as a game system",
+      "ko": "게임 시스템으로서의 생성",
+      "pages": [
+        "projects/the-wand-atelier.html"
+      ]
+    },
+    {
+      "id": "73ecc42841bb39e40eeb",
+      "kind": "text",
+      "original": {
+        "en": "A solo development process",
+        "ko": "개인 개발 과정"
+      },
+      "en": "A solo development process",
+      "ko": "개인 개발 과정",
+      "pages": [
+        "projects/the-wand-atelier.html"
+      ]
+    },
+    {
+      "id": "db68a25d8af4d9a2e5a9",
+      "kind": "text",
+      "original": {
+        "en": "Become a wand artisan who interprets a customer’s intentions. Material choices express that interpretation, while anticipation of the finished wand gives each commission its rhythm.",
+        "ko": "지팡이 장인이 되어 손님의 의도를 추론합니다. 해석한 내용을 재료 선택으로 표현하고, 완성될 지팡이를 기대하는 경험을 중심으로 설계했습니다."
+      },
+      "en": "Become a wand artisan who interprets a customer’s intentions. Material choices express that interpretation, while anticipation of the finished wand gives each commission its rhythm.",
+      "ko": "지팡이 장인이 되어 손님의 의도를 추론합니다. 해석한 내용을 재료 선택으로 표현하고, 완성될 지팡이를 기대하는 경험을 중심으로 설계했습니다.",
+      "pages": [
+        "projects/the-wand-atelier.html"
+      ]
+    },
+    {
+      "id": "985590b86594c6bc0f3f",
+      "kind": "text",
+      "original": {
+        "en": "The core loop moves from reading a request to selecting materials and performing the crafting ritual. The resulting wand and its evaluation close the loop and give the player feedback on their choices.",
+        "ko": "의뢰를 읽고 재료를 선택한 뒤 제작 의식을 진행하는 흐름입니다. 완성된 지팡이와 평가를 통해 자신의 선택이 어떤 결과로 이어졌는지 확인하도록 구성했습니다."
+      },
+      "en": "The core loop moves from reading a request to selecting materials and performing the crafting ritual. The resulting wand and its evaluation close the loop and give the player feedback on their choices.",
+      "ko": "의뢰를 읽고 재료를 선택한 뒤 제작 의식을 진행하는 흐름입니다. 완성된 지팡이와 평가를 통해 자신의 선택이 어떤 결과로 이어졌는지 확인하도록 구성했습니다.",
+      "pages": [
+        "projects/the-wand-atelier.html"
+      ]
+    },
+    {
+      "id": "b7b78df692110eb0d76e",
+      "kind": "text",
+      "original": {
+        "en": "AI generates customers, materials, wands, and evaluations, including images during play. Prompt design and validation are part of shaping a coherent crafting experience.",
+        "ko": "손님, 재료, 지팡이, 평가와 게임 중 이미지를 AI로 생성합니다. 일관된 제작 경험을 만들기 위해 프롬프트 설계와 결과 검증을 기획 과정에 포함했습니다."
+      },
+      "en": "AI generates customers, materials, wands, and evaluations, including images during play. Prompt design and validation are part of shaping a coherent crafting experience.",
+      "ko": "손님, 재료, 지팡이, 평가와 게임 중 이미지를 AI로 생성합니다. 일관된 제작 경험을 만들기 위해 프롬프트 설계와 결과 검증을 기획 과정에 포함했습니다.",
+      "pages": [
+        "projects/the-wand-atelier.html"
+      ]
+    },
+    {
+      "id": "0ab7c9b8e135c47a5bcc",
+      "kind": "text",
+      "original": {
+        "en": "Over eight weeks, I worked across game design, systems, UI/UX, and AI prompts. The portfolio documents experiments with output diversity, models, response time, and optimization.",
+        "ko": "8주간 게임 기획, 시스템, UI/UX, AI 프롬프트를 함께 다뤘습니다. 생성 결과의 다양성, 모델 선택, 응답 시간과 최적화를 검토한 과정을 포트폴리오에 정리했습니다."
+      },
+      "en": "Over eight weeks, I worked across game design, systems, UI/UX, and AI prompts. The portfolio documents experiments with output diversity, models, response time, and optimization.",
+      "ko": "8주간 게임 기획, 시스템, UI/UX, AI 프롬프트를 함께 다뤘습니다. 생성 결과의 다양성, 모델 선택, 응답 시간과 최적화를 검토한 과정을 포트폴리오에 정리했습니다.",
+      "pages": [
+        "projects/the-wand-atelier.html"
+      ]
+    },
+    {
+      "id": "89471400cd9781da7856",
+      "kind": "title",
+      "original": {
+        "en": "The Wand Atelier — Nayoung Lim",
+        "ko": "완드 아틀리에 — 임나영"
+      },
+      "en": "The Wand Atelier — Nayoung Lim",
+      "ko": "완드 아틀리에 — 임나영",
+      "pages": [
+        "projects/the-wand-atelier.html"
+      ]
+    },
+    {
+      "id": "b50d9267f2852f61911c",
+      "kind": "text",
+      "original": {
+        "en": "PROJECT / 03",
+        "ko": "프로젝트 / 03"
+      },
+      "en": "PROJECT / 03",
+      "ko": "프로젝트 / 03",
+      "pages": [
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "434e5ca69a8e9aa39ec7",
+      "kind": "text",
+      "original": {
+        "en": "2025/10/10 ~ 2025/10/20",
+        "ko": "2025/10/10 ~ 2025/10/20"
+      },
+      "en": "2025/10/10 ~ 2025/10/20",
+      "ko": "2025/10/10 ~ 2025/10/20",
+      "pages": [
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "6f6646be263851e1d6c2",
+      "kind": "text",
+      "original": {
+        "en": "Wizard Candy Maker",
+        "ko": "Wizard Candy Maker"
+      },
+      "en": "Wizard Candy Maker",
+      "ko": "Wizard Candy Maker",
+      "pages": [
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "c0a98bd6e780de2c651d",
+      "kind": "rich-en",
+      "original": {
+        "en": "As the lead designer and Unity C# programmer on a two-person team, I designed and implemented the complete gameplay loop.",
+        "ko": ""
+      },
+      "en": "As the lead designer and Unity C# programmer on a two-person team, I designed and implemented the complete gameplay loop.",
+      "ko": "",
+      "pages": [
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "92b7f6a4ecba191d60e4",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "2인 개발 팀에서"
+      },
+      "en": "",
+      "ko": "2인 개발 팀에서",
+      "pages": [
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "8a14a7bfb74f86a7388a",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "핵심 기획자 & Unity C# 프로그래머"
+      },
+      "en": "",
+      "ko": "핵심 기획자 & Unity C# 프로그래머",
+      "pages": [
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "9abfa41e245946e70444",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "로 참여하여 전체 게임 플레이 루프를 설계 및 구현"
+      },
+      "en": "",
+      "ko": "로 참여하여 전체 게임 플레이 루프를 설계 및 구현",
+      "pages": [
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "63ba66fd946fdc406dcc",
+      "kind": "rich-en",
+      "original": {
+        "en": "Designed the core systems—including magical recipes, candy-making minigames, and customer orders and waiting—and iterated from prototypes through balancing.",
+        "ko": ""
+      },
+      "en": "Designed the core systems—including magical recipes, candy-making minigames, and customer orders and waiting—and iterated from prototypes through balancing.",
+      "ko": "",
+      "pages": [
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "0a514f44f0362604185c",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "마법 레시피, 캔디 제작 미니게임, 손님 주문/대기 시스템 등"
+      },
+      "en": "",
+      "ko": "마법 레시피, 캔디 제작 미니게임, 손님 주문/대기 시스템 등",
+      "pages": [
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "48c1ce189ddaaaca54f7",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "핵심 시스템 전반을 직접 기획하고 프로토타입–밸런싱까지 반복 개선"
+      },
+      "en": "",
+      "ko": "핵심 시스템 전반을 직접 기획하고 프로토타입–밸런싱까지 반복 개선",
+      "pages": [
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "5589512511fc776a6a18",
+      "kind": "text",
+      "original": {
+        "en": "Reinforced the “wizard confectioner” concept through effects, animation timing, and sound triggers tailored to the available art and audio assets.",
+        "ko": "“마법사 제과사”라는 콘셉트를 살리기 위해 아트·사운드 리소스를 고려한 연출(이펙트, 애니메이션 타이밍, 사운드 트리거링)을 적용"
+      },
+      "en": "Reinforced the “wizard confectioner” concept through effects, animation timing, and sound triggers tailored to the available art and audio assets.",
+      "ko": "“마법사 제과사”라는 콘셉트를 살리기 위해 아트·사운드 리소스를 고려한 연출(이펙트, 애니메이션 타이밍, 사운드 트리거링)을 적용",
+      "pages": [
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "2fdae3c6e9b25b0d10f5",
+      "kind": "rich-en",
+      "original": {
+        "en": "Genre: #TimeManagement #Management #Puzzle #Minigames #Casual #Halloween",
+        "ko": ""
+      },
+      "en": "Genre: #TimeManagement #Management #Puzzle #Minigames #Casual #Halloween",
+      "ko": "",
+      "pages": [
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "cfd61e5c728a020fa4bf",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "#타임매니지먼트"
+      },
+      "en": "",
+      "ko": "#타임매니지먼트",
+      "pages": [
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "4efb2d8df63761f754d0",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "#경영"
+      },
+      "en": "",
+      "ko": "#경영",
+      "pages": [
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "0aadbcdcf51a7839d2ca",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "#미니게임"
+      },
+      "en": "",
+      "ko": "#미니게임",
+      "pages": [
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "9e296bd57498ffce7a35",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "#할로윈테마"
+      },
+      "en": "",
+      "ko": "#할로윈테마",
+      "pages": [
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "fd1ff6f1fcb53f8e238a",
+      "kind": "rich-en",
+      "original": {
+        "en": "On Halloween night, you become a wizard confectioner running a magical candy workshop.",
+        "ko": ""
+      },
+      "en": "On Halloween night, you become a wizard confectioner running a magical candy workshop.",
+      "ko": "",
+      "pages": [
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "7c9331780b360459efd5",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "플레이어는 할로윈 밤, 마법사이자 제과사가 되어"
+      },
+      "en": "",
+      "ko": "플레이어는 할로윈 밤, 마법사이자 제과사가 되어",
+      "pages": [
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "7e7e5da8b71d232c057f",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "마법 캔디 공방을 운영하는 주인공"
+      },
+      "en": "",
+      "ko": "마법 캔디 공방을 운영하는 주인공",
+      "pages": [
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "72e8db6415ddac6dc073",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "이 됩니다."
+      },
+      "en": "",
+      "ko": "이 됩니다.",
+      "pages": [
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "b23079da9c1b18c47990",
+      "kind": "text",
+      "original": {
+        "en": "Your goal is to understand each customer’s wishes and make exactly the right candy.",
+        "ko": "손님들의 욕망을 파악하고, 이에 맞는 캔디를 정확하게 만들어 내는 것이 목표입니다."
+      },
+      "en": "Your goal is to understand each customer’s wishes and make exactly the right candy.",
+      "ko": "손님들의 욕망을 파악하고, 이에 맞는 캔디를 정확하게 만들어 내는 것이 목표입니다.",
+      "pages": [
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "85f46e79a5997261e210",
+      "kind": "rich-en",
+      "original": {
+        "en": "Make candy through minigames that involve mixing and boiling magical ingredients according to a recipe.",
+        "ko": ""
+      },
+      "en": "Make candy through minigames that involve mixing and boiling magical ingredients according to a recipe.",
+      "ko": "",
+      "pages": [
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "4397a9b9f2703d9c39d5",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "마법 재료를"
+      },
+      "en": "",
+      "ko": "마법 재료를",
+      "pages": [
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "a1df25b7a3d258b50258",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "정해진 레시피에 맞춰 섞고 끓이는 미니게임"
+      },
+      "en": "",
+      "ko": "정해진 레시피에 맞춰 섞고 끓이는 미니게임",
+      "pages": [
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "54b97850998eded756a2",
+      "kind": "rich-ko",
+      "original": {
+        "en": "",
+        "ko": "을 통해 캔디를 제작합니다."
+      },
+      "en": "",
+      "ko": "을 통해 캔디를 제작합니다.",
+      "pages": [
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "e3ef6657761b59fe2a73",
+      "kind": "title",
+      "original": {
+        "en": "Wizard Candy Maker — Nayoung Lim",
+        "ko": "Wizard Candy Maker (위저드 캔디 메이커) — 임나영 포트폴리오"
+      },
+      "en": "Wizard Candy Maker — Nayoung Lim",
+      "ko": "Wizard Candy Maker (위저드 캔디 메이커) — 임나영 포트폴리오",
+      "pages": [
+        "projects/wizard-candy-maker.html"
+      ]
+    },
+    {
+      "id": "102e4eca260e0d4a7004",
+      "kind": "description",
+      "original": {
+        "en": "Wizard Candy Maker — project details, design contributions, and supporting material by Nayoung Lim.",
+        "ko": "Wizard Candy Maker (위저드 캔디 메이커) — 임나영의 프로젝트 소개, 기획 과정 및 관련 자료."
+      },
+      "en": "Wizard Candy Maker — project details, design contributions, and supporting material by Nayoung Lim.",
+      "ko": "Wizard Candy Maker (위저드 캔디 메이커) — 임나영의 프로젝트 소개, 기획 과정 및 관련 자료.",
+      "pages": [
+        "projects/wizard-candy-maker.html"
+      ]
+    }
+  ]
+}

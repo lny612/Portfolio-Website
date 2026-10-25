@@ -15,7 +15,7 @@ const token=randomBytes(32).toString('hex');
 const catalogFile=path.join(root,'content/site-copy.json');
 const revision=s=>createHash('sha256').update(s).digest('hex');
 const readCatalog=async()=>{const raw=await readFile(catalogFile,'utf8');return {catalog:JSON.parse(raw),revision:revision(raw)};};
-const language=await readFile('language.js','utf8');const translations=vm.runInNewContext(language.split('const textEntries')[0]+'\nkorean');
+async function currentTranslations(){const language=await readFile('language.js','utf8');return vm.runInNewContext(language.split('const textEntries')[0]+'\nkorean');}
 let preview=null,busy=false,requestActive=false,job={state:'idle',message:''};
 function fail(message,status=400){throw Object.assign(new Error(message),{status});}
 export function mergeEdits(catalog,edits){
@@ -85,7 +85,7 @@ const server=http.createServer(async(req,res)=>{
   if(url.pathname.startsWith('/preview/')){
    const relative=decodeURIComponent(url.pathname.slice(9))||'index.html';
    const target=path.resolve(root,relative);if(!target.startsWith(root+path.sep)||!(/^(index\.html|projects\.html|projects\/[a-z0-9-]+\.html|assets\/[a-zA-Z0-9/_.-]+|(?:style|project)\.css|(?:app|language|project)\.js)$/.test(relative)))fail('파일을 찾을 수 없습니다.',404);
-   let data=await readFile(target);if(relative.endsWith('.html')){const catalog=structuredClone(preview||(await readCatalog()).catalog);data=transform(data.toString(),relative,translations,catalog);}
+   let data=await readFile(target);if(relative.endsWith('.html')){const catalog=structuredClone(preview||(await readCatalog()).catalog);data=transform(data.toString(),relative,await currentTranslations(),catalog);}
    res.setHeader('Content-Type',({'.html':'text/html; charset=utf-8','.js':'text/javascript; charset=utf-8','.css':'text/css','.svg':'image/svg+xml','.png':'image/png','.jpg':'image/jpeg'})[path.extname(target)]||'application/octet-stream');return res.end(data);
   }
   const routes={'/':'index.html','/admin.js':'admin.js','/admin.css':'admin.css'};const file=routes[url.pathname];if(!file)fail('파일을 찾을 수 없습니다.',404);

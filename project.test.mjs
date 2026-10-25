@@ -53,7 +53,7 @@ test('gallery includes all nine games, bilingual additions, and excludes retired
  for(const slug of ['darkest-dungeon','darkest-dungeon-analysis'])assert.ok(!existsSync(`dist/projects/${slug}.html`));
  for(const slug of added){const html=readFileSync(`dist/projects/${slug}.html`,'utf8');assert.ok(html.includes('class="locale-en"'));assert.ok(html.includes('class="locale-ko"'));assert.ok(html.includes('../language.js'));}
  const home=readFileSync('dist/index.html','utf8');
- assert.equal((home.match(/class="timeline-item reveal"/g)||[]).length,3);
+ assert.equal((home.match(/class="timeline-item reveal"/g)||[]).length,4);
  assert.ok(home.includes('href="projects.html"'));
  assert.ok(!/PORTFOLIO \/ 2026|IDEA → PROTOTYPE → PLAY|From the first prototype/.test(home));
 });
